@@ -1,0 +1,229 @@
+{
+  "expedition_id": "23-kyoto",
+  "title": "京都古刹巡礼 ―― 枯山水庭园与禅宗空间",
+  "op_author": "见素建筑文献组",
+  "total_floors": 20,
+  "op_floors": 20,
+  "reply_floors": 0,
+  "total_images": 19,
+  "floors": [
+    {
+      "floor": 1,
+      "author": "见素建筑文献组",
+      "role": "文献整理",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [],
+      "content": "<p><strong>日本园林 ―― 枯山水庭园与禅意空间巡礼</strong></p>\n<p><em>建筑师空间考察档案 · 见素数字化保存</em></p>\n<p>本辑文献聚焦日本京都等地经典枯山水（Karesansui）庭园与寺院空间。从龙安寺的石庭白砂、大德寺大仙院的立石山水，到东福寺本坊庭园的方格青苔，通过极简的白砂、景石、青苔与框景步道，凝结了东方建筑学人对“无中生有、咫尺万里”的精神空间探索。</p>"
+    },
+    {
+      "floor": 2,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/0-0-200498225345.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/0-0-200498225345.jpg\" class=\"abbs-post-photo\" alt=\"龙安寺方丈庭园 · 白砂与十五尊景石\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">龙安寺方丈庭园 · 白砂与十五尊景石</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">世界文化遗产龙安寺的方丈石庭，无论从哪个角度凝视，十五块景石总有一块被遮挡，喻示禅宗的未满与克制。</p>"
+    },
+    {
+      "floor": 3,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/0-1-200498225345.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/0-1-200498225345.jpg\" class=\"abbs-post-photo\" alt=\"大仙院枯山水 · 峡谷与瀑布石组\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">大仙院枯山水 · 峡谷与瀑布石组</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以纵向竖立的峻拔景石模拟崇山峻岭与飞瀑流泉，白砂波纹象征急流奔腾。</p>"
+    },
+    {
+      "floor": 4,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1-0-200498225345.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1-0-200498225345.jpg\" class=\"abbs-post-photo\" alt=\"瑞峰院波涛砂纹 · 怒涛翻滚的动态凝固\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">瑞峰院波涛砂纹 · 怒涛翻滚的动态凝固</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以高低起伏的白砂堆叠象征怒涛翻滚的大海，景石宛若激浪中的仙岛。</p>"
+    },
+    {
+      "floor": 5,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1-1-200498225345.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1-1-200498225345.jpg\" class=\"abbs-post-photo\" alt=\"东福寺方丈北庭 · 棋盘市松青苔格\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">东福寺方丈北庭 · 棋盘市松青苔格</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">重森三玲现代枯山水代表作，正方形石块与青苔交错递减，展现传统与现代主义网格的诗意结合。</p>"
+    },
+    {
+      "floor": 6,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225345.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225345.jpg\" class=\"abbs-post-photo\" alt=\"圆光寺十牛之庭 · 框景与红枫倒影\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">圆光寺十牛之庭 · 框景与红枫倒影</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以书院木柱与纸障门构成的自然取景框，借远方洛北群山为背景。</p>"
+    },
+    {
+      "floor": 7,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225413.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225413.jpg\" class=\"abbs-post-photo\" alt=\"天龙寺曹源池庭园 · 梦窗疏石的回游式构图\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">天龙寺曹源池庭园 · 梦窗疏石的回游式构图</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">日本最早被指定的国家史迹特别名胜，池泉回游与枯山水石组相映成趣。</p>"
+    },
+    {
+      "floor": 8,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225434.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225434.jpg\" class=\"abbs-post-photo\" alt=\"龙安寺方丈庭园 · 白砂与十五尊景石\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">龙安寺方丈庭园 · 白砂与十五尊景石</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">世界文化遗产龙安寺的方丈石庭，无论从哪个角度凝视，十五块景石总有一块被遮挡，喻示禅宗的未满与克制。</p>"
+    },
+    {
+      "floor": 9,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225457.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225457.jpg\" class=\"abbs-post-photo\" alt=\"大仙院枯山水 · 峡谷与瀑布石组\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">大仙院枯山水 · 峡谷与瀑布石组</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以纵向竖立的峻拔景石模拟崇山峻岭与飞瀑流泉，白砂波纹象征急流奔腾。</p>"
+    },
+    {
+      "floor": 10,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225520.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225520.jpg\" class=\"abbs-post-photo\" alt=\"瑞峰院波涛砂纹 · 怒涛翻滚的动态凝固\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">瑞峰院波涛砂纹 · 怒涛翻滚的动态凝固</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以高低起伏的白砂堆叠象征怒涛翻滚的大海，景石宛若激浪中的仙岛。</p>"
+    },
+    {
+      "floor": 11,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225558.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225558.jpg\" class=\"abbs-post-photo\" alt=\"东福寺方丈北庭 · 棋盘市松青苔格\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">东福寺方丈北庭 · 棋盘市松青苔格</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">重森三玲现代枯山水代表作，正方形石块与青苔交错递减，展现传统与现代主义网格的诗意结合。</p>"
+    },
+    {
+      "floor": 12,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225617.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225617.jpg\" class=\"abbs-post-photo\" alt=\"圆光寺十牛之庭 · 框景与红枫倒影\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">圆光寺十牛之庭 · 框景与红枫倒影</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以书院木柱与纸障门构成的自然取景框，借远方洛北群山为背景。</p>"
+    },
+    {
+      "floor": 13,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/200498225653.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/200498225653.jpg\" class=\"abbs-post-photo\" alt=\"天龙寺曹源池庭园 · 梦窗疏石的回游式构图\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">天龙寺曹源池庭园 · 梦窗疏石的回游式构图</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">日本最早被指定的国家史迹特别名胜，池泉回游与枯山水石组相映成趣。</p>"
+    },
+    {
+      "floor": 14,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/20051117161739.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/20051117161739.jpg\" class=\"abbs-post-photo\" alt=\"龙安寺方丈庭园 · 白砂与十五尊景石\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">龙安寺方丈庭园 · 白砂与十五尊景石</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">世界文化遗产龙安寺的方丈石庭，无论从哪个角度凝视，十五块景石总有一块被遮挡，喻示禅宗的未满与克制。</p>"
+    },
+    {
+      "floor": 15,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/20051117161830.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/20051117161830.jpg\" class=\"abbs-post-photo\" alt=\"大仙院枯山水 · 峡谷与瀑布石组\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">大仙院枯山水 · 峡谷与瀑布石组</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以纵向竖立的峻拔景石模拟崇山峻岭与飞瀑流泉，白砂波纹象征急流奔腾。</p>"
+    },
+    {
+      "floor": 16,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/20051117161925.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/20051117161925.jpg\" class=\"abbs-post-photo\" alt=\"瑞峰院波涛砂纹 · 怒涛翻滚的动态凝固\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">瑞峰院波涛砂纹 · 怒涛翻滚的动态凝固</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以高低起伏的白砂堆叠象征怒涛翻滚的大海，景石宛若激浪中的仙岛。</p>"
+    },
+    {
+      "floor": 17,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/20051117162018.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/20051117162018.jpg\" class=\"abbs-post-photo\" alt=\"东福寺方丈北庭 · 棋盘市松青苔格\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">东福寺方丈北庭 · 棋盘市松青苔格</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">重森三玲现代枯山水代表作，正方形石块与青苔交错递减，展现传统与现代主义网格的诗意结合。</p>"
+    },
+    {
+      "floor": 18,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/20051117162140.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/20051117162140.jpg\" class=\"abbs-post-photo\" alt=\"圆光寺十牛之庭 · 框景与红枫倒影\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">圆光寺十牛之庭 · 框景与红枫倒影</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">以书院木柱与纸障门构成的自然取景框，借远方洛北群山为背景。</p>"
+    },
+    {
+      "floor": 19,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/20051117162816.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/20051117162816.jpg\" class=\"abbs-post-photo\" alt=\"天龙寺曹源池庭园 · 梦窗疏石的回游式构图\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">天龙寺曹源池庭园 · 梦窗疏石的回游式构图</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">日本最早被指定的国家史迹特别名胜，池泉回游与枯山水石组相映成趣。</p>"
+    },
+    {
+      "floor": 20,
+      "author": "建筑考察学者",
+      "role": "实地考察",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/20051117162921.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/20051117162921.jpg\" class=\"abbs-post-photo\" alt=\"龙安寺方丈庭园 · 白砂与十五尊景石\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">龙安寺方丈庭园 · 白砂与十五尊景石</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">世界文化遗产龙安寺的方丈石庭，无论从哪个角度凝视，十五块景石总有一块被遮挡，喻示禅宗的未满与克制。</p>"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "expedition_id": "12-palestine",
+  "title": "华美画卷 ―― 百年前的圣地巴勒斯坦",
+  "op_author": "Gus Lubin",
+  "total_floors": 25,
+  "op_floors": 25,
+  "reply_floors": 0,
+  "total_images": 24,
+  "floors": [
+    {
+      "floor": 1,
+      "author": "Gus Lubin / 见素归档整理",
+      "role": "文献整理",
+      "time": "1890–1900 / 2012",
+      "is_op": true,
+      "images": [],
+      "content": "<p><strong>华美画卷 ―― 呈现一百二十年前的圣地巴勒斯坦</strong></p>\n<p><em>Gus Lubin | Library of Congress (美国国会图书馆馆藏影印石版画珍档)</em></p>\n<p>由美国国会图书馆提供的珍贵图画将带我们进行一次时光穿梭之旅，回到 1890 至 1900 年间奥斯曼帝国统治下的圣地巴勒斯坦（Holy Land）。</p>\n<p>那个时代的圣地包括现代的以色列、巴勒斯坦地区、黎巴嫩及周边疆土，呈现出一片静穆、田园牧歌般的历史图景。这批影像采用 19 世纪末尖端的影印石版画（Photochrom）技术制作，通过在黑白底片上分层手工添加矿物色彩制版，纤毫毕现地记录下百余年前中东大地的市井百态、建筑遗存与旷野地景。</p>"
+    },
+    {
+      "floor": 2,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote.jpg\" class=\"abbs-post-photo\" alt=\"一位在耶路撒冷外的巡游鞋匠 (An itinerant shoemaker outside Jerusalem)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">一位在耶路撒冷外的巡游鞋匠 (An itinerant shoemaker outside Jerusalem)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">1890年代的巴勒斯坦工匠在城门外为行人修补皮鞋。</p>"
+    },
+    {
+      "floor": 3,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__1_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__1_.jpg\" class=\"abbs-post-photo\" alt=\"大马士革门前的商贸驼队 (Damascus Gate, Jerusalem)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">大马士革门前的商贸驼队 (Damascus Gate, Jerusalem)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">耶路撒冷老城北面最壮观的城门大马士革门，城门前聚集着阿拉伯商队与骆驼。</p>"
+    },
+    {
+      "floor": 4,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__10_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__10_.jpg\" class=\"abbs-post-photo\" alt=\"雅法门与老城集市 (Jaffa Gate Bazaar)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">雅法门与老城集市 (Jaffa Gate Bazaar)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">连接地中海港口雅法的交通要道，城门口摆满陶罐、蔬果与羊毛织物。</p>"
+    },
+    {
+      "floor": 5,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__11_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__11_.jpg\" class=\"abbs-post-photo\" alt=\"橄榄山远眺圣殿山 (Mount of Olives & Temple Mount)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">橄榄山远眺圣殿山 (Mount of Olives & Temple Mount)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">从橄榄山向西俯瞰阿克萨与圆顶清真寺，百年前的耶路撒冷天际线纯净肃穆。</p>"
+    },
+    {
+      "floor": 6,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__12_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__12_.jpg\" class=\"abbs-post-photo\" alt=\"客西马尼园的古橄榄树 (Garden of Gethsemane)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">客西马尼园的古橄榄树 (Garden of Gethsemane)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传说中耶稣祈祷之处，千年古橄榄树在石墙掩映下枝繁叶茂。</p>"
+    },
+    {
+      "floor": 7,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__13_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__13_.jpg\" class=\"abbs-post-photo\" alt=\"汲沦谷与先知墓群 (Kidron Valley Tombs)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">汲沦谷与先知墓群 (Kidron Valley Tombs)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">谷地中古老的犹太人与阿拉伯人古墓群，岩石构造与干涸河道。</p>"
+    },
+    {
+      "floor": 8,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__14_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__14_.jpg\" class=\"abbs-post-photo\" alt=\"圣墓教堂入口前的朝圣者 (Church of the Holy Sepulchre)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">圣墓教堂入口前的朝圣者 (Church of the Holy Sepulchre)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">基督教世界最神圣的朝圣地之一，石阶上身着传统服饰的各派修士。</p>"
+    },
+    {
+      "floor": 9,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__15_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__15_.jpg\" class=\"abbs-post-photo\" alt=\"苦路第六站：韦罗妮卡圣面堂 (Via Dolorosa)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">苦路第六站：韦罗妮卡圣面堂 (Via Dolorosa)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">曲折狭窄的石板古巷，阳光倾泻在拱廊与拜占庭式拱门上。</p>"
+    },
+    {
+      "floor": 10,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__16_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__16_.jpg\" class=\"abbs-post-photo\" alt=\"伯利恒主诞堂内景 (Church of the Nativity, Bethlehem)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">伯利恒主诞堂内景 (Church of the Nativity, Bethlehem)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">建于公元四世纪的巴西利卡式石柱大厅，吊灯与马赛克地砖。</p>"
+    },
+    {
+      "floor": 11,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__17_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__17_.jpg\" class=\"abbs-post-photo\" alt=\"希伯伦麦比拉洞列祖之墓 (Cave of the Patriarchs, Hebron)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">希伯伦麦比拉洞列祖之墓 (Cave of the Patriarchs, Hebron)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">亚伯拉罕及其后代安息之圣地，希律王时期巨石砌筑的巍峨墙体。</p>"
+    },
+    {
+      "floor": 12,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__18_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__18_.jpg\" class=\"abbs-post-photo\" alt=\"拿撒勒圣母领报堂远眺 (Nazareth)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">拿撒勒圣母领报堂远眺 (Nazareth)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">加利利山区的白色石屋聚落，层层叠叠掩映在仙人掌与橄榄树间。</p>"
+    },
+    {
+      "floor": 13,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__19_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__19_.jpg\" class=\"abbs-post-photo\" alt=\"加利利海畔的古老渔舟 (Sea of Galilee)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">加利利海畔的古老渔舟 (Sea of Galilee)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">渔民在平静的湖泊中撒网，远方是戈兰高地的苍茫轮廓。</p>"
+    },
+    {
+      "floor": 14,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__2_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__2_.jpg\" class=\"abbs-post-photo\" alt=\"约旦河畔的洗礼圣地 (Jordan River Baptism Site)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">约旦河畔的洗礼圣地 (Jordan River Baptism Site)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">郁郁葱葱的柽柳与芦苇丛中，朝圣者在约旦河圣水中受洗。</p>"
+    },
+    {
+      "floor": 15,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__20_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__20_.jpg\" class=\"abbs-post-photo\" alt=\"杰里科绿洲与以利沙泉 (Jericho Oasis)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">杰里科绿洲与以利沙泉 (Jericho Oasis)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">世界上最古老的定居城市之一，棕榈树掩映的沙漠绿洲水渠。</p>"
+    },
+    {
+      "floor": 16,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__21_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__21_.jpg\" class=\"abbs-post-photo\" alt=\"死海西岸的盐结晶与旷野 (Dead Sea Coast)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">死海西岸的盐结晶与旷野 (Dead Sea Coast)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">世界上最低的湖泊，蓝绿色水面与岸边纯白盐华。</p>"
+    },
+    {
+      "floor": 17,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__22_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__22_.jpg\" class=\"abbs-post-photo\" alt=\"雅法古港的柑橘装运 (Port of Jaffa)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">雅法古港的柑橘装运 (Port of Jaffa)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">地中海畔拥有四千年历史的古老港口，木制驳船穿梭于礁石之间。</p>"
+    },
+    {
+      "floor": 18,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__23_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__23_.jpg\" class=\"abbs-post-photo\" alt=\"贝鲁特海滨大道与鸽子岩 (Beirut Coast & Raouche Rocks)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">贝鲁特海滨大道与鸽子岩 (Beirut Coast & Raouche Rocks)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">黎凡特海岸上的繁华商埠，地中海碧波拍打着白垩纪石灰岩巨礁。</p>"
+    },
+    {
+      "floor": 19,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__3_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__3_.jpg\" class=\"abbs-post-photo\" alt=\"巴尔贝克朱庇特神庙巨柱 (Ruins of Baalbek)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">巴尔贝克朱庇特神庙巨柱 (Ruins of Baalbek)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">罗马帝国最宏伟的宗教建筑群，六根高达22米的科林斯巨柱屹立在贝卡谷地。</p>"
+    },
+    {
+      "floor": 20,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__4_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__4_.jpg\" class=\"abbs-post-photo\" alt=\"大马士革倭马亚大清真寺庭院 (Umayyad Mosque, Damascus)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">大马士革倭马亚大清真寺庭院 (Umayyad Mosque, Damascus)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">伊斯兰世界早期最伟大的建筑杰作之一，马赛克连拱廊与珍宝阁。</p>"
+    },
+    {
+      "floor": 21,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__5_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__5_.jpg\" class=\"abbs-post-photo\" alt=\"西奈山圣凯瑟琳修道院 (Saint Catherine's Monastery, Mount Sinai)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西奈山圣凯瑟琳修道院 (Saint Catherine's Monastery, Mount Sinai)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">查士丁尼一世建于公元六世纪的花岗岩要塞修道院，藏有世界上最古老的圣像画。</p>"
+    },
+    {
+      "floor": 22,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__6_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__6_.jpg\" class=\"abbs-post-photo\" alt=\"一位在耶路撒冷外的巡游鞋匠 (An itinerant shoemaker outside Jerusalem)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">一位在耶路撒冷外的巡游鞋匠 (An itinerant shoemaker outside Jerusalem)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">1890年代的巴勒斯坦工匠在城门外为行人修补皮鞋。</p>"
+    },
+    {
+      "floor": 23,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__7_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__7_.jpg\" class=\"abbs-post-photo\" alt=\"大马士革门前的商贸驼队 (Damascus Gate, Jerusalem)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">大马士革门前的商贸驼队 (Damascus Gate, Jerusalem)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">耶路撒冷老城北面最壮观的城门大马士革门，城门前聚集着阿拉伯商队与骆驼。</p>"
+    },
+    {
+      "floor": 24,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__8_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__8_.jpg\" class=\"abbs-post-photo\" alt=\"雅法门与老城集市 (Jaffa Gate Bazaar)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">雅法门与老城集市 (Jaffa Gate Bazaar)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">连接地中海港口雅法的交通要道，城门口摆满陶罐、蔬果与羊毛织物。</p>"
+    },
+    {
+      "floor": 25,
+      "author": "Gus Lubin / Library of Congress",
+      "role": "历史原版摄影师",
+      "time": "1890–1900",
+      "is_op": true,
+      "images": [
+        "images/Evernote__9_.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/Evernote__9_.jpg\" class=\"abbs-post-photo\" alt=\"橄榄山远眺圣殿山 (Mount of Olives & Temple Mount)\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">橄榄山远眺圣殿山 (Mount of Olives & Temple Mount)</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">从橄榄山向西俯瞰阿克萨与圆顶清真寺，百年前的耶路撒冷天际线纯净肃穆。</p>"
+    }
+  ]
+}

@@ -1,0 +1,1445 @@
+{
+  "expedition_id": "10-europe-camphor",
+  "title": "樟木的欧洲空间记",
+  "op_author": "樟木",
+  "total_floors": 125,
+  "op_floors": 20,
+  "reply_floors": 105,
+  "total_images": 211,
+  "floors": [
+    {
+      "floor": 1,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-03-30 22:58",
+      "is_op": true,
+      "images": [
+        "images/{0B4CE403-5F11-43E9-9437-BFCA6FB1018E}.jpg",
+        "images/{0501FA79-0FCA-427B-9DEB-092D4011FA70}.jpg",
+        "images/{F9166E64-974D-4D00-BBD9-22FF65C80576}.jpg",
+        "images/{6AFA3067-0025-47B6-9D3C-C3AAA19EB488}.jpg",
+        "images/{2B8D88DC-3F7C-47CE-A143-6D72EDE7D89E}.jpg",
+        "images/{A16A7523-53A4-494C-BE60-2546E9655653}.jpg",
+        "images/{CA1DCCCF-1D85-4E9C-9295-5A35068D7D7A}.jpg",
+        "images/{7DDC384A-BE98-41E9-A3ED-E9FC61B16633}.jpg",
+        "images/{FDC81755-AC12-4B08-AE5C-AD55D043C3D9}.jpg",
+        "images/{06764348-8134-4F2D-982E-AD40567378B1}.jpg",
+        "images/{A1EC8107-A5F6-4E60-9843-157099CD0D27}.jpg",
+        "images/{BA989AE5-55DD-4C3D-9CB7-4F50E26509FC}.jpg",
+        "images/{A86B0B2A-9071-4A7D-8F5C-D8034C4C618C}.jpg",
+        "images/{1B8FFBB5-37CF-4A70-A9AC-DF49B0C71369}.jpg",
+        "images/{DF4A81F8-4EC3-43B8-9484-12F837B30636}.jpg",
+        "images/{1962F129-0C85-4F83-8DD3-5DD19233B042}.jpg",
+        "images/{CA3756C8-1D5E-4E03-BF20-FC697D640ACF}.jpg",
+        "images/{F07ECBBA-17B3-45BF-8ABD-430A4A75F2E0}.jpg",
+        "images/{77FB3AF6-C7B7-492A-B799-F60BA194DF8B}.jpg",
+        "images/{FE648731-8107-4923-8948-A6EC15976FD6}.jpg",
+        "images/{3E952F92-6BAA-40C6-B4B4-DEF9857B6779}.jpg",
+        "images/{CFBBE687-5762-4559-BBA0-5ECE56B7DE1F}.jpg",
+        "images/{9D9A7B87-403C-40B0-AA7B-01667BA113A8}.jpg",
+        "images/{BCCF2152-4263-4AA7-AAF1-73C45A3F68A1}.jpg",
+        "images/{E5054724-FFAD-40C2-BBDC-0401D3B4CAA1}.jpg",
+        "images/{DDEF65A2-B769-4FD2-85E1-9EB2AE9D341C}.jpg",
+        "images/{D319AD0E-6397-48EB-85F8-681E62F483EB}.jpg",
+        "images/{D60116EC-6D1B-49E9-9E77-2073CADDD9C7}.jpg",
+        "images/{7AD53B82-0E1A-4EB9-A722-9B43BC18A3A3}.jpg",
+        "images/{2068D8EA-5947-491E-AA69-DC4EDBFAF4A8}.jpg",
+        "images/{69ED3892-8BCF-48D9-B1B2-34185CD606EC}.jpg",
+        "images/{C3535DDB-8BEB-40D3-B134-161EDAB59FC7}.jpg",
+        "images/{94BB1AE5-9896-4F28-9ED8-EE069D5F3C12}.jpg",
+        "images/{844D4A7A-2CF0-45BA-BEEB-88D951BC564F}.jpg",
+        "images/{1EB114B9-DE75-4870-9922-4D2416501D56}.jpg",
+        "images/{498423F0-ED52-4AEE-AD2B-BA24D3055660}.jpg",
+        "images/{4EB354FB-E19B-49EE-BE12-CDDCDFA69620}.jpg",
+        "images/{1AEE812D-68E7-410F-B371-6B0C55152513}.jpg",
+        "images/{22FEC383-29FF-4F41-816B-41DAD72AE97C}.jpg",
+        "images/{E61D562E-D59F-498D-946E-26FF6C8CB514}.jpg",
+        "images/{2F631E68-F6E5-406E-8D92-B09D4D1A6CEE}.jpg",
+        "images/{B49A6273-71D5-40F0-8B97-8D4D1011F49E}.jpg",
+        "images/{C6E9EA37-E245-40BF-8EF3-119610CC5F94}.jpg",
+        "images/{1F4AAC3D-94B3-42BC-B804-2C68A93068EF}.jpg",
+        "images/{AE85F8D4-7536-472C-8E0D-3CBE5C04141F}.jpg",
+        "images/{E6EBD25F-0DDE-4748-8833-DFAEBF1FC020}.jpg",
+        "images/{79B96248-4402-4C05-BA49-5CEBC55F326B}.jpg",
+        "images/{6D1FDF17-CDE5-42B2-BB1D-69E7A7A32F18}.jpg",
+        "images/{1BA2F9C2-B2A5-432E-84A0-3FBB2FB6E7AE}.jpg",
+        "images/{D7D6B71B-21A6-4732-80EE-13099925A1A8}.jpg",
+        "images/{B293B248-DD55-495A-B845-69499699BE73}.jpg",
+        "images/{FB7F5F3C-BDC2-4E08-B8B8-F26EE6B1B84F}.jpg",
+        "images/{2C30B2C8-C71D-4DB6-AF85-8EB379A39678}.jpg",
+        "images/{F87FD2FD-A29B-428F-A407-B7B73050B600}.jpg",
+        "images/{6E84F38B-5471-493E-9D08-231810BF9F4B}.jpg",
+        "images/{AECEB249-0E75-4D69-ACF7-5EFE1781CCE1}.jpg",
+        "images/{28E0487F-8E00-416C-BE44-B6D0544B7203}.jpg",
+        "images/{D26989C6-9ACA-42C4-8E58-B245B1B5ED19}.jpg",
+        "images/{4781D044-2D28-4A2A-B9E3-CC6BD6FBFB3F}.jpg",
+        "images/{422CA63D-2609-4979-A097-DFCF07FDC005}.jpg",
+        "images/{D46DE2EB-176D-4590-A016-D72094E60736}.jpg",
+        "images/{34BDEE14-21AA-46D1-9138-4FA69A04393F}.jpg",
+        "images/{A0B1460D-98A0-4B5C-835E-9A2D1D35824F}.jpg",
+        "images/{B4C5708E-ECE5-4234-897F-A86EEB388737}.jpg",
+        "images/{517959B6-0A23-4729-A4D5-2579B47FDA56}.jpg",
+        "images/{D45310FF-77DE-472A-A065-B8AB9F046327}.jpg",
+        "images/{C36BC0DD-59F5-4307-B36E-ADCC5972C8CB}.jpg",
+        "images/{52413226-10BA-4AA5-A506-EB8A4AEDD29F}.jpg",
+        "images/{DC5A0EA6-2526-47B2-9D35-6D538B850A39}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5558610><FONT class=topic><div class=\"abbs-post-photo-wrap\"><img src=\"images/{0B4CE403-5F11-43E9-9437-BFCA6FB1018E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><U><B><FONT color=#ff0000>D1</FONT> 04/02 Shanghai – \n      Paris – \n      Madrid</U><BR><BR>午夜出发的飞机，清晨到达Paris的戴高乐机场。<BR><BR>等待转机的我还没从临行前连续熬夜工作的疲劳中恢复过来。<BR><BR>7：00了，外面天还黑着，呵呵，制度的差异真是巨大。最初确定法国时区的那哥们一定很懂得享受睡眠的乐趣，其实也不奇怪：路易十四都是在寝宫里办公、接见大臣的；普鲁斯特在床上躺了十五年写出了《追忆似水年华》；名画《马拉之死》怎么看都觉得象是泡在浴室里睡着了……<BR><BR>扯远了。</B><BR><BR>……<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{0501FA79-0FCA-427B-9DEB-092D4011FA70}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>C.D.G.,Paris \n      7：00了，外面天还黑着<BR><BR><B>再次看到阳光是在Madrid，正午。<BR><BR>Madrid是一个乏味的城市，街上人们行色匆匆，地铁里的警察个个严肃紧张，我的背囊离我两米远就围上来三个CT，哪儿有那么笨的T啊？</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F9166E64-974D-4D00-BBD9-22FF65C80576}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>我对西班牙的知识其实甚少，不迷足球，懒得逛美术馆，（这个可怜的家伙来Madrid干嘛？）所知与西班牙有关的只是阿莫多瓦的电影，和《唐·吉珂德》– \n      还是动画版的。<BR><BR>不过Plaza de \n      Espana（西班牙广场）上的唐·吉珂德铜像与我想象中的西班牙相去甚远。<BR><BR>看来还得继续走。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6AFA3067-0025-47B6-9D3C-C3AAA19EB488}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{2B8D88DC-3F7C-47CE-A143-6D72EDE7D89E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>我个人还是比较喜欢这胖子<BR><BR><B>今天最大的收获是在麦当劳，第一次知道Big \n      Mac原来真的是那么Big，当我席卷了两个Big \n      Mac、一杯奶昔和一大盆鸡肉Salad以后，终于明白了，为什么我们的恩格尔系数要比人家的高。<BR><BR><U><FONT \n      color=#ff0000>D2</FONT> 05/02 Madrid – Sevilla – \n      Granada</U><BR><BR>Madrid有两个火车站，城北的叫Chamartin，北方及国际列车基本到达个车站；城南的叫Atocha，2003年火车站连环爆炸案就发生在这里，往Sevilla去的AVE从这里发车。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A16A7523-53A4-494C-BE60-2546E9655653}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Atocha Renfe,Madrid（转自www.spaceimaging.com）<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{CA1DCCCF-1D85-4E9C-9295-5A35068D7D7A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Atocha \n      Renfe,Madrid<BR><BR><B>值得一提的是，西班牙人管火车/站叫Renfe，那是舌头一连串灵活滚动后发出的音节，我等万不能模仿。<BR><BR>……<BR><BR>Sevilla，安达卢西亚省的首府，麦哲伦从此出发开始了环球航行，大航海时代的Sevilla曾经经历过辉煌；92年世界博览会在此举行，Madrid \n      – Sevilla的高速铁路AVE就是那时候修建的。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7DDC384A-BE98-41E9-A3ED-E9FC61B16633}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Sevilla Renfe &amp; AVE \n      <BR><BR><B>说到塞维利亚，我就觉得我的头发该修理了，（这个问题困扰着我其后的旅程直到Genoa）不过我们在这儿只有四个小时，应该珍惜时间。<BR><BR>从Sevilla开始，我才真正进入了西班牙。蓝天下耀眼的红瓦，白墙上跳动的影子，温暖的阳光。满街硕果累累的橘子树 \n      – 这是个温馨的城市。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{FDC81755-AC12-4B08-AE5C-AD55D043C3D9}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{06764348-8134-4F2D-982E-AD40567378B1}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A1EC8107-A5F6-4E60-9843-157099CD0D27}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BA989AE5-55DD-4C3D-9CB7-4F50E26509FC}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A86B0B2A-9071-4A7D-8F5C-D8034C4C618C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>明媚的Sevilla<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1B8FFBB5-37CF-4A70-A9AC-DF49B0C71369}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{DF4A81F8-4EC3-43B8-9484-12F837B30636}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>这是我想象中的西班牙吗？ <BR><BR><B>在旧时的犹太人聚居区Santa \n      Cruz，我们享用了整个旅程中最价廉物美的一顿午餐，我们的英语和法语使我们如愿吃到了想要的菜。对于MM们来说，英俊的侍者可能是更重要的，不过当走过其后的数家餐馆之后，一定会出现审美疲劳的症状– \n      “都长得那么帅！”<BR><BR>黄昏，我们坐上了开往Granada的火车，这是一个只有两节车厢的慢车，除了沿途上下的老乡外，只有我们几个背包游客。窗外是夕阳下的安达卢西亚原野，和不时闪过的白色小镇，这才是唐·吉珂德应该出现的地方。<BR><BR>原产地的橙子真便宜啊！</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1962F129-0C85-4F83-8DD3-5DD19233B042}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>开往Granada的火车<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{CA3756C8-1D5E-4E03-BF20-FC697D640ACF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>原产地的橙子真便宜啊！ \n      <BR><BR><B>火车20:56到达Granada，关于这个内地偏远的小镇，关于辉煌的Alhambra宫，也许不是一夜之间说得完的，还是就着明天的照片接着介绍吧。<BR><BR>在这里，我要严重声讨“穷游欧洲”上的某位DX的误导，当我们深夜背着背囊到达此DX游记中推荐的山顶Hostal，完全失望而别无选择，哪里有鸟瞰城市灯火的房间？哪里有能仰望星空的天台？算了，将就住下，也不枉我们千里迢迢背的睡袋。唯善可陈，是离Alhambra宫门较近，明早方便。<BR><BR><FONT \n      color=#ff0000>D3</FONT> 06/02 Alhambra, Granada – Barcelona<BR><BR><FONT \n      color=#ff0000>“世上没有比生在格兰纳达却是个瞎子更悲惨的遭遇了。”</FONT><BR><BR>西班牙的魅力也许在于它多元的文化，这要从伊比利亚半岛的历史说起，也许更应该从欧洲的历史说起。<BR><BR>标志着古代文明的希腊和罗马帝国灭亡以后，欧洲进入了“黑暗的中世纪”，而阿拉伯帝国逐渐强大起来，征服了地中海周边地域。八世纪初，信奉伊斯兰教的摩尔人开始了对西班牙的统治（唐代，我们称其为“白衣大食”）。这是穆罕默德征服的最远的省份，征服者对犹太人是宽容而尊重的，阿拉伯文明、犹太文明与基督教文明交流的成果在西班牙得到了体现。<BR><BR>这一时期，摩尔人在伊比利亚半岛创造了灿烂的文明和繁华，但这是以科尔多瓦（Cordoba） \n      – 位于Sevilla和Granada之间的另一个迷人的城市 – \n      为中心的黄金时代。直到后期，逐渐强大的基督徒开始了十字军的扩张，也在西班牙发动了反伊斯兰教并铲除犹太人的光复运动。<BR><BR>摩尔人的帝国终于衰落了，直到十三世纪退缩到Granada，建立了Nasrid王朝，这已是摩尔人在西班牙大陆的最后堡垒了。<BR><BR>在这250年的苟安统治时期，摩尔人与犹太人使Granada获得了一种回光返照般的奇特的繁荣，阿尔罕布拉就是在此时期修建的。1492年，费尔南多和伊莎贝拉兵临城下，末代幼主波亚狄尔（Boabdil）交出了钥匙，以示投降。至此，西班牙的伊斯兰时代结束了。<BR><BR>“当波亚狄尔转身向闪烁着昔日光彩的格兰纳达投下最后一瞥时，他的母后申斥他：‘你象个女人般地流泪，正因为如此，你没有象男子汉那样守住城池。’”</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F07ECBBA-17B3-45BF-8ABD-430A4A75F2E0}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>严格地来说，Alhambra并不是一座宫殿，而是依山势而建的一个建筑群，包括Nasrid \n      -皇家宫殿，Alcazaba - 军事要塞和Generalife - \n      夏宫。万能的互联网预定使我们不用排队就得以首先进入参观，天才刚亮，我们将有整整一天时间浸泡在Alhambra的辉煌中。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{77FB3AF6-C7B7-492A-B799-F60BA194DF8B}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>铜铸的Alhambra模型 \n      <BR><BR><B>Alcazaba雄踞半山，俯瞰整个Granada城市，右手方山下是犹太人聚居区Albaicin。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{FE648731-8107-4923-8948-A6EC15976FD6}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>再坚固的堡垒也抵挡不住文明的衰败 <BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3E952F92-6BAA-40C6-B4B4-DEF9857B6779}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>山下是犹太人聚居区Albaicin，玻璃上的蚀刻图案是阿尔罕布拉的标志 \n      <BR><BR><B>Nasrid包括了皇家礼仪及皇室成员生活的一系列宫殿、庭院，层层进进，曲折迂回，而每进一门必是一处胜景。我的眼前总是幻化出后宫妃嫔们的曼妙身姿 \n      - 这必将是我们旅程中最神奇的一天。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{CFBBE687-5762-4559-BBA0-5ECE56B7DE1F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{9D9A7B87-403C-40B0-AA7B-01667BA113A8}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>我的眼前总是幻化出后宫妃嫔们的曼妙身姿<BR><BR><B>阿拉伯人对内院和回廊的热衷在这里结合了罗马式的输水系统，造就了一个个静谧而生机盎然的庭院，罗马人大概想不到他们的农业灌溉技术成为了Alhambra美丽的精髓。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BCCF2152-4263-4AA7-AAF1-73C45A3F68A1}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>著名的香桃木宫（Patio de log Arrayanes）<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{E5054724-FFAD-40C2-BBDC-0401D3B4CAA1}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>著名的香桃木宫（Patio de log Arrayanes）<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{DDEF65A2-B769-4FD2-85E1-9EB2AE9D341C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>狮子宫（Patio de los Leones）<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D319AD0E-6397-48EB-85F8-681E62F483EB}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>狮子宫（Patio de los Leones）<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D60116EC-6D1B-49E9-9E77-2073CADDD9C7}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>伊斯兰教严禁出现偶像的形象，所以变幻的文字和自然界的花草成为了主要的装饰元素。这样的装饰风格在Alhambra则愈发纤弱、柔靡（难怪我的眼前舞动的全是阿拉伯舞娘的肚皮）。浸淫在这样的情调中，怎能指望那个孱弱的幼主保卫城池？还是去吟诗作画，舞风弄月罢了。<BR><BR>“小楼昨夜又东风，故国不堪回首月明中”，酸！ \n      <BR><BR>不过考虑到阿人的语言音乐性大大逊色于其文字图案性，此宫中上演的应该更多的是世俗欢乐而非风雅文字。<BR><BR>……<BR><BR>又扯远了。<BR><BR>其实任何一种文明的末落时期大抵如此吧。<BR><BR>不过即便如此，还是不得不惊叹那些巧夺天工的雕琢带给我们的享受。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7AD53B82-0E1A-4EB9-A722-9B43BC18A3A3}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{2068D8EA-5947-491E-AA69-DC4EDBFAF4A8}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>Nasrid也有基督徒留下的印记，那是占领Alhambra拆除原有的建筑后建造的宫殿，代表了另一种审美情趣，宗教的影响力实在巨大。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{69ED3892-8BCF-48D9-B1B2-34185CD606EC}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C3535DDB-8BEB-40D3-B134-161EDAB59FC7}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 基督徒留下的印记 <BR><BR><B>Generalife, \n      夏宫,位于后山上。已近午后，游人渐渐地多了起来，温暖的阳光下，喷泉的水声，游客的惊叹声在郁郁葱葱的各色植物中弥漫，竟有了一种夏日的感觉。<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{94BB1AE5-9896-4F28-9ED8-EE069D5F3C12}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{844D4A7A-2CF0-45BA-BEEB-88D951BC564F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>据书上介绍：谣传波亚狄尔的王妃曾在此与情人幽会，“这花园美得实在容易诱人越轨。”</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1EB114B9-DE75-4870-9922-4D2416501D56}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>前国王幽会处<BR><BR><B>带着一天的兴奋之后的疲倦，今晚，我们将乘坐穿越南部平原的夜火车，去往伟大的巴塞罗那Barcelona</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{498423F0-ED52-4AEE-AD2B-BA24D3055660}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Granada到Barcelona的夜火车<BR><BR><U><B><FONT color=#ff0000>D4</FONT> \n      07/02 \n      Barcelona</B></U><BR><BR><B>清晨经过瓦伦西亚Valencia以后，火车就开始沿着地中海“航行”了，右手边就是湛蓝湛蓝的海水，和不时经过的童话般的海滨小站。这样的铁路线将带着我们旅行，一直到达意大利的热那亚Genoa。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{4EB354FB-E19B-49EE-BE12-CDDCDFA69620}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>童话般的海滨小站<BR><BR><B>巴塞罗那Barcelona的神奇从我们在Sants火车站下车就开始了，我们还在谈论着“穷游欧洲”上著名的那个“美国大哥”的时候，一声英语打断了我们，<BR><BR>“R \n      U looking for a hostal \n      ?”<BR><BR>……<BR><BR>他接下去说的什么我们基本没听进去，只知道看着他傻乐。传说中的“美国大哥”果然声名远播，一会儿就集合了五个乐呵呵的中外背包客，前往Hostal \n      Eden — \n      伊甸园旅馆！<BR><BR>旅馆真不错，地处繁华市中心的Rambla大街附近，还有一个漂亮的前台MM！Barcelona一开始就给我留下了美好印象。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1AEE812D-68E7-410F-B371-6B0C55152513}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Hostal Eden地处繁华市中心<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{22FEC383-29FF-4F41-816B-41DAD72AE97C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>漂亮的前台MM<BR><BR><B>活泼而有序，理性而浪漫，这些互相矛盾的形容词一起用于Barcelona一点也不矛盾。这也许就是加泰罗尼亚Catalunya愿意殊异于西班牙其他地区的原因。熙攘的街头竟有老人在安然写生，地铁线路图被画成心脏的形状，两米来宽的庭院都拾掇得有模有样，还有Barcelona的市场，那里有世界上最具有形式美感的菜农！<BR><BR>（我们在其后的旅程中都要到当地的菜场考察，再没见过如此景致。）</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{E61D562E-D59F-498D-946E-26FF6C8CB514}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 街头写生的老人<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{2F631E68-F6E5-406E-8D92-B09D4D1A6CEE}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Barcelona地铁线路图<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B49A6273-71D5-40F0-8B97-8D4D1011F49E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>两米来宽的庭院都拾掇得有模有样<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C6E9EA37-E245-40BF-8EF3-119610CC5F94}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><B><FONT color=#ff0000>世界上最具有形式美感的菜市场</FONT><BR><BR>兰布拉大街La \n      Rambla是Barcelona最热闹的大街，这是一条两边各单车道，中央步行的景观大道。花市、行为艺人、鸽子、摆摊的画家、和穿行于其间的兴高采烈的我们，使每天的La \n      Rambla都充满了活力。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1F4AAC3D-94B3-42BC-B804-2C68A93068EF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>入夜的La Rambla<BR><BR><B>La Rambla终止于威尔港Port \n      Vell的哥伦布铜像。港口新建的商业综合体把这儿变成了休憩娱乐的好去处 — 我们在巴塞的每个黄昏都是在海港渡过的。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{AE85F8D4-7536-472C-8E0D-3CBE5C04141F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>威尔港的哥伦布铜像<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{E6EBD25F-0DDE-4748-8833-DFAEBF1FC020}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>夕阳下的威尔港<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{79B96248-4402-4C05-BA49-5CEBC55F326B}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>威尔港的的对面是世界贸易中心W.T.C.<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6D1FDF17-CDE5-42B2-BB1D-69E7A7A32F18}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>夜晚的威尔港<BR><BR><B><U><FONT color=#ff0000>D5</FONT> 08/02 \n      Barcelona</U></B><BR><BR><B>感谢Gaudi，感谢Mies， …… \n      ，感谢Barcelona，使我们在其后的几天中一直沉浸于朝圣般的幸福的眩晕中；也使我们一再推迟行期。<BR><BR>没有一座城市象Barcelona这样以一个建筑师为象征；也没有一个建筑师象高迪Gaudi一样塑造了一个城市的精神。<BR><BR><FONT \n      color=#ff0000>一个城市以一个建筑师为荣耀是多么神奇的一件事啊！！</FONT><BR><BR>La Casa \n      Batllo，巴特洛公寓,(1904-1906)，其实是一个立面改建项目，却是Gaudi风格最纯正的作品。每一处都为我们带来了惊奇。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1BA2F9C2-B2A5-432E-84A0-3FBB2FB6E7AE}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> Casa Batllo<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D7D6B71B-21A6-4732-80EE-13099925A1A8}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa Batllo<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B293B248-DD55-495A-B845-69499699BE73}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa Batllo室内<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{FB7F5F3C-BDC2-4E08-B8B8-F26EE6B1B84F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa Batllo室内<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{2C30B2C8-C71D-4DB6-AF85-8EB379A39678}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa Batllo室内<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F87FD2FD-A29B-428F-A407-B7B73050B600}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>面向天井的楼梯间玻璃<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6E84F38B-5471-493E-9D08-231810BF9F4B}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa Batllo的屋顶天台<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{AECEB249-0E75-4D69-ACF7-5EFE1781CCE1}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa Batllo的屋顶烟囱<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{28E0487F-8E00-416C-BE44-B6D0544B7203}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa \n      Batllo的屋顶<BR><BR><B>我们旅程中的麦当劳几乎全部是在Barcelona的“上窜下跳”中吃掉的，因为我们实在不愿意也没时间让就餐占用、打断我们的Gaudi之旅。好在“上窜下跳” \n      — 巴塞的旅游巴士周到地替我们想到了，两天的旅游车票附带提供了沿线的快餐优惠券。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D26989C6-9ACA-42C4-8E58-B245B1B5ED19}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>穷游界著名的“上窜下跳”- 巴塞的观光巴士<BR><BR><B>著名的米拉公寓，La Pedrera/La Casa \n      Mila，（1906-1910）,现在仍在使用。<BR><BR>据说，在建筑落成的时候，雇主（我们现在叫甲方）米拉夫妇被它怪诞的造型激怒了 — \n      这座象征“甲方”声望的建筑竟在市民中落得个“采石场”的外号。<BR><BR>可那时谁又能想到它竟然会不朽呢？</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{4781D044-2D28-4A2A-B9E3-CC6BD6FBFB3F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>“采石场”著名的外立面<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{422CA63D-2609-4979-A097-DFCF07FDC005}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>一个形式主义者的平面图，我宁愿忍受种种不便住在这里吗？<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D46DE2EB-176D-4590-A016-D72094E60736}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>用功能尺度来评价它显然没有意义<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{34BDEE14-21AA-46D1-9138-4FA69A04393F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Casa Mila的内天井<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A0B1460D-98A0-4B5C-835E-9A2D1D35824F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>天台：楼梯间，通风口及烟囱<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B4C5708E-ECE5-4234-897F-A86EEB388737}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>从米拉公寓的天台就可以看到永远在建造之中的圣家堂<BR><BR><B>黄昏的时候，我们到达了山上的Park \n      Guell，桂尔公园。在这儿能够俯瞰整个Barcelona。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{517959B6-0A23-4729-A4D5-2579B47FDA56}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>俯瞰整个Barcelona<BR><BR><B>Park \n      Guell的彩色蜥蜴好象已经成了Barcelona的象征物。背后的柱厅天花上也镶砌着彩色碎瓷片的装饰，柱厅内奇妙的声学效果，让寻常的吉他演奏宛若天籁，引我们驻足良久。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D45310FF-77DE-472A-A065-B8AB9F046327}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Park Guell著名的彩色蜥蜴<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C36BC0DD-59F5-4307-B36E-ADCC5972C8CB}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>柱厅内的吉他演奏者<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{52413226-10BA-4AA5-A506-EB8A4AEDD29F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>柱厅天花上的彩色碎瓷花饰<BR><BR><B>是夜，饮酒，为神奇的Gaudi，为神奇的Barcelona。这是一种当地的混合酒精饮料Sangria，由各种红酒，水果和冰块混合而成，微醺。<BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{DC5A0EA6-2526-47B2-9D35-6D538B850A39}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>明日，圣家族教堂（Sagrada Familia），还有意外惊喜 — \n      密斯&#8226;凡德罗的德国馆</B><BR><BR><U><B><FONT color=#ff0000>D6</FONT> 09/02 \n      Barcelona</B></U><BR><BR>\n      <CENTER><B>......To be continue......</B></CENTER><BR><BR>\n      <CENTER><I><FONT \n      color=#ff0000><B>本文版权所有，请勿私自转载</B></FONT></I></CENTER></FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-04-09 14:31 <BR></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 2,
+      "author": "立宏",
+      "role": "会员",
+      "time": "2005-03-30 23:14",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5558693><FONT class=topic>爽！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 3,
+      "author": "LORDMTY",
+      "role": "会员",
+      "time": "2005-03-30 23:46",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5558871><FONT class=topic>出门旅行的越来越多了。好！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 4,
+      "author": "Auster28",
+      "role": "本文版权所有，请勿私自转载本文版权所有，请勿私自转载",
+      "time": "2005-03-31 02:26",
+      "is_op": false,
+      "images": [
+        "images/smile.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5559390><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>樟木 \n        wrote:</B><BR>本文版权所有，请勿私自转载本文版权所有，请勿私自转载<BR></FONT></BLOCKQUOTE><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      明月半墙，桂影斑驳，风移影动，姗姗可爱。<BR><A class=ilink \n      href=\"http://www.abbs.com.cn/bbs/blog/auster28\" target=_blank>净业湖谭 \n    </A><BR>"
+    },
+    {
+      "floor": 5,
+      "author": "肥牛",
+      "role": "会员",
+      "time": "2005-04-03 20:33",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5582397><FONT class=topic>继续！顶 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 6,
+      "author": "非凡小妖",
+      "role": "会员",
+      "time": "2005-04-03 23:30",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5583466><FONT \n      class=topic>真是不错！照片和文字很有感觉。又勾起想旅行的欲望了。 </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      美丽的心发现世界的美丽<BR><A class=ilink \n      href=\"http://www.abbs.com.cn/bbs/post/view?bid=18&amp;id=1617587&amp;sty=1&amp;tpg=2&amp;age=0\" \n      target=_blank>法国风情小游记</A><BR><A class=ilink \n      href=\"http://www.luyuu.com/viewthread.php?tid=53&amp;fpage=1\" \n      target=_blank>美国快餐之旅-洛杉矶</A>"
+    },
+    {
+      "floor": 7,
+      "author": "樟木",
+      "role": "真是不错！照片和文字很有感觉。又勾起想旅行的欲望了。",
+      "time": "2005-04-04 02:58",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5583960><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>非凡小妖 \n        wrote:</B><BR>真是不错！照片和文字很有感觉。又勾起想旅行的欲望了。<BR></FONT></BLOCKQUOTE><BR>首页更新，Barcelona真的很神奇，<BR>也不枉大家久等了。<BR>与诸同道分享！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 8,
+      "author": "太空超人",
+      "role": "会员",
+      "time": "2005-04-04 11:02",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5585451><FONT \n      class=topic>我是一个渴望旅行可是又不能按照自己的心情去实现愿望的人，我很羡慕你，同时也很感谢你能把你的旅行经历与我们一起分享，让我们也能在你的照片和文字当中，感觉到旅行的快乐分享你的喜悦，谢谢你 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 9,
+      "author": "四月的清晨",
+      "role": "会员",
+      "time": "2005-04-04 14:02",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5587157><FONT \n      class=topic>感谢樟木，西班牙的美是有别于其他的，　<BR>　　张狂＼斑斓＼热烈．<BR><BR>　　　　在安静的时刻欣赏这些<BR><BR>感觉很好 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.aw-china.cn/\" \n      target=_blank>http://www.aw-china.cn/</A> <BR><BR>遇上我的梦想，在四月的清晨<BR><BR><A \n      class=ilink href=\"http://spaces.msn.com/claraplate/\" \n      target=_blank>http://spaces.msn.com/claraplate/</A> <BR><BR><A class=ilink \n      href=\"http://photo.163.com/photos/yymmca/\" \n      target=_blank>http://photo.163.com/photos/yymmca/</A>"
+    },
+    {
+      "floor": 10,
+      "author": "Cafeyee",
+      "role": "会员",
+      "time": "2005-04-04 14:36",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5587438><FONT \n      class=topic>很喜欢西班牙，谢谢樟木：）<BR><BR>我觉得应该加精：） </FONT></SPAN><BR><BR>\n      <DIV align=right>Cafeyee edited on 2005-04-04 15:12 <BR></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      中国只有一个，地球只有一个。"
+    },
+    {
+      "floor": 11,
+      "author": "zf77",
+      "role": "会员",
+      "time": "2005-04-04 21:10",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5590696><FONT class=topic>精<BR>一楼的地图是那里搞到的？ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 12,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-04-09 01:03",
+      "is_op": true,
+      "images": [
+        "images/{35B74DF9-6346-42D6-AB5B-C3B6F1070CBF}.jpg",
+        "images/{3FDE4175-A9B0-4119-BE6F-7BDD5FB025EC}.jpg",
+        "images/{D973717B-ED2F-46FD-BF56-83909CED0A7F}.jpg",
+        "images/{8818F963-93BC-4399-83AE-3EE8E820B759}.jpg",
+        "images/{1CAB1C6B-BAA2-405D-A4A4-FFC6F253E2FD}.jpg",
+        "images/{BAF3558E-7528-4072-8B1A-F9F179EA2364}.jpg",
+        "images/{E980B0E3-EEC1-4222-8BC7-8A75E645C173}.jpg",
+        "images/{42C21CDE-7C80-4BB3-8C20-89D5BF405184}.jpg",
+        "images/{3C40BEA0-D44D-4D96-A051-502F68C87ECD}.jpg",
+        "images/{0436D0F1-6389-4BAE-8C4B-0BC7CF2389A8}.jpg",
+        "images/{FCEB8F58-A333-4AF8-9667-F854BC1257B3}.jpg",
+        "images/{8FB1AC5E-0152-4A34-9FC5-5206098916EB}.jpg",
+        "images/{CA47CD6A-96C0-4827-9779-A4EDE1C9D514}.jpg",
+        "images/{8254AE37-C944-4614-80FE-F15E28FDC57E}.jpg",
+        "images/{3AC29FB1-C3B6-42E0-A220-CA66957F8C2F}.jpg",
+        "images/{0BDE0580-48A0-4BA2-A218-D4E561F88EEE}.jpg",
+        "images/{26563E46-5CB1-4016-B25A-BB91D3B4DC66}.jpg",
+        "images/{475559B9-A422-44BE-866F-06F043ABDDAF}.jpg",
+        "images/{37930565-9F82-480D-8BE8-E2C2AFB7647C}.jpg",
+        "images/{8AA2A5E8-D3A7-4E4E-9B12-C0ED2D8B7A80}.jpg",
+        "images/{F0CAECBE-1A07-4A84-BF78-C2467553BE2D}.jpg",
+        "images/{90E7E5A9-11B9-42E6-991E-7861B8101871}.jpg",
+        "images/{FE921829-7196-4A81-85A7-0A7FE9ED108C}.jpg",
+        "images/{7D6E312F-122A-4D47-9321-D12CD76F08B2}.jpg",
+        "images/{819930A7-6035-4D5D-8B98-1EE156C37119}.jpg",
+        "images/{FDD80B8B-B5B4-4816-975A-735D17F7974E}.jpg",
+        "images/{18B6C8B8-CD84-4A6A-97BA-67932668DC95}.jpg",
+        "images/{46BA5E57-19F5-407E-B363-69487DA3824E}.jpg",
+        "images/{DD4AB349-9073-4774-AED4-F479ED30BCAF}.jpg",
+        "images/{B9B7D57C-B65B-42A1-92ED-1EFB6961C8E2}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5626440><FONT class=topic><B><U><FONT \n      color=#ff0000>D6</FONT> 09/02 \n      Barcelona</U></B><BR><BR><B>黎明即起，继续我们在Barcelona的上窜下跳。<BR><BR>圣家族教堂（Sagrada \n      Familia），建筑师Gaudi终其一生的作品，不仅在空间上统领着这个城市，也是巴塞罗那永远的标志。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{35B74DF9-6346-42D6-AB5B-C3B6F1070CBF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3FDE4175-A9B0-4119-BE6F-7BDD5FB025EC}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>那方形的双塔是奥运村，142米高<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D973717B-ED2F-46FD-BF56-83909CED0A7F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8818F963-93BC-4399-83AE-3EE8E820B759}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>柱顶天花和建造中的南（主）立面<BR><BR><B>圣家族教堂（Sagrada \n      Familia）原是一个宗教组织通过募捐兴建的一个赎罪教堂，在高迪执掌设计43年并不幸去世后，工程停滞直到1952年方得继续建造。因为高迪事先不做太多设计，现代的建筑师们只好推测高迪当时的想法，并借助计算机辅助设计，正在一点一点地完成着它。<BR><BR>据Barcelona旅游官方网站介绍，目前，整个建筑完成了“将近60%”，而竣工“恐怕要等到2026年高迪逝世百周年纪念时。”<BR><BR>这个故事告诉我们：<BR><BR><FONT \n      color=#ff0000>如果你想做个大师，那么你就应该画图潦草；<BR><BR>如果你想做个身后出名的大师，那么就留下一座烂尾楼吧。</FONT><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1CAB1C6B-BAA2-405D-A4A4-FFC6F253E2FD}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>仔细观察，不难发现，圣家族教堂的许多细部之间风格还是有很大的差异的。也许是高迪在设计它的43年间对宗教的理解发生了很大变化，其中也包含了后代建筑师的不同方式的表达。但整体却因加泰罗尼亚民族对形式独特的理解而统一。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BAF3558E-7528-4072-8B1A-F9F179EA2364}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{E980B0E3-EEC1-4222-8BC7-8A75E645C173}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>表现基督受难与死亡的西立面，后人续建<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{42C21CDE-7C80-4BB3-8C20-89D5BF405184}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3C40BEA0-D44D-4D96-A051-502F68C87ECD}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 西立面的赎罪之门<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{0436D0F1-6389-4BAE-8C4B-0BC7CF2389A8}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      西立面的赎罪之门<BR><BR><B>选择冬天做这次游览实在是很明智：既不用和蜂拥的观光客们挤出一身臭汗，也能够从容地从螺旋楼梯爬上圣家族教堂462级的塔顶，还能够坐在马路牙上晒太阳。<BR><BR>打开地图，正打算找个好馆子为Barcelona做个完美总结，慢，“Mies \n      Van Der \n      Rohe”（密斯&#8226;凡德罗）！天哪，学生时顶礼膜拜的巴塞罗那德国馆竟然就在Barcelona（@#$%！）！当然这是1983年重建的。<BR><BR>这一重大发现使我们开始了另一次当代建筑的旅行。Barcelona的神奇在于它的兼容，密斯的德国馆，迈耶（Richard \n      Mier）的巴塞罗那当代艺术馆，Santiago \n      Calatrava设计的92年奥运会电信塔，那谁谁谁（米罗的一朋友）设计的米罗基金会（Fundacio Joan \n      Miro）。<BR><BR><FONT \n      color=#ff0000>可见，事先周密的计划往往会毁了一次充满惊喜的旅游。</FONT>（这一重大发现使我们决定在Barcelona再停留一天，原计划中的里昂Lyon被cancel。而不久以后的马塞Marseille之行令我们又Cancel掉了佛罗伦萨Firenza，此乃后话。）</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{FCEB8F58-A333-4AF8-9667-F854BC1257B3}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8FB1AC5E-0152-4A34-9FC5-5206098916EB}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{CA47CD6A-96C0-4827-9779-A4EDE1C9D514}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>黄昏的德国馆，一只步态慵懒的猫吸引了我们。它应该比我们更熟知这里的流动的空间。看守的伪酷哥Mark告诉我们，这只幸福的猫名叫Niebla。<BR><BR>当一只守望圣地的猫一定比做建筑师来得惬意。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8254AE37-C944-4614-80FE-F15E28FDC57E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 一只名叫Niebla的猫<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3AC29FB1-C3B6-42E0-A220-CA66957F8C2F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      一只名叫Niebla的猫<BR><BR><B>92年奥运会建筑群和米罗基金会都在山顶，此时天色已晚。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{0BDE0580-48A0-4BA2-A218-D4E561F88EEE}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 奥运主体育场。。。的。。。猫<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{26563E46-5CB1-4016-B25A-BB91D3B4DC66}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 奥运电信塔<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{475559B9-A422-44BE-866F-06F043ABDDAF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 92年奥运会主火炬(竟然是紫铜做的)<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{37930565-9F82-480D-8BE8-E2C2AFB7647C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 米罗基金会，据说里面的走廊能鸟瞰巴塞全景。<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8AA2A5E8-D3A7-4E4E-9B12-C0ED2D8B7A80}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 米罗基金会<BR><BR><B><U><FONT color=#ff0000>D7</FONT> 10/02 \n      Barcelona</U></B><BR><BR><B>今日享受Barcelona。<BR><BR>不用忙着早起去上窜下跳了，不用为赶时间吃麦当劳了……<BR><BR>总之，可以睡懒觉直到教堂九点的钟声响起了，可以在街角咖啡馆晒着太阳吃一块五一份的奶咖+Croissant了，可以在兰布拉大街（La \n      Rambla）上闲逛看热闹了，可以继续到码头喝啤酒犯傻了,还可以躺在广场台阶上偷拍MM了。<BR><BR>总而言之，今天是多出来的一天，a \n      Bonus Day for Barcelona！</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F0CAECBE-1A07-4A84-BF78-C2467553BE2D}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 广场上的 MM &amp; SG<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{90E7E5A9-11B9-42E6-991E-7861B8101871}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      螳螂捕蝉，黄雀在后<BR><BR><B>兰布拉大街背后的小广场，大概是建造地下停车库的时候发掘出了一个古代墓藏，简单处理一下，变成了一个小型遗址公园。<BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{FE921829-7196-4A81-85A7-0A7FE9ED108C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>当然，路过的麦大叔（Richard \n      Mier）的巴塞罗那当代艺术馆（MACBA）也没有错过。不期这里竟有一很棒的摄影展，懒得记摄影师的名字了。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7D6E312F-122A-4D47-9321-D12CD76F08B2}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 路过MACBA<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{819930A7-6035-4D5D-8B98-1EE156C37119}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{FDD80B8B-B5B4-4816-975A-735D17F7974E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 中庭 <BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{18B6C8B8-CD84-4A6A-97BA-67932668DC95}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>其实这座白色偏执狂的东东现在看来已颇为稀松平常，它门前的小广场却亲切可爱。新的、旧的、老的、少的，好象都在这里找到了自己想要的空间。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{46BA5E57-19F5-407E-B363-69487DA3824E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{DD4AB349-9073-4774-AED4-F479ED30BCAF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B9B7D57C-B65B-42A1-92ED-1EFB6961C8E2}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 孩子们争着在我的镜头前面飞翔<BR><BR><B>海滨码头的对面是世界贸易中心（W.T.C.）－ \n      回来后才知道竟然是贝聿铭设计的，一般，许是大师草菅，手下学徒依葫芦画飘而成 － \n      有AVIS的一个营业部，把明天的车预定了。并买了一大堆西文地图。<BR><BR>明天将沿地中海驱车北上，到达利的家乡，卡达开斯（Cadaques）。<BR><BR>只凭了一张印象模糊的照片，就决定去这个小镇，不知是否冒险（我叽哩哇啦了半天卖地图的还不甚了了，也许是发音不同吧？）。不过沿途景致应该不错，这条海岸线被称为Coasta \n      Brava，一直延伸到法国南部。</B><BR><BR><B>To be continue...</B><BR><BR><I><B>\n      <CENTER><FONT \n      color=#ff0000>本文版权所有，请勿私自转载</FONT></CENTER></B></I></FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-04-11 00:04 \n<BR></DIV>"
+    },
+    {
+      "floor": 13,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-04-11 00:01",
+      "is_op": true,
+      "images": [
+        "images/{94A601E2-5321-4ACC-B41D-87CCFA3F4826}.jpg",
+        "images/{B0802684-E4A5-4260-A97B-B0FEA28FDF9A}.jpg",
+        "images/{B4915179-B4E8-4793-A917-3D983A10D231}.jpg",
+        "images/{C0987530-8735-4D62-94CF-1F813B53D22D}.jpg",
+        "images/{C2B6B576-CC48-4565-A8E7-C00C63FAD325}.jpg",
+        "images/{D4AFC9F4-17AA-4012-A3E8-6E5C6CB0A6ED}.jpg",
+        "images/{D918ABFE-DCE8-4974-A8F6-6CBC22649678}.jpg",
+        "images/{4A5E129B-2CCE-4ADB-AC14-28CBBC2D5F0B}.jpg",
+        "images/{E36D71D5-E47B-41D2-BAD6-80C7786D1F31}.jpg",
+        "images/{614AAF52-89BB-4B8F-8DE1-375B1CF6671C}.jpg",
+        "images/{07EF5832-3242-4416-B795-5E464DBED665}.jpg",
+        "images/{6E7AD781-A3D7-40A3-BDD1-B24B5EB25092}.jpg",
+        "images/{6097D36C-771E-476A-9BB9-9AB91351B5D0}.jpg",
+        "images/{127859A1-DAFA-4C55-87F8-8668916F5439}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5641050><FONT class=topic><B><U><FONT \n      color=#ff0000>D8-D9</FONT> 11/02-12/02 \n      Barcelona-Cadaques-Montpellier</U></B><BR><BR><B>取车。<BR><BR>AVIS的西班牙大婶一脸无奈地摊开双手，叽哩估噜了一大堆卷舌英语。我整明白了：因为车辆调度的原因，她无法提供我们事先预定的small \n      car，只能给我们一辆中型车。<BR><BR>但是，慢：<FONT color=#ff0000>“ That’s our \n      problem”</FONT><BR><BR>所以，我们以一辆小车的价格，租到了一辆307，还是2.0柴油的！<BR><BR>开路！！</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{94A601E2-5321-4ACC-B41D-87CCFA3F4826}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 2.0柴油版的标致307，还是两厢的顺眼<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B0802684-E4A5-4260-A97B-B0FEA28FDF9A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      满地图的西班牙文<BR><BR><B>一路国道，既省钱，又自在。<BR><BR>这大概是我行驶过的最美丽的一条公路了。公路与铁路沿着海岸线并行，右手就是蔚蓝的地中海。白色的游艇码头，空旷的沙滩，无人值守的海边小站，所有的住宅阳台一律朝向大海，悬挂着色彩明快的遮阳布帘。<BR><BR>据说，夏天的时候，这些小站上，经常会有美人鱼般的泳装女孩，湿淋淋的，直接登上火车。<BR><BR>神往之……</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B4915179-B4E8-4793-A917-3D983A10D231}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 无人的海滩<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C0987530-8735-4D62-94CF-1F813B53D22D}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 这样的海岸线一直延伸到意大利的热那亚<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C2B6B576-CC48-4565-A8E7-C00C63FAD325}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      享受生活<BR><BR><B>翻过一座山，已近黄昏，卡达开斯Cadaques安逸地卧在山下的岬湾里。依然是纯白色的墙，红色的瓦。<BR><BR>许是淡季，小镇静得很，不多的行人；一条狗，若有所思地望着大海。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D4AFC9F4-17AA-4012-A3E8-6E5C6CB0A6ED}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> Cadaques安逸地卧在山下的岬湾里<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D918ABFE-DCE8-4974-A8F6-6CBC22649678}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 一条名叫达利的狗，在思考<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{4A5E129B-2CCE-4ADB-AC14-28CBBC2D5F0B}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 小镇黄昏<BR><BR><B>在浩瀚的地中海边，沿着Coasta \n      Brava，散落着一群璀灿的珍珠，Cadaques就是其中的一颗，这座白色小镇并以达利的家乡而闻名。达利生前，常与毕加索等艺术圈人士啸聚于此。现在看来，这儿仍是风雅之地，连海滩上的树都莫不按达利的风格生长，有型有款。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{E36D71D5-E47B-41D2-BAD6-80C7786D1F31}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{614AAF52-89BB-4B8F-8DE1-375B1CF6671C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{07EF5832-3242-4416-B795-5E464DBED665}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      达利的家乡，连海滩上的树也莫能幸免<BR><BR><B>第二日，早起，驱车至Figuerase火车站还车。换乘火车去法国。<BR><BR>此一路驾车，并未太费周折。西班牙的旅游业体贴入微，一路均有英文路牌。大部分路人均能说一口流利英语，百问不厌。遇有语言无法传达，好心的西班牙大叔甚至驾车引至国道入口。热情好客确实名不虚传。</B><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6E7AD781-A3D7-40A3-BDD1-B24B5EB25092}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 早晨<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6097D36C-771E-476A-9BB9-9AB91351B5D0}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 还车就在站台<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{127859A1-DAFA-4C55-87F8-8668916F5439}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 柴油价格<BR><BR><B>To be continue...<BR><BR>\n      <CENTER><I><FONT \n      color=#ff0000>本文版权所有，请勿私自转载</FONT></I></CENTER></B></FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 14,
+      "author": "erix li",
+      "role": "会员",
+      "time": "2005-04-11 03:10",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5641528><FONT \n      class=topic>精彩。。。。。。期待继续<BR>楼主也唤起了我自己2年前的巴塞罗那之行。 </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/blog/erix%20li\" \n      target=_blank>ABlog</A><BR><A class=ilink \n      href=\"http://www.erix.fotoyard.com/\" target=_blank>Fotoyard</A>"
+    },
+    {
+      "floor": 15,
+      "author": "snowfox",
+      "role": "会员",
+      "time": "2005-04-11 13:15",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5644086><FONT class=topic>精彩精彩。神往之``` \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 16,
+      "author": "GeN",
+      "role": "会员",
+      "time": "2005-04-11 14:21",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5644850><FONT class=topic>顶下，看的眼睛发直！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 17,
+      "author": "xyltcl",
+      "role": "会员",
+      "time": "2005-04-12 11:21",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5651193><FONT class=topic>高迪＼贝聿明，原来欧洲如此生动！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 18,
+      "author": "老五",
+      "role": "Moderator",
+      "time": "2005-04-13 09:09",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5657178><FONT class=topic>好帖顶上来～ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink \n      href=\"http://www.fotoyard.com/Photoshow/Myhome/Myindex.asp?AuthorID=232\" \n      target=_blank>+樟木+拉萨街头+格尔登寺</A>"
+    },
+    {
+      "floor": 19,
+      "author": "xyltcl",
+      "role": "会员",
+      "time": "2005-04-13 18:11",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5662153><FONT \n      class=topic>呵呵，要想出名，就留下一幢烂尾楼．这是楼主的高见还是流传之？＾＾<BR>我多想出名呀！要不我也设计一幢烂尾楼？看能否传世？<BR>大家别笑话． \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 20,
+      "author": "樟木",
+      "role": "呵呵，要想出名，就留下一幢烂尾楼．这是楼主的高见还是流传之？＾＾",
+      "time": "2005-04-14 00:54",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5665002><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>xyltcl \n        wrote:</B><BR>呵呵，要想出名，就留下一幢烂尾楼．这是楼主的高见还是流传之？＾＾<BR>我多想出名呀！要不我也设计一幢烂尾楼？看能否传世？<BR>大家别笑话．<BR></FONT></BLOCKQUOTE><BR>关键是你还得画图潦草。。。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 21,
+      "author": "矛石",
+      "role": "会员",
+      "time": "2005-04-14 08:52",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5665622><FONT \n      class=topic>兄弟的照片是精挑细选的吧？<BR>不过还是令我大为惊讶了！<BR>一为固有的景致与色彩，<BR>二为观看景致与色彩的人！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 22,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-04-21 14:28",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5726605><FONT \n      class=topic>慵懒的中午，<BR>跟着你的马不停蹄，<BR>从Madrid一路辗转到Barcelona，<BR>从慢速夜行火车到敞篷观光BUS到柴油板两厢307，<BR>这趟欧洲简直用两个字“自在”了得。<BR><BR>我觉得这是次知性之旅，<BR>凭借你对建筑的理解，<BR>对旅行的热衷。<BR>还有那入微的记录，<BR>维美的照片。<BR><BR>这样一种平和，是多么的让人羡慕。<BR>旅游，在游，更在旅途当中。<BR><BR>期待你的CONTINUE，<BR>BTW，个人主页也不错哦。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 23,
+      "author": "wsj0311",
+      "role": "Moderator",
+      "time": "2005-04-21 15:31",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5727114><FONT \n      class=topic>少见的生动，诱人。相信更精彩的在后面 </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 24,
+      "author": "叶峰",
+      "role": "会员",
+      "time": "2005-04-21 18:11",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5728670><FONT \n      class=topic>很不错，尤其是细节，很感人！<BR><BR>继续～ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 25,
+      "author": "叶峰",
+      "role": "会员",
+      "time": "2005-04-21 18:25",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5728758><FONT \n      class=topic>另外一个小问题，密斯的原作用的是洞石吗？<BR><BR>还是后来为了效果重建时改了～ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 26,
+      "author": "wangya",
+      "role": "会员",
+      "time": "2005-04-22 10:21",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5733294><FONT class=topic>跟着你旅行欧洲是一种快乐跟享受！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 27,
+      "author": "語默",
+      "role": "会员",
+      "time": "2005-04-22 10:26",
+      "is_op": false,
+      "images": [
+        "images/smile_cool.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5733357><FONT \n      class=topic>圖文並茂，難得的好貼！頂一下。<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 28,
+      "author": "somnambulant",
+      "role": "会员",
+      "time": "2005-04-23 23:29",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5748110><FONT class=topic>俄也要顶，不然楼主簿来了怎么办。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 29,
+      "author": "樟木",
+      "role": "俄也要顶，不然楼主簿来了怎么办。",
+      "time": "2005-04-24 10:01",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5749576><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>somnambulant \n        wrote:</B><BR>俄也要顶，不然楼主簿来了怎么办。<BR></FONT></BLOCKQUOTE><BR>嘿嘿，不好意思。<BR>这几天太忙了。还没空整理。<BR>还是做一只密斯的猫轻松啊。。。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 30,
+      "author": "somnambulant",
+      "role": "嘿嘿，不好意思。",
+      "time": "2005-04-24 16:21",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5751313><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>樟木 \n        wrote:</B><BR>嘿嘿，不好意思。<BR>这几天太忙了。还没空整理。<BR>还是做一只密斯的猫轻松啊。。。<BR></FONT></BLOCKQUOTE><BR>别急别急，慢慢来，反正我现在比较闲~~<BR>你有空再来，我也正好每天可以回味一下子呵。<BR>有没有想过出书？我觉得你这个帖子真是不一般的好啊<BR><BR>对了，请教下，CASIO的Z40怎么样？ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 31,
+      "author": "sw1015",
+      "role": "会员",
+      "time": "2005-04-25 20:32",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5760753><FONT class=topic>大饱眼福!! 很受感动 那种纯净 \n      那种异国的情调 高迪带来的另类感受!<BR>好想亲身去感受一番! </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 32,
+      "author": "LJW0816",
+      "role": "会员",
+      "time": "2005-04-25 21:47",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5761213><FONT class=topic>大开眼界！精彩！顶一下！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      四月七号"
+    },
+    {
+      "floor": 33,
+      "author": "玥娃",
+      "role": "会员",
+      "time": "2005-04-25 21:55",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5761293><FONT class=topic>好片! \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 34,
+      "author": "mediter",
+      "role": "会员",
+      "time": "2005-04-25 22:14",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5761445><FONT \n      class=topic>忙碌的工作和生活中，看到这些照片，觉的生活又有了意义! </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 35,
+      "author": "万里飞云",
+      "role": "会员",
+      "time": "2005-04-26 10:39",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5763883><FONT \n      class=topic>异国的情调！流畅的介绍！<BR>生活的精彩！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      穿越时空来到你的面前！<BR>"
+    },
+    {
+      "floor": 36,
+      "author": "青火炎",
+      "role": "会员",
+      "time": "2005-04-26 13:48",
+      "is_op": false,
+      "images": [
+        "images/smile_big.gif",
+        "images/smile_wink.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5765867><FONT class=topic>碎裂的文字 美丽的图片 \n      感觉非常好<BR>不知道还有没有 继续啊<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_wink.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      我只做我喜欢的事，说我喜欢的话。于是我孤独但不寂寞"
+    },
+    {
+      "floor": 37,
+      "author": "libertine",
+      "role": "会员",
+      "time": "2005-04-26 15:00",
+      "is_op": false,
+      "images": [
+        "images/smile.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5766615><FONT \n      class=topic>8错8错，心情好舒畅，各位挚友，为了自己的国家未来的美好，努力奋斗了<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 38,
+      "author": "影萱",
+      "role": "会员",
+      "time": "2005-04-26 16:04",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5767262><FONT \n      class=topic>越看越讶异，越看越感动<BR>一直向往的西班牙<BR>跟着楼主逛了一番先! </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 39,
+      "author": "樟木",
+      "role": "8错8错，心情好舒畅，各位挚友，为了自己的国家未来的美好，努力奋斗了:)",
+      "time": "2005-04-27 02:09",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5769968><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>libertine \n        wrote:</B><BR>8错8错，心情好舒畅，各位挚友，为了自己的国家未来的美好，努力奋斗了:)<BR></FONT></BLOCKQUOTE><BR>没想到敝贴一不留神暗合了主旋律，谢谢！！<BR><BR>\n      <BLOCKQUOTE><FONT color=#0000a0><B>somnambulant \n        wrote:</B><BR>别急别急，慢慢来，反正我现在比较闲~~<BR>你有空再来，我也正好每天可以回味一下子呵。<BR>有没有想过出书？我觉得你这个帖子真是不一般的好啊<BR>对了，请教下，CASIO的Z40怎么样？<BR></FONT></BLOCKQUOTE><BR>不好意思，这几天太忙了。<BR>可至MSN探讨。<BR>您是否说的是CASIO的EX-Z40，400万像素35 \n      - 105mm的那一款？？<BR>选择器材，也可以到五少爷的超级长“给初学者的一些建议 ”里看看（有耐心的话），不过出来后基本就中P毒了。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-04-27 02:44 \n<BR></DIV>"
+    },
+    {
+      "floor": 40,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-04-27 02:16",
+      "is_op": true,
+      "images": [
+        "images/{7F010031-FBD4-4BC5-AF7B-FBFB105247CC}.jpg",
+        "images/{A6FF8FEA-0D9E-4219-8620-CB0FF3C75F24}.jpg",
+        "images/{7CAE3D0F-53D6-4300-81EA-7ED193A6D12A}.jpg",
+        "images/{7AE57FBC-415C-479E-B855-8EE015413DF7}.jpg",
+        "images/{3671C93F-7F60-4F20-A8E7-938F7426D9B4}.jpg",
+        "images/{D31C8304-CC6F-4F95-8FF8-A9E86FE3E3DF}.jpg",
+        "images/{FB51099C-D50E-42CD-B0FC-42E93EBC7121}.jpg",
+        "images/{C71C3AB0-C58F-4F2A-B9F7-DAFE76B01F21}.jpg",
+        "images/{9757FEBA-0989-4288-B42B-255BA26CE4BF}.jpg",
+        "images/{F6EC8879-3F5A-43A2-886F-7605E9D6F439}.jpg",
+        "images/{060B85FD-E0C2-4873-94E3-E1BA26C9873E}.jpg",
+        "images/{B38C52AA-4CC1-4C28-BEE8-0E88E576C644}.jpg",
+        "images/{EE91F2BC-2ED2-4241-BE18-034C7FCBD8BF}.jpg",
+        "images/{8ADC8FFC-E1CB-42F1-9DB7-8C2AFAF34CC2}.jpg",
+        "images/{A9481BFF-B183-4358-8285-A943BF61F9C4}.jpg",
+        "images/{F5CAE7BA-2F24-4013-8ADC-C367F03AD4CE}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5769982><FONT class=topic><B><U><FONT \n      color=#ff0000>D10</FONT> 13/02 \n      Montpellier</U></B><BR><BR><B>数码伴侣坏了！<BR><BR>只能暂时滞留蒙彼利埃，等待国内空投。<BR><BR>可怜我如一头困兽，憋在小小的M城（号称法国第六大城市），周末店家一律休息，连买包TABAC都无处可寻。<BR><BR>怀念国内琳琅满目的电脑市场。在这儿买了些配件（Made \n      in \n      China），还是没修好。倘若照片无法恢复的话，我宁愿返回Barcelona黑下来。<BR><BR>———嘿嘿，黑在巴塞罗那，也不失为一个不错的选择。<BR><BR>唯一令我欣慰的是，在橱窗看见了我的相机：Pentax \n      *istDS，套机标价：1299欧！！由衷地同情水深火热中的欧洲摄友们。</B><BR><BR><B><U><FONT \n      color=#ff0000>D11</FONT> 14/02 \n      Montpellier-Marseille</U></B><BR><BR><B>呆在蒙彼利埃第三天了。国内来的MM要明天下午才能带着数码伴侣到达蒙城。<BR><BR>窗外，南风强劲，云层压得低低的。朝阳给天空打上一种诡异的玫瑰红。<BR><BR>快到中午了。走！去马赛。<BR><BR>十二点半，我已经驾驶租来的SEAT小车飞驰在高速公路上了。车上载着三个在M城求学的小朋友———帮我看地图。<BR><BR>远远的南面是地中海和大片的泻湖。白茫茫的一片水雾，那是被强风拍散的浪尖上的水珠。以至于小车都时时被风吹得把持不住。<BR><BR>下午三点半，进入马赛市区，愉悦的驾驶体验瞬时被恐惧所代替。<BR><BR>这是怎样不堪的一个城市啊！道路曲折崎岖，标志前后矛盾，行人争先恐后随意穿行，汽车摩托嘶吼着在人缝中穿梭。这一瞬间我甚至以为误入了传说中混乱的意大利乃至北非某城市。<BR><BR>看来当初基度山伯爵（那会儿他还是个叫做爱德蒙·邓蒂斯的囚犯）逃离伊夫堡后没有选择在近在咫尺的马赛登陆是正确的———复杂的地形和迷宫般的街道准会让他郁闷得一头扎回地中海。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7F010031-FBD4-4BC5-AF7B-FBFB105247CC}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>马赛港看似平静的街道，隐藏着凶险和罪恶<BR><BR><B>终于还是找到了马赛公寓。<BR><BR>平日熟悉信手画来的马赛公寓今日矗立于面前，端相机的手都有点颤抖了，黄昏的阳光越过地中海洒在它的正立面上，混凝土上的模板印痕一如既往地粗砺沧桑，那种震撼实在无法形容。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A6FF8FEA-0D9E-4219-8620-CB0FF3C75F24}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>读图时代，就不多介绍了<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7CAE3D0F-53D6-4300-81EA-7ED193A6D12A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7AE57FBC-415C-479E-B855-8EE015413DF7}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3671C93F-7F60-4F20-A8E7-938F7426D9B4}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>我在门卫登记册上虔诚地留下了签名———樟木。<BR><BR>爱屋及乌，连门厅里进出的大楼居民都那么的风度翩翩，彬彬有礼，与老城所见截然不同。莫非好的环境真能教化于民众？还是他们甘愿附庸于大师强加于之的种种安排？</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D31C8304-CC6F-4F95-8FF8-A9E86FE3E3DF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>著名的天台<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{FB51099C-D50E-42CD-B0FC-42E93EBC7121}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>面朝大海，依稀能看到伊夫堡 Chateau d'If<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C71C3AB0-C58F-4F2A-B9F7-DAFE76B01F21}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{9757FEBA-0989-4288-B42B-255BA26CE4BF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>回程的车上，同行MM喃喃道：“要是能住在这儿多好啊。”<BR><BR>恋恋不舍回头一望，慢！路边牌子上赫然：Hotel \n      Le Corbusier \n      ！！<BR><BR>———奇迹，我们竟然能在马赛公寓里住上一晚！<BR><BR>若非明日早起返程，管理员还能安排我们参观普通住户家里呢。<BR><BR>感谢柯布大师，为了这一理想中的城市单元，在其中设置了二层的公共设施，面包房、杂货店、餐厅、酒吧，（甚至还有几间被租来做Architect \n      Studio），也包括我们住的Hotel。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F6EC8879-3F5A-43A2-886F-7605E9D6F439}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>商店<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{060B85FD-E0C2-4873-94E3-E1BA26C9873E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>电梯厅<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B38C52AA-4CC1-4C28-BEE8-0E88E576C644}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>酒吧的门把手<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{EE91F2BC-2ED2-4241-BE18-034C7FCBD8BF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>客房<BR><BR><B>是夜，不能寐，饮酒，游荡于大楼内各个角落，找寻大师留下的痕迹。。。</B><BR><BR><B><U><FONT \n      color=#ff0000>D12</FONT> 15/02 Marseille- Montpellier</U></B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8ADC8FFC-E1CB-42F1-9DB7-8C2AFAF34CC2}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>阳光于七点四十五分准时越过对面的山脊，洒进我们的阳台。<BR><BR>怀揣一块留下模板印痕的马赛公寓的混凝土块，回程，逃离噩梦般的马赛----我一定要给法国交通部门写信投诉！！<BR><BR>走免费国道、乡道，葡萄园，原野，泻湖，海面，车里放着《春光咋泻》原声，地中海边的云层依然是低低的，每每有一种拍公路片的幻觉。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A9481BFF-B183-4358-8285-A943BF61F9C4}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>返程中<BR><BR><B>回到Montpellier，国内来的MM已然空降蒙城，除了带来了数码伴侣以外，还带来了一只皇上皇鸭子！！！当晚聚餐接风暨欢送不提！！</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F5CAE7BA-2F24-4013-8ADC-C367F03AD4CE}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>鸭子<BR><BR><B>明日进入意大利。去Genoa热那亚，为了Portofino，为了《Beyond the \n      Cloud》中的苏菲·玛索。</B><BR><B>\n      <CENTER>...To be continue...</CENTER></B><BR><BR><B>\n      <CENTER><I><FONT \n      color=#ff0000>本文版权所有，请勿私自转载</FONT></I></CENTER></B></FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-04-27 13:04 \n<BR></DIV>"
+    },
+    {
+      "floor": 41,
+      "author": "另一个羊男",
+      "role": "会员",
+      "time": "2005-04-27 06:07",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5770128><FONT \n      class=topic>好贴好贴!~~终于看到了。<BR>只能趁凌晨网络速度快抓紧看看，8点以后又没戏了~~~ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.m-day.net/\" target=_blank>我爱汤力水 i love \n      tonic water</A><BR><BR>迎 \\ 风 \\ 流 \\ 泪<BR>"
+    },
+    {
+      "floor": 42,
+      "author": "一步步",
+      "role": "会员",
+      "time": "2005-04-27 09:24",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5770514><FONT \n      class=topic>楼主.俺在盼星星盼月亮的盼着您你好片呢!顶了~~~~~ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 43,
+      "author": "meo",
+      "role": "会员",
+      "time": "2005-04-27 17:58",
+      "is_op": false,
+      "images": [
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif",
+        "images/smile_shy.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5774178><FONT class=topic><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      纵然是深渊也要跳下，在下降的过程中长出翅膀"
+    },
+    {
+      "floor": 44,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-04-27 18:03",
+      "is_op": false,
+      "images": [
+        "images/{C71C3AB0-C58F-4F2A-B9F7-DAFE76B01F21}.jpg",
+        "images/smile_tongue.gif",
+        "images/smile_tongue.gif",
+        "images/smile_tongue.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5774225><FONT class=topic>纯净的不行了.<BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C71C3AB0-C58F-4F2A-B9F7-DAFE76B01F21}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>这里的浪漫,绝对是韩剧里面的永远不能触及的.<BR>明天继续在这里守侯.<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_tongue.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_tongue.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_tongue.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 45,
+      "author": "xyming",
+      "role": "会员",
+      "time": "2005-04-27 19:52",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5774943><FONT \n      class=topic>回到Montpellier，国内来的MM已然空降蒙城，除了带来了数码伴侣以外，还带来了一只皇上皇鸭子！！！当晚聚餐接风暨欢送不提！！<BR><BR>除了羡慕还有嫉妒！！国内来的MM不远万里只为樟树兄送数码伴侣吗？<BR>对了还有皇上皇鸭子！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 46,
+      "author": "樟木",
+      "role": "除了羡慕还有嫉妒！！国内来的MM不远万里只为樟树兄送数码伴侣吗？",
+      "time": "2005-04-27 21:03",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5775315><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>xyming \n        wrote:</B><BR>除了羡慕还有嫉妒！！国内来的MM不远万里只为樟树兄送数码伴侣吗？<BR>对了还有皇上皇鸭子！<BR></FONT></BLOCKQUOTE><BR>嘿嘿，运气好罢了。。。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 47,
+      "author": "樟木",
+      "role": "除了羡慕还有嫉妒！！国内来的MM不远万里只为樟树兄送数码伴侣吗？",
+      "time": "2005-04-27 21:08",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5775341><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>xyming \n        wrote:</B><BR>除了羡慕还有嫉妒！！国内来的MM不远万里只为樟树兄送数码伴侣吗？<BR>对了还有皇上皇鸭子！<BR></FONT></BLOCKQUOTE><BR>更正一下：<BR>是<B>樟木</B>，不是樟树。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 48,
+      "author": "肥牛",
+      "role": "更正一下：",
+      "time": "2005-04-27 21:12",
+      "is_op": false,
+      "images": [
+        "images/smile_cool.gif",
+        "images/smile_big.gif",
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5775367><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>樟木 \n        wrote:</B><BR>更正一下：<BR>是<B>樟木</B>，不是樟树。<BR></FONT></BLOCKQUOTE><BR>樟树是药城<BR>樟木是裤哥<BR>甚远甚远<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 49,
+      "author": "老五",
+      "role": "Moderator",
+      "time": "2005-04-27 22:59",
+      "is_op": false,
+      "images": [
+        "images/smile_cool.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5776050><FONT \n      class=topic>跑得噶远也不带个好点的头，那几张小景深的PP焦外失败~<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink \n      href=\"http://www.fotoyard.com/Photoshow/Myhome/Myindex.asp?AuthorID=232\" \n      target=_blank>+樟木+拉萨街头+格尔登寺</A>"
+    },
+    {
+      "floor": 50,
+      "author": "香樟树下一池雨",
+      "role": "会员",
+      "time": "2005-04-27 23:49",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5776334><FONT class=topic>这辈子一定要去欧洲！！！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 51,
+      "author": "樟木",
+      "role": "跑得噶远也不带个好点的头，那几张小景深的PP焦外失败~",
+      "time": "2005-04-28 02:41",
+      "is_op": true,
+      "images": [
+        "images/smile_cool.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5776862><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>老五 \n        wrote:</B><BR>跑得噶远也不带个好点的头，那几张小景深的PP焦外失败~<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR></FONT></BLOCKQUOTE><BR>嘿嘿，不好意思，见笑了。<BR>本是摄影门外汉，记录而已，记录而已。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-04-28 03:30 \n<BR></DIV>"
+    },
+    {
+      "floor": 52,
+      "author": "一心一",
+      "role": "会员",
+      "time": "2005-04-28 08:26",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5777130><FONT class=topic>记录的太好了.欣赏ING! \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 53,
+      "author": "老五",
+      "role": "Moderator",
+      "time": "2005-04-28 09:06",
+      "is_op": false,
+      "images": [
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5777311><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>樟木 \n        wrote:</B><BR>嘿嘿，不好意思，见笑了。<BR>本是摄影门外汉，记录而已，记录而已。<BR></FONT></BLOCKQUOTE><BR>哈哈~~~昨天看这个帖的时候猛地想起你是WHO，顺便投点毒<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR>--------------------------------------------<BR>MZ-S or ist \n      DS？It's a question！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink \n      href=\"http://www.fotoyard.com/Photoshow/Myhome/Myindex.asp?AuthorID=232\" \n      target=_blank>+樟木+拉萨街头+格尔登寺</A>"
+    },
+    {
+      "floor": 54,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-04-28 13:58",
+      "is_op": false,
+      "images": [
+        "images/smile_big.gif",
+        "images/smile_big.gif",
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5779918><FONT \n      class=topic>每天都来这贴转转,<BR>顺便看看有没有新货,<BR>虽然你的主页上面照片都看过一遍了,<BR>但没有\"讲解员\"就是不够爽.<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 55,
+      "author": "GY逝",
+      "role": "会员",
+      "time": "2005-04-28 18:06",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5782108><FONT class=topic>精彩的照片 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 56,
+      "author": "rcy96",
+      "role": "会员",
+      "time": "2005-04-28 18:27",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5782225><FONT \n      class=topic>楼主，你的照片已经看很久了，真的很不错。<BR>下了一些。<BR>想问问你有关欧洲城市的公共开放空间，不知道能否介绍一些社会公益建筑前为市民开放的空间？<BR>类似于卢浮宫那样的吧 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 57,
+      "author": "b2s",
+      "role": "跑得噶远也不带个好点的头，那几张小景深的PP焦外失败~",
+      "time": "2005-04-29 13:17",
+      "is_op": false,
+      "images": [
+        "images/smile_cool.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5788232><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>老五 \n        wrote:</B><BR>跑得噶远也不带个好点的头，那几张小景深的PP焦外失败~<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR></FONT></BLOCKQUOTE><BR>五兄，能否具体说明一下，问题所在，谢谢 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 58,
+      "author": "somnambulant",
+      "role": "不好意思，这几天太忙了。",
+      "time": "2005-04-29 14:55",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5789130><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>樟木 \n        wrote:</B><BR>不好意思，这几天太忙了。<BR>可至MSN探讨。<BR>您是否说的是CASIO的EX-Z40，400万像素35 - \n        105mm的那一款？？<BR>选择器材，也可以到五少爷的超级长“给初学者的一些建议 \n        ”里看看（有耐心的话），不过出来后基本就中P毒了。<BR></FONT></BLOCKQUOTE><BR>你说的那个帖子是ABBS里面的吗？我没搜到。<BR>我已经买了EX—Z40了，就是你说的那种。买了之后，自然就中P毒了，呵呵！每天拿相机到处拍，谁叫我是一只已经期待好久了的菜鸟呢！看到好看的就猛拍，可是有些拍出来除了自己，谁也看不懂。因为看到的感觉我的水平不一定能拍出来。不过即使别人只轻轻地说一句——这张还可以，我也就很开心了。<BR>我觉得你拍照片很细腻，好想学你的，可惜我的技术还没为此准备好。得好好学才行，不然等我过了新鲜劲，可能就觉得没意思了。再就是感觉国内乍看很漂亮的地方，等到拿起机子才发现不是这里脏了，就是那里乱了。不过也许你们这样的高手捕捉能力强，这些压根就不是什么问题了~~~~~比如你那张前台MM，旁边的老兄也挺衬的啊。如果国内的话，可能就要等旁边的人走了才能照。不知道国内外是不是就差在这些细节上。<BR><BR>哦！原来五少爷是叫老五啊，难怪呢！好了，去看了 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right>somnambulant edited on 2005-04-29 15:02 \n  <BR></DIV>"
+    },
+    {
+      "floor": 59,
+      "author": "xiaojie",
+      "role": "Moderator",
+      "time": "2005-04-29 16:13",
+      "is_op": false,
+      "images": [
+        "images/smile_big.gif",
+        "images/smile_big.gif",
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5789783><FONT class=topic>好片啊！！ \n      期待更多精彩片片<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      </B><B><FONT color=red>\n      <CENTER>子非鱼,安知鱼之乐? \n      <CENTER></FONT></B></CENTER></CENTER>"
+    },
+    {
+      "floor": 60,
+      "author": "马吃枣",
+      "role": "会员",
+      "time": "2005-04-29 21:14",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5791784><FONT class=topic>相机什么型号的,颜色这么亮! \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 61,
+      "author": "blueshadow",
+      "role": "会员",
+      "time": "2005-04-30 00:24",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5793469><FONT class=topic>能跟着楼主神游欧洲，实乃幸事！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 62,
+      "author": "东良",
+      "role": "会员",
+      "time": "2005-04-30 10:25",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5795261><FONT \n      class=topic>和你\"一起\"游欧洲!!<BR>支持好贴!!!! </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/blog/东良\" \n      target=_blank>http://www.abbs.com.cn/bbs/blog/东良</A>"
+    },
+    {
+      "floor": 63,
+      "author": "bodo",
+      "role": "会员",
+      "time": "2005-04-30 11:06",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5795682><FONT class=topic>好看！接下去的旅程 \n      快快悉数报上来！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 64,
+      "author": "fzq11",
+      "role": "会员",
+      "time": "2005-04-30 12:23",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5796441><FONT class=topic>很酷！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      我昨晚又恶梦了：烂了一颗牙！突然当爹了！我今年真的25。"
+    },
+    {
+      "floor": 65,
+      "author": "叶峰",
+      "role": "会员",
+      "time": "2005-04-30 13:28",
+      "is_op": false,
+      "images": [
+        "images/smile.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5796837><FONT class=topic>呵呵，马赛公寓——古老的垂直城市 \n      <div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 66,
+      "author": "黑玛瑙",
+      "role": "相机什么型号的,颜色这么亮!",
+      "time": "2005-04-30 20:46",
+      "is_op": false,
+      "images": [
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5800253><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>马吃枣 \n        wrote:</B><BR>相机什么型号的,颜色这么亮!<BR></FONT></BLOCKQUOTE><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR>用什么枪并不重要,只要能达到目的便是好武器!! </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 67,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-05-07 17:24",
+      "is_op": true,
+      "images": [
+        "images/{1ED21F52-1FA1-4385-8481-ACA9EA1CA29F}.jpg",
+        "images/{8EC38BF5-C655-4784-BEF6-A1BFA69342A3}.jpg",
+        "images/{CAC36BE5-9159-439B-B971-B279F5825994}.jpg",
+        "images/{DACED6F8-BD72-4789-80D0-89119CA3F734}.jpg",
+        "images/{C613DC04-BAF5-4E93-8C49-BFDE20AFE268}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5843144><FONT class=topic><B><U><FONT \n      color=#ff0000>D13</FONT> 16/02 \n      Montpellier-Genoa</U></B><BR><BR><B>TGV不紧不慢地地停在了Nice的站台上———尽管晚点了———依然姿态优雅，全然不顾我们转乘的意大利火车还有两分钟就要开车了！<BR><BR>……<BR><BR>列车已经行驶在地中海边，负重狂奔后的我们仍然坐在地板上喘气。意大利的火车肮脏破旧得在Nice车站分外醒目，竟因此挽救了我们的周密计划，不致误车而露宿尼斯。<BR><BR>额手称庆之余，环顾车厢，每扇窗户上都贴有一禁令标志：“禁止向窗外扔酒瓶！” \n      ———按意国人天性，想必此时的我们应该开怀畅饮，并抛樽之于窗外了。<BR><BR>呵呵，可爱的意大利人。与西班牙的谦虚相反，每当问意国人“Do U \n      speak English?”的时候，他们的回答“A little”总是伴随着骄傲和自豪。但是我们在热那亚火车站售票处的遭遇证明了应该把他们的“a \n      little”理解为西班牙人的十分之一乃至无穷小。以至于那位可爱的售票员大叔用尽所有的肢体语言，顶着一脑门子汗，花了一个小时时间，终于打出了我们要的车票时，大家竟不约而同地鼓起掌来，分明是一种绝处逢生的喜悦啊！<BR><BR>到了意大利，才明白Communication（沟通）是多么地宝贵———因为其无限不可能性。<BR><BR>看来人类建造通天塔的失败隐瞒了一个重要细节：意大利人加入了进来。</B><BR><BR>（《旧约》记载，古时候，天下人都说一种语言，他们计划修一座高塔。此事惊动了耶和华，于是他施魔法，变乱了人们的口音，使他们无法沟通，高塔最终也没有建成。）<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1ED21F52-1FA1-4385-8481-ACA9EA1CA29F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      从山顶青年旅馆俯瞰热那亚<BR><BR><B>印象中的热那亚是一个比马赛更不堪的城市，大街小巷里必然充斥着奸诈的商人和烂醉的水手，而这些水手应该多为海盗的后裔。此番补记日记才查到这一片段记忆的出处，原来是《看不见的城市》中的一段不起眼的对话：“马可说，‘……假使有一天我成为热那亚海盗的俘虏而跟一个写探险小说的作家囚在一起，……’”<BR><BR>但是，卡尔维诺接着写道：<FONT \n      color=#ff0000>“决定故事的，不是讲话的声音而是倾听的耳朵。”</FONT><BR><BR>公共汽车上的经历否定了我的偏见：热那亚人拥有意大利所应该具备的所有热情。我们只需把标明目的地的地图给身边任何一个人，就大可高枕无忧了。自动地，他们会接力一般地在下车前把我们托付给下一位乘客，以至于接近终点时，车上所有的乘客都会拍拍胸脯对着我们微笑。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8EC38BF5-C655-4784-BEF6-A1BFA69342A3}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 热那亚街景<BR><BR><B>到达山顶的青年旅馆已经是夜里了，今日一天内辗转了三趟火车，Montpellier - \n      Marseille-Nice-Genoa，明早还要坐火车到S.M.镇（是Sant \n      Margherita，呵呵。），然后转汽车，这一切仅仅是为了Portofino（波托菲诺）———《云上的日子》中那个梦幻般的海港渔村，为了海边独舞的苏菲·玛索。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{CAC36BE5-9159-439B-B971-B279F5825994}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{DACED6F8-BD72-4789-80D0-89119CA3F734}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C613DC04-BAF5-4E93-8C49-BFDE20AFE268}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>补记：在网上搜索“Portofino”或“波托菲诺”，前几页俱为深圳的一著名楼盘。原来开发商酝酿之初，行迹亦曾到此，遂决定从布局至造型色彩全盘拷贝；另有组织业主访意寻根文化互动云云……</B><BR><BR><B>To \n      be continue...</B><BR><BR><I>\n      <CENTER><FONT \n      color=#ff0000>本文版权所有，请勿私自转载</FONT></CENTER></I></FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-05-07 17:31 \n<BR></DIV>"
+    },
+    {
+      "floor": 68,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-05-07 18:01",
+      "is_op": false,
+      "images": [
+        "images/smile_tongue.gif",
+        "images/smile_tongue.gif",
+        "images/smile_tongue.gif",
+        "images/smile_big.gif",
+        "images/smile_big.gif",
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5843456><FONT \n      class=topic>等了好久,<BR>真的好久,<BR>五一节的加班,<BR>辛苦辛苦啦.<BR><BR>真不知道该用什么形容你带给我们的意大利人,<BR>憨厚,淳朴,还是海盗商人般的奸诈狡猾。<BR><BR>不过有一点看得出，他们的不修边幅应该也是出了名的。<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_tongue.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_tongue.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_tongue.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>looking forward,for \n      continued.<BR>(我的英语估计不比那位售票的意大利大叔的英语好多少。<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>) \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 69,
+      "author": "樟木",
+      "role": "补记：在网上搜索“Portofino”或“波托菲诺”，前几页俱为深圳的一著名楼盘。原来开发商酝酿之初，行迹亦曾到此，遂决定从布局至造型色彩全盘拷贝；另有组织业主访意寻根文化互动云云……",
+      "time": "2005-05-07 18:27",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5843619><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>樟木 \n        wrote:</B><BR>补记：在网上搜索“Portofino”或“波托菲诺”，前几页俱为深圳的一著名楼盘。原来开发商酝酿之初，行迹亦曾到此，遂决定从布局至造型色彩全盘拷贝；另有组织业主访意寻根文化互动云云……<BR></FONT></BLOCKQUOTE><BR>真巧，正好lilysussie \n      新发贴<B>深圳波托菲诺</B><BR>参见：<BR><A class=ilink \n      href=\"http://www.abbs.com.cn/bbs/post/view?bid=18&amp;id=5841448&amp;tpg=1&amp;ppg=1&amp;sty=1#5843588\" \n      target=_blank>http://www.abbs.com.cn/bbs/post/view?bid=18&amp;id=5841448&amp;tpg=1&amp;ppg=1&amp;sty=1#5843588</A> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 70,
+      "author": "blueshadow",
+      "role": "会员",
+      "time": "2005-05-07 22:51",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5845249><FONT \n      class=topic>：“马可说，‘……假使有一天我成为热那亚海盗的俘虏而跟一个写探险小说的作家囚在一起，……’”<BR><BR>但是，卡尔维诺接着写道：“决定故事的，不是讲话的声音而是倾听的耳朵。”<BR><BR>结果有一天我在ABBS看到了故事...等的值得<BR>相信楼主眼中笔下的PORTOFINO不逊与《云上的日子》，期待ING \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      波神留我看斜阳 浪里露宿又何妨<BR>"
+    },
+    {
+      "floor": 71,
+      "author": "MCKXYGC",
+      "role": "会员",
+      "time": "2005-05-07 23:54",
+      "is_op": false,
+      "images": [
+        "images/smile_evil.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5845710><FONT \n      class=topic>图片一个也看不到<BR>我抗议！！！<BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_evil.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      。。。。撞树桩的小兔子。。。。"
+    },
+    {
+      "floor": 72,
+      "author": "WALKIE_TALKIE",
+      "role": "会员",
+      "time": "2005-05-08 05:00",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5846427><FONT \n      class=topic>好文，好片！<BR>支持好帖，支持自助遊！！！！！！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      仍然為了業兒就暗戀森林 裝飾最空白時分"
+    },
+    {
+      "floor": 73,
+      "author": "luiqunllt",
+      "role": "会员",
+      "time": "2005-05-08 09:42",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5847008><FONT \n      class=topic>我认为摄影很一般,<BR>给精华的理由大概是因为他旅游的地方是欧洲而不是中国的某个地方吧 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 74,
+      "author": "box2man",
+      "role": "我认为摄影很一般,",
+      "time": "2005-05-08 10:08",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5847231><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>luiqunllt \n        wrote:</B><BR>我认为摄影很一般,<BR>给精华的理由大概是因为他旅游的地方是欧洲而不是中国的某个地方吧<BR></FONT></BLOCKQUOTE><BR><B>认真的态度</B>和<B>难得的心境</B>.<BR><BR><B>去哪里</B>也许不重要,<B>是否精华</B>也许也不重要了. \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 75,
+      "author": "MALE",
+      "role": "会员",
+      "time": "2005-05-09 14:37",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5857445><FONT class=topic>投其所好…… \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <FONT color=white>&nbsp;<B> ，　，　ＡＳ　ＹＯＵ　ＫＮＯＷ，　，　，　</B></FONT>"
+    },
+    {
+      "floor": 76,
+      "author": "石敢当",
+      "role": "会员",
+      "time": "2005-05-09 18:04",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5859378><FONT class=topic>好贴，鼓励一下 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 77,
+      "author": "tokinglin",
+      "role": "会员",
+      "time": "2005-05-10 10:37",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5863561><FONT \n      class=topic>非常不错的帖子，优美的文字加上并不做作的记录影象，一切都是那么平和，带着些许激情，期待旅行的下一站 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 78,
+      "author": "sxf555",
+      "role": "会员",
+      "time": "2005-05-10 13:03",
+      "is_op": false,
+      "images": [
+        "images/1115700925.jpg"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5865157><FONT class=topic><div class=\"abbs-post-photo-wrap\"><img src=\"images/1115700925.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 79,
+      "author": "blueshadow",
+      "role": "会员",
+      "time": "2005-05-11 03:53",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5871191><FONT class=topic>我等，我等...... \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      波神留我看斜阳 浪里露宿又何妨<BR>"
+    },
+    {
+      "floor": 80,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-05-11 11:38",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5873095><FONT class=topic>\n      <OBJECT \n      codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0 \n      height=408 width=559 \nclassid=\"clsid: D27CDB6E-AE6D-11cf-96B8-444553540000\"><PARAM NAME=\"movie\" VALUE=\"http://www.music182.cdd.cn/upload/10171/{81EBC2DB-C045-41D2-9F7E-CE3A995E61BD}.swf\"><PARAM NAME=\"menu\" VALUE=\"false\"><PARAM NAME=\"quality\" VALUE=\"high\"><PARAM NAME=\"salign\" VALUE=\"tl\"><PARAM NAME=\"scale\" VALUE=\"noscale\">\n                              <embed id='globalnav-embed' \n      src='http://www.music182.cdd.cn/upload/10171/{81EBC2DB-C045-41D2-9F7E-CE3A995E61BD}.swf' \n      type='application/x-shockwave-flash' \n      pluginspage='http://www.macromedia.com/go/getflashplayer' \n      flashvars='loc=en_US&htmlApp=false&gatewayURL=gwurl' bgcolor='#c6cfd0' \n      menu='false' quality='high' salign='tl' scale='noscale' width='559' \n      height='408'></embed>    </OBJECT><BR><BR><B>先发一个关于意大利人的笑话吧。</B> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 81,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-05-11 12:01",
+      "is_op": false,
+      "images": [
+        "images/smile_cool.gif",
+        "images/smile_cool.gif",
+        "images/smile_cool.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5873366><FONT class=topic>看过一遍,再看一遍,很搞.<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 82,
+      "author": "cicada_nix",
+      "role": "会员",
+      "time": "2005-05-11 14:37",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5874838><FONT class=topic>真好，顶1下. \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 83,
+      "author": "WALKIE_TALKIE",
+      "role": "会员",
+      "time": "2005-05-12 05:25",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5879841><FONT \n      class=topic>參差多態乃倖福本源，可愛的意大利人哈哈！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      仍然為了業兒就暗戀森林 裝飾最空白時分"
+    },
+    {
+      "floor": 84,
+      "author": "菊花古剑和酒",
+      "role": "会员",
+      "time": "2005-05-12 11:34",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5881587><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>樟木 \n        wrote:</B><BR><BR>迫切希望自己有欧洲旅游生活经历！！！！！！！！！我努力！！！！阿！！！！ \n        </FONT></SPAN><BR><BR>\n        <DIV align=right></DIV></BLOCKQUOTE></FONT>"
+    },
+    {
+      "floor": 85,
+      "author": "心乞",
+      "role": "会员",
+      "time": "2005-05-12 16:38",
+      "is_op": false,
+      "images": [
+        "images/{6AFA3067-0025-47B6-9D3C-C3AAA19EB488}.jpg",
+        "images/smile_cool.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5884267><FONT class=topic><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6AFA3067-0025-47B6-9D3C-C3AAA19EB488}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>8<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_cool.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>C-3F7C-47CE-A143-6D72EDE7D89E}.jpg' \n      BORDER=0&gt;我个人还是比较喜欢这胖子<BR><BR>胖子骑瘦驴 </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      QQ:195644992"
+    },
+    {
+      "floor": 86,
+      "author": "erix li",
+      "role": "会员",
+      "time": "2005-05-13 02:52",
+      "is_op": false,
+      "images": [
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5888200><FONT class=topic>意大利人真的好玩....<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/blog/erix%20li\" \n      target=_blank>ABlog</A><BR><A class=ilink \n      href=\"http://www.erix.fotoyard.com/\" target=_blank>Fotoyard</A>"
+    },
+    {
+      "floor": 87,
+      "author": "cyf1210",
+      "role": "会员",
+      "time": "2005-05-15 01:37",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5904012><FONT \n      class=topic>很喜欢这种风格的东东～希望楼主再接再厉啊～ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 88,
+      "author": "blueshadow",
+      "role": "会员",
+      "time": "2005-05-17 02:51",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5919602><FONT \n      class=topic>嘿嘿，意大利人搞笑。我继续等...... </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      波神留我看斜阳 浪里露宿又何妨<BR>"
+    },
+    {
+      "floor": 89,
+      "author": "tokinglin",
+      "role": "会员",
+      "time": "2005-05-19 09:39",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5937906><FONT class=topic>楼主睡着了？ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 90,
+      "author": "墨羽",
+      "role": "会员",
+      "time": "2005-05-19 11:29",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5939234><FONT \n      class=topic>等啊等啊..................... </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      一壶浊酒喜相逢，古今多少事尽付笑谈中 <BR><A class=ilink \n      href=\"http://www.abbs.com.cn/bbs/blog/7991717.html\" \n      target=_blank>http://www.abbs.com.cn/bbs/blog/7991717.html</A> \n  <BR>"
+    },
+    {
+      "floor": 91,
+      "author": "樟木",
+      "role": "楼主睡着了？",
+      "time": "2005-05-19 12:12",
+      "is_op": true,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5939597><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>tokinglin \n        wrote:</B><BR>楼主睡着了？<BR></FONT></BLOCKQUOTE><BR>几天没睡了。。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 92,
+      "author": "zg_1314",
+      "role": "会员",
+      "time": "2005-05-19 12:15",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5939621><FONT class=topic>漂亮的画面，期待的思绪…… \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life's \n      A Struggle<BR>{会割爱；懂放手}[天是倒过来的海]沉默无语"
+    },
+    {
+      "floor": 93,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-05-20 23:44",
+      "is_op": true,
+      "images": [
+        "images/{1FE0543D-E865-4209-B194-7C79E2FBDF29}.jpg",
+        "images/{544A246A-6175-475F-9D52-2745AA212A2A}.jpg",
+        "images/{4BCC05B3-F0AA-4411-A9C8-91EE9A2FE7CF}.jpg",
+        "images/{E776577E-7542-4B04-9AB4-7FE727038CF6}.jpg",
+        "images/{7CAAF084-BDD3-4CC6-BFAD-D05A39D86A6D}.jpg",
+        "images/{8207CBDC-252B-4A49-971B-16AB8750C6CA}.jpg",
+        "images/{A2E73532-991A-41B0-8B87-23EC7C722499}.jpg",
+        "images/{694E81EB-4D05-47DB-B387-41F99F7E26AC}.jpg",
+        "images/{8BE0BAFE-52AF-47D8-9378-9A69B3FE53FB}.jpg",
+        "images/{29FE58EE-B40B-4308-A3DD-A0B1679D93A6}.jpg",
+        "images/{3CE79402-696E-4661-AAE1-F4409A18C07B}.jpg",
+        "images/{297D0393-D012-4EBF-8F64-FCB37347D759}.jpg",
+        "images/{08ACDA87-4BAA-49B9-A2CE-5139BB18EB90}.jpg",
+        "images/{A0AF96CA-CC85-46C8-A9B3-E00C36BADB99}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5953844><FONT class=topic><U><B><FONT \n      color=#ff0000>D14</FONT> 17/02 Portofino</B></U><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{1FE0543D-E865-4209-B194-7C79E2FBDF29}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>深蓝色的Liguria海<BR><BR><B>依然是沿着地中海的铁路线，依然是湛蓝深邃的海水，不过这已经是利古里亚海域了（Liguria）。S.M.是这海岸线上的一个小镇，平凡而安详，躺在温暖的阳光下。<BR><BR>这时候的太阳，应该正悬在北非的上空吧。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{544A246A-6175-475F-9D52-2745AA212A2A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>S.M.镇，平凡而安静<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{4BCC05B3-F0AA-4411-A9C8-91EE9A2FE7CF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>安逸的海滩父子<BR><BR><B>忽然产生了散步的欲望。这要归功于错误的路标，关于意大利的传说果然不虚，但是在这样的好天气里，多走几步路又有何妨呢？<BR><BR>因此决定步行前往波托菲诺，Tourist \n      Information给了我们一张这一地区的徒步者地图，看来拥有好心情的不止我一个。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{E776577E-7542-4B04-9AB4-7FE727038CF6}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>典型的意大利路标<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7CAAF084-BDD3-4CC6-BFAD-D05A39D86A6D}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>通往Portofino的步行路标<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8207CBDC-252B-4A49-971B-16AB8750C6CA}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>静谧的小海湾<BR><BR><B>电影中马可维奇（Malkovich）饰演的导演为了那一张偶得的明信片就去了Portofino，而我，是为了那一部电影，我会找到那家服装店么？<BR><BR>还有店中的苏菲·玛索（Sophie \n      Marceau）？<BR><BR>又走神了。<BR><BR>……</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A2E73532-991A-41B0-8B87-23EC7C722499}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>沿着山路又转过一个海角，静静地，波托菲诺，就在眼前！<BR><BR>此时的天气变得阴霾起来，就象那片中的氛围。我开始相信电影的力量了：做一个导演、演员，甚至《东邪西毒》中任由女主角梳洗的那匹马，显然都比做一个建筑师要有趣得多。<BR><BR>当然，能做德国馆的那只猫也不错。<BR><BR>这说明，<FONT \n      color=#ff0000>生活存在着无限多种可能性。</FONT></B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{694E81EB-4D05-47DB-B387-41F99F7E26AC}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>廊的前面就是苏小姐的时装店<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{8BE0BAFE-52AF-47D8-9378-9A69B3FE53FB}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>还是淡季，游人很少，海边小广场上的桌椅都已经收了起来。既没找到适合我等荷包的Pizza小店，只好吃正餐了。<BR><BR>这家馆子就在海边，大概拥有这儿最好的景观了，透过窗外，岬湾对面就是主人公邂逅的那家服装店，竟然有些恍惚。这窗户是最好的取景框，可每每拍出的照片却精致得有些不真实。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{29FE58EE-B40B-4308-A3DD-A0B1679D93A6}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>为了这扇美丽的窗户，我们付出了昂贵的代价！环顾四周，墙上挂着都是各界名人在此饕餮的照片，还有巴乔的签名球衣，想必夏天这小海湾里必是帆樯林立，名流云集吧。<BR><BR>登上海角边的山头，忽然间云开日现，平静的一泓深蓝倒映着沿岸色彩鲜艳的立面。灰暗的影像迅速变得生动起来。<BR><BR>——原来波托菲诺根本就不是设计出来的。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3CE79402-696E-4661-AAE1-F4409A18C07B}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{297D0393-D012-4EBF-8F64-FCB37347D759}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>山的另一边<BR><BR><B>许是我见异思迁，别样的Portofino横陈面前的，刹那间我忘记了是来寻觅芳踪的，影片中的Portofino已是一些记忆的残片，看来没有可能按图索骥了。电影已经过去了十多年，登陆这儿的名人又是多如牛毛，又有谁会记得苏小姐的昙花一现呢？</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{08ACDA87-4BAA-49B9-A2CE-5139BB18EB90}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR>走还是留下？这是个问题。<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A0AF96CA-CC85-46C8-A9B3-E00C36BADB99}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>\n      <CENTER>To be continue...</CENTER></B><BR><BR>\n      <CENTER><I><FONT \n      color=#ff0000>本文版权所有，请勿私自转载</FONT></I></CENTER></FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-05-23 21:53 \n<BR></DIV>"
+    },
+    {
+      "floor": 94,
+      "author": "WALKIE_TALKIE",
+      "role": "会员",
+      "time": "2005-05-21 17:08",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5958504><FONT \n      class=topic>電影真偉大，還刺激旅遊呢。<BR>美麗的蘇小姐在美麗的PORTOFINO問“走還是畱下？”————當然畱下！！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      仍然為了業兒就暗戀森林 裝飾最空白時分"
+    },
+    {
+      "floor": 95,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-05-22 14:39",
+      "is_op": false,
+      "images": [
+        "images/smile_sleepy.gif",
+        "images/smile_sleepy.gif",
+        "images/smile_sleepy.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5963822><FONT class=topic>为什么看不到图阿 ？？？<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_sleepy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_sleepy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_sleepy.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 96,
+      "author": "blueshadow",
+      "role": "会员",
+      "time": "2005-05-23 17:52",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5973352><FONT \n      class=topic>波托菲诺根本就不是设计出来的<BR>顶！！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      波神留我看斜阳 浪里露宿又何妨<BR>"
+    },
+    {
+      "floor": 97,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-05-24 14:08",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5979363><FONT \n      class=topic>恭喜恭喜,终于找到了.<BR><BR>也许,<BR>哪怕只是跟她站在同样的一条街上,<BR>也让我等产生无比的羡慕.<BR><BR>下面,我该去做的事情就是找到让你魂牵梦绕的片子。<BR>补习一下。呵呵 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 98,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-05-24 14:14",
+      "is_op": false,
+      "images": [
+        "images/smile_shock.gif",
+        "images/smile_shock.gif",
+        "images/smile_shock.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text5979422><FONT \n      class=topic>才发现，最后一张的景致在上面苏小姐的窗子里面出现了，<BR>完全一致阿。<BR><BR>莫非。。。<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shock.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shock.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_shock.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 99,
+      "author": "verywell",
+      "role": "会员",
+      "time": "2005-05-30 09:11",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6025073><FONT class=topic>照片很美，欧洲真美，等待楼主继续！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 100,
+      "author": "superpigNO_111",
+      "role": "会员",
+      "time": "2005-05-30 15:45",
+      "is_op": false,
+      "images": [
+        "images/smile.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6028855><FONT class=topic><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>欧洲真的很美～<BR><BR>不管是对设计师<BR><BR>艺术家<BR><BR>还是普通的旅行者<BR><BR>一定要去那边看一看呀…… \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 101,
+      "author": "斯柯",
+      "role": "会员",
+      "time": "2005-05-31 11:32",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6035063><FONT \n      class=topic>欧洲，很美，一直向往的地方，<BR><BR>楼主辛苦了，漂亮的相片，朴实的语言，好喜欢这样的感觉，盼望理想早日实<BR>现~ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      走走，看看，想想，做做，无穷无尽~~~<BR>我的自由空间——http://spaces.msn.com/members/smdesign/"
+    },
+    {
+      "floor": 102,
+      "author": "天外非仙",
+      "role": "会员",
+      "time": "2005-05-31 19:24",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6039547><FONT \n      class=topic></FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 103,
+      "author": "box2man",
+      "role": "故事有点深奥啊.",
+      "time": "2005-06-02 13:33",
+      "is_op": false,
+      "images": [
+        "images/smile_approve.gif",
+        "images/smile_approve.gif",
+        "images/smile_approve.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6054444><FONT class=topic><B>BEYOND THE \n      CLOUD</B><BR>故事有点深奥啊.<BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_approve.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_approve.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_approve.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>继续继续... </FONT></SPAN><BR><BR>\n      <DIV align=right>box2man edited on 2005-06-02 13:37 <BR></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 104,
+      "author": "bunny601",
+      "role": "会员",
+      "time": "2005-06-02 15:26",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6055577><FONT \n      class=topic>这个贴子一直珍藏着，时不时细细品味。希望版主有更多作品！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 105,
+      "author": "xenium9",
+      "role": "会员",
+      "time": "2005-06-03 10:52",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6061576><FONT \n      class=topic>对欧洲的异域风情甚是神往.......<BR>期待楼主更精彩的图文 </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 106,
+      "author": "于秋",
+      "role": "会员",
+      "time": "2005-06-03 11:42",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6062222><FONT \n      class=topic>灰灰的感觉<BR>慵懒的步履<BR>像清风一样的闲适，<BR>陌生中的自由！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 107,
+      "author": "北青萝",
+      "role": "会员",
+      "time": "2005-06-05 17:19",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6081901><FONT class=topic>收藏！！！！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      残阳西入崦，茅屋访孤僧。<BR>落叶人何在？寒云路几层？<BR>独敲初夜磬，闲倚一枝藤。<BR>世界微尘里，吾宁爱与憎。"
+    },
+    {
+      "floor": 108,
+      "author": "颂今",
+      "role": "会员",
+      "time": "2005-06-08 22:43",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6112396><FONT class=topic>强顶！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 109,
+      "author": "fc216",
+      "role": "会员",
+      "time": "2005-06-09 15:13",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6117700><FONT \n      class=topic>感动得我要每星期顶一次！！！！<BR>不过你的money也不少啊 </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 110,
+      "author": "freeyee",
+      "role": "会员",
+      "time": "2005-06-11 12:38",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6133201><FONT class=topic>狂顶没话说<BR>太美了！！！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 111,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-07-24 02:14",
+      "is_op": true,
+      "images": [
+        "images/{F10E077F-5D29-4FA3-A111-67CB484CBEB6}.jpg",
+        "images/{B719A548-CCA3-4F75-A47C-0FA6AF9E06E8}.jpg",
+        "images/{BCA71BC5-C42E-4A15-9E1F-B27607A68DD0}.jpg",
+        "images/{F5792082-6456-41D2-8172-18DDA9AC6B88}.jpg",
+        "images/{BE2D4EED-0C09-4A3F-AB71-2E9A0A603A7F}.jpg",
+        "images/{C53D7082-9886-4084-A69D-DF9A47470DEF}.jpg",
+        "images/{571967A9-2CF8-43B8-86BE-3A8C852D70E2}.jpg",
+        "images/{499DF870-213D-4C16-BC1E-BFC93B394116}.jpg",
+        "images/{BDC84102-E0A8-4892-8290-42836DB168DC}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6485946><FONT class=topic><U><B><FONT \n      color=#ff0000>D15</FONT> 18/02 \n      Genoa</B></U><BR><BR><B>回到热那亚，就象回到了尘世，喧攘而真实。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F10E077F-5D29-4FA3-A111-67CB484CBEB6}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> 市井<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B719A548-CCA3-4F75-A47C-0FA6AF9E06E8}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BCA71BC5-C42E-4A15-9E1F-B27607A68DD0}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      菜场虽乱些，却也情致盎然<BR><BR><B>去威尼斯的夜车是凌晨1:50的，于是我们又能够继续一整天的意大利式的无所事事了。<BR><BR>还是先去理发，既然不能在塞维利亚找到理发师，就让我在罗西尼的故乡实现这愿望吧———我可不愿意像个印地安人一样去到威尼斯。<BR><BR>接着就去老港闲坐着喝咖啡。当我在数日后到达德国的M&#369;chen，方才意识到意大利咖啡的美味。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F5792082-6456-41D2-8172-18DDA9AC6B88}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> Renzo Piano设计的热那亚老港改建。这里也是Piano的故乡<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BE2D4EED-0C09-4A3F-AB71-2E9A0A603A7F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{C53D7082-9886-4084-A69D-DF9A47470DEF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>索膜结构的港口娱乐设施<BR><BR><B>午餐依然是Pizza，发现街头一家店子竟然有当地百姓在排队，遂毫不犹豫凑了个热闹。当我们在市政广场上晒着太阳饕餮时，倒是从旅游指南上发现这原来是一家百年老字号！不经意间又一次师出有名。<BR><BR>脱了外套躺在台阶上，这才明白为什么古希腊的建筑喜欢用外廊式布局。阳光下的广场上，各色帅哥美女无不灿烂鲜活，寻常Pizza也因带着太阳的味道而芬芳了。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{571967A9-2CF8-43B8-86BE-3A8C852D70E2}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><br><br><div class=\"abbs-post-photo-wrap\"><img src=\"images/{499DF870-213D-4C16-BC1E-BFC93B394116}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>然而日落后的城市却是另一个面目。<BR><BR>十点过后的餐厅、CAF&Eacute;一概打烊，连行李寄存处也下班了。欧洲的火车站一概没有候车室，外廊式的建筑同样也让寒风穿堂而入。我们只能蜷缩在过厅的金属长椅上等待凌晨的火车，并不时颤抖着声音揣测大厅里的各色可疑人等：<BR><BR>那边兴高采烈的兄弟俩提着装满土产的大篮子，应该是去Milano走亲戚的吧——肯定和我们一趟车——被警察喝令不得把篮子放在大厅中央，万一是炸弹呢？<BR><BR>坐在身边的那哥们一袭风衣已污迹斑斑，压低帽檐只露双眼，总避开我的目光。1:30有一班去往臭名昭著的Napoli的火车，想必是个亡命天涯之人，或辗转投奔西西里亦未可知。<BR><BR>还有一对衣着光鲜，扭胯行走的年轻男性，目的不明，来回逡巡，见人必讨烟抽。害我每每躲至月台抽烟，5欧一包买的烟抽来竟像做贼似的。<BR><BR>寒夜将尽，火车来了。这是一班欧洲著名的夜行火车，分别从Nice，M&#369;chen，Gen&#279;ve始发，途中在Milano，Verona挂接，最后开往Venezia。吾等小站乘客自须苦等，待我们上得车时，车厢内已是鼾声一片。<BR><BR>……<BR><BR>天色微亮，已经睡不着了。火车渐渐减速，驶上了那座著名的跨海栈桥，两边是平静的亚德里亚海水，海的那边，已经能依稀看到岛上曙色中的钟楼塔尖了。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BDC84102-E0A8-4892-8290-42836DB168DC}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>\n      <CENTER>To be continue...</CENTER></B><BR><BR>\n      <CENTER><I><FONT \n      color=#ff0000>本文版权所有，请勿私自转载</FONT></I></CENTER></FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 112,
+      "author": "夜青",
+      "role": "会员",
+      "time": "2005-07-24 10:20",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6486746><FONT class=topic>这只界么会下蛋的鸡，什么来头？ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 113,
+      "author": "box2man",
+      "role": "会员",
+      "time": "2005-07-24 11:02",
+      "is_op": false,
+      "images": [
+        "images/{571967A9-2CF8-43B8-86BE-3A8C852D70E2}.jpg",
+        "images/smile_blush.gif",
+        "images/smile_approve.gif",
+        "images/smile_big.gif",
+        "images/smile_big.gif",
+        "images/smile_big.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6487047><FONT class=topic><div class=\"abbs-post-photo-wrap\"><img src=\"images/{571967A9-2CF8-43B8-86BE-3A8C852D70E2}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR>介个 MM 我喜欢,你那肯定不光扫了人家一张吧,多多贴来。<BR>很是喜欢你随兴拍的人。<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_blush.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>晚上那几张估计除了光线条件也不允许你拿出相机来乱扫。<BR>看到你的绘声绘色的介绍也就不勉强你帖图来了。<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_approve.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR>但 让人解暑降温的糖水 还是必不可少地。<BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_big.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <A class=ilink href=\"http://www.abbs.com.cn/bbs/user/myforum?col=6\" \n      target=_blank><FONT color=orange><B>BOX2MAN BLOG</B></FONT></A>"
+    },
+    {
+      "floor": 114,
+      "author": "樟木",
+      "role": "晚上那几张估计除了光线条件也不允许你拿出相机来乱扫。",
+      "time": "2005-07-24 11:12",
+      "is_op": true,
+      "images": [
+        "images/smile_approve.gif"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6487133><FONT class=topic>\n      <BLOCKQUOTE><FONT color=#0000a0><B>box2man \n        wrote:</B><BR>晚上那几张估计除了光线条件也不允许你拿出相机来乱扫。<BR>看到你的绘声绘色的介绍也就不勉强你帖图来了。<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile_approve.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR></FONT></BLOCKQUOTE><BR><BR>---回楼上的：那晚冻得实在够呛，哪还能拍照啊！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 115,
+      "author": "魍魉",
+      "role": "会员",
+      "time": "2005-07-24 11:38",
+      "is_op": false,
+      "images": [
+        "images/smile.gif",
+        "images/smile.gif",
+        "images/smile.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6487319><FONT \n      class=topic>樟木兄又开始了！！！<BR><BR>期待~~<BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      <B>abbs摄影群<FONT color=red>27141578</FONT>，欢迎加入，这年头就得多交流阿！</B>"
+    },
+    {
+      "floor": 116,
+      "author": "bunny601",
+      "role": "会员",
+      "time": "2005-07-25 09:03",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6492952><FONT class=topic>支持呀！！！期待 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 117,
+      "author": "tokinglin",
+      "role": "会员",
+      "time": "2005-07-25 11:44",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6494758><FONT \n      class=topic>每次阅览都会有一种深秋的午后品一杯肯尼亚A级咖啡的惬意，不用添加任何东西，香醇带着一丝酸味，在舌根回荡，很深很厚实。<BR>期待下一次，某日的午后，和着深秋的一片枯叶~~~~~~~~舞动 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 118,
+      "author": "amy2352",
+      "role": "会员",
+      "time": "2005-07-26 15:40",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6505547><FONT \n      class=topic>美极了！摄影技术也不赖吗！<BR>支持一下！ </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 119,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-07-27 06:09",
+      "is_op": true,
+      "images": [
+        "images/{35B6FA18-4694-406D-BCC2-53769BDE374E}.jpg",
+        "images/{488250C1-F316-4AC7-B43E-ECD0144B9D77}.jpg",
+        "images/{BAF85CBA-F59B-4B91-AE16-63FF0F8D423F}.jpg",
+        "images/{3DBF4494-642C-476C-BA14-9A32203DAEE5}.jpg",
+        "images/{D8454C0D-00FA-428A-B0D6-EA9FA1B5D5E1}.jpg",
+        "images/{F1530480-EBFE-48E2-862C-A4294C3AD0EE}.jpg",
+        "images/{BB8CEEF5-E5A5-409F-9209-D49BFD51CB25}.jpg",
+        "images/{BA550642-C041-4455-8D12-3892ADB5D807}.jpg",
+        "images/{6D020717-AB34-4F70-9004-59C66E276B9A}.jpg",
+        "images/{A63DB3AF-E735-4B41-A190-4D72C65A4958}.jpg",
+        "images/{6E1884FC-6B94-4A35-BB2B-440DEB01F088}.jpg",
+        "images/{EBB695C3-C31D-478A-B72E-47B1D900A234}.jpg",
+        "images/{BB480E7D-D7C6-4651-AE0D-2075EDE34795}.jpg",
+        "images/{491FD252-2D53-4C66-90A4-262975C92E1A}.jpg",
+        "images/{83A49467-2652-4D7C-9B48-AB465306123B}.jpg",
+        "images/{3ED89C18-8613-48D1-8D7A-3AD60F0EEE17}.jpg",
+        "images/{88D596EB-9317-4555-82ED-8AEA52B45C03}.jpg",
+        "images/{0CFBA1DE-C5CF-426F-B5B2-0FBF9880853C}.jpg",
+        "images/{7F48CF04-E136-45EB-8FEE-FCAE6BCD7248}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6509899><FONT class=topic><U><B><FONT \n      color=#ff0000>D16-17</FONT> 19/02-20/02 \n      Venezia</B></U><BR><BR><B>在欧洲的火车体验是奇特而美好的——总是与蔚蓝色的海水联系在一起：Valencia童话般的海边小站，泳装女孩如美人鱼般出没着的Coasta \n      Brava铁路，直到现在站在威尼斯火车站的门口，雾霭晨曦中是穿梭往来的贡朵拉和水上巴士——这就是威尼斯。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{35B6FA18-4694-406D-BCC2-53769BDE374E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{488250C1-F316-4AC7-B43E-ECD0144B9D77}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>“左转走4分钟见桥……左转第二个路口直巷……走到尽头，右边第二个门**号，最上面白色门铃(！！！)” \n      ——沿着“穷游欧洲”某位DX的导航，我们精确地命中了目标——蜚声中外的威尼斯“张大姐旅馆”。再次感谢万能的互联网！<BR><BR>……<BR><BR>也许我能够徒手画出无数个不同角度的圣马可广场，但是面对密若蛛网水陆交错的威尼斯地图，寻找它的最好方法也许是丢开地图，汇入到人流中去。<BR><BR>小巷中的涓涓细流不断地汇合成兴高采烈的熙熙攘攘，人群越来越拥挤，人们的表情越来越兴奋，忽然———远处欢笑的嘈杂声传来，大教堂西立面上金色的光彩落在兴奋的脸上，每个人都发出了欢喜的叫声———眼前豁然，圣马可广场正沉浸在当天最后一束阳光中。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BAF85CBA-F59B-4B91-AE16-63FF0F8D423F}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3DBF4494-642C-476C-BA14-9A32203DAEE5}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D8454C0D-00FA-428A-B0D6-EA9FA1B5D5E1}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>威尼斯总督府的夕阳<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F1530480-EBFE-48E2-862C-A4294C3AD0EE}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>威尼斯总督府的夕阳<BR><BR><B>在广场北侧旧市政大厦（Procuratie \n      Vacchie）的连廊中，我找到了卡罗·斯卡帕（Karlo \n      Scarpa）设计的Olivetti专卖店，如今已变为一家画廊。尽管不是顾客，尽管如我这样慕名而来的“年轻的建筑系学生”永远多于顾客，女店员仍然热情地建议我到处走动并拍摄。<BR><BR>一切细部都和十几年前伍先生的幻灯一样，时间仿佛一直凝固在这欢乐广场的一隅。建筑师缓慢而从容的叙事就象一个坐在广场远端的老年人，不紧不慢地看着尘世的欢乐人群，嘴角还会时而漾起笑意。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BB8CEEF5-E5A5-409F-9209-D49BFD51CB25}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Karlo Scarpa设计的Olivetti \n      Showroom<BR><BR><B>夜晚的威尼斯是沉醉在桨声灯影里的，桥下缓缓滑过的贡朵拉上会有悠远的歌声传来。船夫莫不是英俊挺拔兼有着低沉迷人的嗓音，以至于中外MM都愿意拉着船夫合影，船夫们也毫不吝啬地向镜头发射意大利式的魅力。威尼斯在女性心目中的浪漫形象应该与之有着莫大的关系吧。同行的MM们又一次陷入了审美疲劳中。<BR><BR>煞风景的是，我竟不自觉哼起了“伏尔加河上的纤夫”，同是使船的，差距怎么就那么大呢？<BR><BR>……</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BA550642-C041-4455-8D12-3892ADB5D807}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>桨声灯影里的威尼斯夜色<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6D020717-AB34-4F70-9004-59C66E276B9A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{A63DB3AF-E735-4B41-A190-4D72C65A4958}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6E1884FC-6B94-4A35-BB2B-440DEB01F088}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>威尼斯夜色<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{EBB695C3-C31D-478A-B72E-47B1D900A234}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>面具铺子<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BB480E7D-D7C6-4651-AE0D-2075EDE34795}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>面具铺子<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{491FD252-2D53-4C66-90A4-262975C92E1A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>玻璃工艺品<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{83A49467-2652-4D7C-9B48-AB465306123B}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>玻璃工艺品<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{3ED89C18-8613-48D1-8D7A-3AD60F0EEE17}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>可爱的眼镜店<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{88D596EB-9317-4555-82ED-8AEA52B45C03}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>清晨的总督府<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{0CFBA1DE-C5CF-426F-B5B2-0FBF9880853C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>清晨的总督府<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7F48CF04-E136-45EB-8FEE-FCAE6BCD7248}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>清晨的总督府<BR><BR><B>离开是在第二天的夜里。阴霾了一整天的威尼斯街道变得冷冷清清。街角叫卖草编工艺品的中国农妇竟让这里像极了国内周庄；而路边兜售假冒劳力士&amp;L.V.的黑人也无一不是从国人商行里批来的货。这一切使我的心情开始沮丧起来。<BR><BR>清洁工人推着小车在路面上撒着盐粒———今晚要下雪了。与偶遇的“穷游欧洲”数旅友把酒话别后，又登上了那班著名的夜行火车，此行将要北上慕尼黑M&#369;chen，转道法国东北部的斯特拉斯堡Strasbourg，去往朗香Ronchamp。<BR><BR>祝“穷游”旅友们能够看到雪中别样的威尼斯。</B><BR><BR><U><B><FONT \n      color=#ff0000>D18</FONT> 21/02 Venezia – M&#369;chen – Strasbourg – \n      Belfort</B></U><BR><BR><B>一夜翻越阿尔卑斯山，车窗外白雪皑皑。<BR><BR>德国的火车真好，咖啡真差，列车员真敬业！<BR><BR>斯特拉斯堡Strasbourg酒店全满！投宿Belfort。也许是靠近产地的缘故，超市里的红酒价廉物美，遂畅饮至酣，若求师出有名，就算是为了明日的朗香Ronchamp吧，为大师干杯！</B><BR><BR><B>\n      <CENTER>To be continue...</CENTER></B><BR><BR>\n      <CENTER><I><FONT \ncolor=#ff0000>本文版权所有，请勿私自转载</FONT></I></CENTER><BR></FONT>\n      <BLOCKQUOTE></BLOCKQUOTE></FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-07-29 06:38 \n<BR></DIV>"
+    },
+    {
+      "floor": 120,
+      "author": "叶峰",
+      "role": "会员",
+      "time": "2005-07-27 12:33",
+      "is_op": false,
+      "images": [
+        "images/smile.gif"
+      ],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6512355><FONT \n      class=topic>诱人的预告，只可惜楼主来得还不够勤<div class=\"abbs-post-photo-wrap\"><img src=\"images/smile.gif\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div> \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>"
+    },
+    {
+      "floor": 121,
+      "author": "优游理想",
+      "role": "会员",
+      "time": "2005-07-27 14:31",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6513595><FONT \n      class=topic>非常感谢楼主这么详细的介绍啊，声色并貌，好向往能去那里啊！<BR>期待更精彩的。。。。<BR>等有经济和时间了一定要去看看，一定！ \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>\n      <HR color=#000000 noShade SIZE=1>\n      最初的梦想没有到达，怎能在半路就返航"
+    },
+    {
+      "floor": 122,
+      "author": "邂逅105",
+      "role": "会员",
+      "time": "2005-07-28 09:15",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6519160><FONT class=topic>漂亮啊 1!!!!!我要去啊 ! \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 123,
+      "author": "樟木",
+      "role": "会员",
+      "time": "2005-07-29 06:46",
+      "is_op": true,
+      "images": [
+        "images/{9B20A68B-C957-47DC-A09A-E701BCA9E14A}.jpg",
+        "images/{EDD2E243-8AEB-4304-90B6-BFD1F07BEF4E}.jpg",
+        "images/{4F185871-22A5-4583-B31C-A908A65939DF}.jpg",
+        "images/{D135152D-4752-4796-B883-DA116A9F2F74}.jpg",
+        "images/{F787FBCC-8B17-4AAE-A87D-5065A959EFCE}.jpg",
+        "images/{62612EB9-B974-4F89-BA92-C5A2C8DCFD85}.jpg",
+        "images/{7A9FD74C-3E50-47EA-AE84-81679746F66D}.jpg",
+        "images/{6D01AC44-6D16-4875-8AE4-F2FBFCB6CE1E}.jpg",
+        "images/{56420246-5420-496A-AB87-8273952C2D28}.jpg",
+        "images/{2FA43BF5-F311-4366-828F-59AB24A93ABF}.jpg",
+        "images/{DE54C93C-88F3-42B7-98BE-E218536B627A}.jpg",
+        "images/{7FCC51F9-7BF6-4EBD-9D1A-85CFD2E88965}.jpg",
+        "images/{37323405-2BE2-4C8E-B5F4-5DE29438820A}.jpg",
+        "images/{B621AD3B-D445-446F-9AAA-ADC382542EAA}.jpg",
+        "images/{9B7C8F81-9294-4C92-9091-2F955E6BD956}.jpg",
+        "images/{701DD65E-5A2B-46F8-947D-C0CFD53E7F2C}.jpg",
+        "images/{76A21F0D-A2B0-4E08-B9D9-89FFDA20506E}.jpg",
+        "images/{2A1A0DA3-C7A2-4DBD-B13C-F3B77A0A2CB9}.jpg",
+        "images/{DC53B273-F7F5-442A-9B94-71C456D64B25}.jpg",
+        "images/{B65520A0-1AA5-47B5-976A-9DE2CE530DA6}.jpg",
+        "images/{BC43D122-0FDC-482A-B4AC-ECEBE562ACB6}.jpg",
+        "images/{ABD58D1B-0222-4D9B-AB48-20D52E4C9BE5}.jpg",
+        "images/{9572B3DB-9930-4182-B65D-62CFC1BAEAC8}.jpg"
+      ],
+      "content": "&nbsp; 　　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6527550><FONT class=topic><B><U><FONT \n      color=#ff0000>D19</FONT> 22/02 Ronchamp, Belfort– Strasbourg – \n      Paris</U></B><BR><BR><B>天未亮即起，窗外的大雪尚自“沙沙”地下着。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{9B20A68B-C957-47DC-A09A-E701BCA9E14A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>一夜大雪的Belfort<BR><BR><B>未到朗香，善解人意的列车员就提醒我们向车窗外看，那教堂奇迹般的尖顶在覆雪的林稍转瞬即逝，片刻的形象就永远定格在脑海中了。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{EDD2E243-8AEB-4304-90B6-BFD1F07BEF4E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>Ronchamp小站<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{4F185871-22A5-4583-B31C-A908A65939DF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>山顶俯瞰Ronchamp小镇<BR><BR><B>只有我们三人在Ronchamp小站下车。从车站到山顶步行途中，我们一直在讨论，大师Le \n      Corbusier勒·柯布西耶怎会选择在如此荒僻小镇成就这旷世杰作；而又是什么使其风格如此迥异于马赛公寓（先前造访见<FONT \n      color=#ff0000>D11</FONT>）。<BR><BR>……既然无线索可循，那大概就是上帝的选择吧。<BR><BR>朗香教堂的独一无二使迷路成为了不可能。纵使一句法语不会，只要手绘得出船帽或鸭尾，路人皆知。可见智者见智，仁者见仁，大师福音于芸芸百姓却也是各得其所啊。<BR><BR>九点。与我们同时到达教堂门口的是一只肥硕的野猫，看它轻车熟路，想必是每日前来享用免费暖气的。我们朝圣心切，肥猫粗心大意，都没想到冬季是十点开门，只好一同檐下避寒。可是这猫咪倒颇具大师遗风，懒得与我们周旋。历数旅途路遇众猫，惟它气质最为孤傲。步行途中的问题顿悟：<BR><BR>遗世独立，孤悬雪野，大师，终是与常人不同的啊！<BR><BR>……</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{D135152D-4752-4796-B883-DA116A9F2F74}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>那只孤傲的野猫<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{F787FBCC-8B17-4AAE-A87D-5065A959EFCE}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>却也生得天庭饱满<BR><BR><B>十点正，门开了。<BR><BR>这是一座难以用语言来表达的建筑。恕我词穷，任何一种具象的形容都让我觉得是对大师的不恭敬，即使是照片，也仅仅是片面的影像<BR><BR>朗香，已经超出了我理解力的边界。<BR><BR>我为此前船帽、鸭尾之类的言辞而忏悔。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{62612EB9-B974-4F89-BA92-C5A2C8DCFD85}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7A9FD74C-3E50-47EA-AE84-81679746F66D}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{6D01AC44-6D16-4875-8AE4-F2FBFCB6CE1E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>室外布道的讲坛<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{56420246-5420-496A-AB87-8273952C2D28}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{2FA43BF5-F311-4366-828F-59AB24A93ABF}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{DE54C93C-88F3-42B7-98BE-E218536B627A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>整个山顶上只有我们一行三人，静静地看着，叹息着，对话的声音不觉已压至最低，甚至小心翼翼着自己的步伐，惟恐在雪地上留下凌乱的脚印。<BR><BR>教堂的室内也是空无一人。门上有请勿摄影的标志，遂置相机于长椅上，由它自拍吧，横七竖八，诸位见谅。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{7FCC51F9-7BF6-4EBD-9D1A-85CFD2E88965}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{37323405-2BE2-4C8E-B5F4-5DE29438820A}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B621AD3B-D445-446F-9AAA-ADC382542EAA}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{9B7C8F81-9294-4C92-9091-2F955E6BD956}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>经典角度<BR><BR><B><U><FONT color=#ff0000>D20-22</FONT> 23/02-25/02 \n      Paris, Paris - \n      Shanghai</U></B><BR><BR><B>回到巴黎，大雪也紧随而至。<BR><BR>[起点回到了终点，旅程结束了。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{701DD65E-5A2B-46F8-947D-C0CFD53E7F2C}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><B>计划制定之初，一直不想在巴黎多作停留，以至于法国的同学愤愤然认为我对“伟大的巴黎”持有偏见。其实，她哪里知道，我实在是不愿意让这美好的城市毁于因匆忙而条理紧密的冲锋式观光。<BR><BR>Paris么，就是应该来闲坐的，无目的散步的，用一个月——甚至更长——的时间来慢慢品味的。留待下次吧。<BR><BR>当然，多余的两天，还是不能免俗。巴黎圣母院、铁塔、香街、卢浮宫、老佛爷（俗气的译名，我宁愿叫它拉法耶特百货公司——听着就巴黎！）——悉数到此一游。除了分送友人的礼品外，如我所愿，此间数码伴侣适时罢工，只留下花絮片断了。<BR><BR>投宿的小旅店Hotel \n      de Notre \n      Dame，位于左岸（又是一个很巴黎的名词！），西岱岛对面。房间窗户望下去，僻静的青石小巷外就是塞纳河。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{76A21F0D-A2B0-4E08-B9D9-89FFDA20506E}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>旅店名直译为：“大众嬷嬷院宾馆”<BR><BR><B>阿拉伯研究中心，让·努维尔JeanNouvel设计。每个幕墙单元都是一个光圈装置，由集成电路和一套精巧的机械装置控制，能根据天气情况和照明要求调节光线入射量，而其构成的图案肌理又与阿拉伯装饰风格不谋而合。</B><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{2A1A0DA3-C7A2-4DBD-B13C-F3B77A0A2CB9}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{DC53B273-F7F5-442A-9B94-71C456D64B25}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{B65520A0-1AA5-47B5-976A-9DE2CE530DA6}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>光圈的不同开合状态<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{BC43D122-0FDC-482A-B4AC-ECEBE562ACB6}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>类似的装置亦见于前述马赛公寓中，可不必攀爬而开启高窗<BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{ABD58D1B-0222-4D9B-AB48-20D52E4C9BE5}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div><BR><BR><div class=\"abbs-post-photo-wrap\"><img src=\"images/{9572B3DB-9930-4182-B65D-62CFC1BAEAC8}.jpg\" class=\"abbs-post-photo\" alt=\"ABBS 历史图记\" loading=\"lazy\" /></div>巴黎圣母院门前的法国公路零公里标志点。<BR><BR><B>\n      <CENTER>全文完</CENTER></B><BR><BR>\n      <CENTER><I><FONT \ncolor=#ff0000>本文版权所有，请勿私自转载</FONT></I></CENTER><BR></FONT>\n      <BLOCKQUOTE></BLOCKQUOTE></FONT></SPAN><BR><BR>\n      <DIV align=right>樟木 edited on 2005-07-29 07:14 \n<BR></DIV>"
+    },
+    {
+      "floor": 124,
+      "author": "蚁兵",
+      "role": "会员",
+      "time": "2005-07-29 11:11",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6529004><FONT \n      class=topic>谢谢。<BR>每次在逛到这里，感觉就像午后的咖啡馆。<BR>慵懒的，轻松的度过着十几分钟。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    },
+    {
+      "floor": 125,
+      "author": "LORDMTY",
+      "role": "会员",
+      "time": "2005-07-29 13:14",
+      "is_op": false,
+      "images": [],
+      "content": "&nbsp; 　　　　　\n      <HR color=#000000 noShade SIZE=1>\n       <SPAN class=javascript id=text6530139><FONT \n      class=topic>虽然不懂建筑，仍然被樟木兄的多情和艺术所感染。<BR>因为一直生活在欧洲，或许麻木，对许多场景竟然熟视无睹。很惭愧。<BR>心里有美，故事才会这么美。谢谢樟木兄的分享。也期待您的下次欧洲之行。 \n      </FONT></SPAN><BR><BR>\n      <DIV align=right></DIV>"
+    }
+  ]
+}

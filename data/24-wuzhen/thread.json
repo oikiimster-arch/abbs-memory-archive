@@ -1,0 +1,834 @@
+{
+  "expedition_id": "24-wuzhen",
+  "title": "江南水乡空间记 ―― 乌镇埠头与河街肌理",
+  "op_author": "水乡空间考察组",
+  "total_floors": 75,
+  "op_floors": 75,
+  "reply_floors": 0,
+  "total_images": 74,
+  "floors": [
+    {
+      "floor": 1,
+      "author": "水乡空间考察组",
+      "role": "文献整理",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [],
+      "content": "<p><strong>江南水乡古镇空间纪实 ―― 乌镇河道、埠头与水阁肌理</strong></p>\n<p><em>中国乡土建筑空间考察 · 见素数字化保存</em></p>\n<p>本辑文献记录了中国江南传统水乡聚落——乌镇在早期修复与保护阶段的原生建筑肌理。枕河而居的水阁悬挑、连绵的沿河廊棚、青石板铺筑的幽深长巷、以及千回百转的埠头系舟处，展现出中国南方水网农耕文明独特的亲水人居空间体系与构造智慧。</p>"
+    },
+    {
+      "floor": 2,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964336.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964336.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 3,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964337.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964337.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 4,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964338.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964338.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 5,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964339.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964339.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 6,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1196433A.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1196433A.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 7,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964340.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964340.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 8,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964341.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964341.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 9,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964342.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964342.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 10,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964343.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964343.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 11,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964344.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964344.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 12,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964345.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964345.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 13,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964346.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964346.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 14,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964347.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964347.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 15,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964348.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964348.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 16,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964349.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964349.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 17,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1196434A.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1196434A.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 18,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964350.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964350.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 19,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964351.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964351.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 20,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964352.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964352.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 21,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964353.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964353.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 22,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964354.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964354.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 23,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964355.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964355.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 24,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964356.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964356.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 25,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964357.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964357.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 26,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964358.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964358.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 27,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964359.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964359.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 28,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1196435A.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1196435A.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 29,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964360.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964360.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 30,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964361.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964361.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 31,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964362.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964362.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 32,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964440.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964440.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 33,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964441.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964441.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 34,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964442.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964442.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 35,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964443.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964443.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 36,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11964444.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11964444.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 37,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11965181.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11965181.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 38,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11965182.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11965182.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 39,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11965183.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11965183.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 40,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11965184.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11965184.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 41,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11965185.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11965185.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 42,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/11965186.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/11965186.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 43,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559319.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559319.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 44,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559355.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559355.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 45,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559381.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559381.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 46,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559392.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559392.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 47,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559406.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559406.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 48,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559423.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559423.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 49,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559438.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559438.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 50,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559453.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559453.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 51,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559468.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559468.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 52,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559481.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559481.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 53,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559496.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559496.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 54,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559510.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559510.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 55,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559521.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559521.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 56,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559535.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559535.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 57,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559546.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559546.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 58,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559570.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559570.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 59,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559582.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559582.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 60,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559594.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559594.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 61,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559611.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559611.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 62,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559637.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559637.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 63,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559650.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559650.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 64,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559661.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559661.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 65,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559696.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559696.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 66,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559709.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559709.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 67,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559725.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559725.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 68,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559738.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559738.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 69,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559750.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559750.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    },
+    {
+      "floor": 70,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559760.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559760.jpg\" class=\"abbs-post-photo\" alt=\"沿河长廊棚与雨中庇护所\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">沿河长廊棚与雨中庇护所</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">长达数百米的临河连续避雨木构廊棚，兼具商业街市与邻里日常交往功能。</p>"
+    },
+    {
+      "floor": 71,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559770.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559770.jpg\" class=\"abbs-post-photo\" alt=\"河埠头青石阶梯与洗涤日常\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">河埠头青石阶梯与洗涤日常</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">石阶逐级下探水面，不仅是上下船埠头，亦是江南水乡独特的女性社交微空间。</p>"
+    },
+    {
+      "floor": 72,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559782.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559782.jpg\" class=\"abbs-post-photo\" alt=\"昭明书院砖雕门楼与静谧回廊\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">昭明书院砖雕门楼与静谧回廊</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">明清江南文人书院的轴线院落，高耸封火山墙下的庭院修竹与古朴柱廊。</p>"
+    },
+    {
+      "floor": 73,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559793.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559793.jpg\" class=\"abbs-post-photo\" alt=\"草木本色染坊与蓝印花布晒场\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">草木本色染坊与蓝印花布晒场</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">数十米高的杉木密排晒架上，蓝白相间的长布在微风中飞扬，塑造出极具视觉张力的垂直空间装置。</p>"
+    },
+    {
+      "floor": 74,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559807.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559807.jpg\" class=\"abbs-post-photo\" alt=\"西栅市河晨曦与水阁悬挑\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西栅市河晨曦与水阁悬挑</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">传统民居底层以木桩石柱伸入河道，上层筑木制水阁，形成人水相亲的边界界面。</p>"
+    },
+    {
+      "floor": 75,
+      "author": "乡土建筑考察人",
+      "role": "实地测绘与摄影",
+      "time": "2005–2008",
+      "is_op": true,
+      "images": [
+        "images/1230559822.jpg"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/1230559822.jpg\" class=\"abbs-post-photo\" alt=\"逢源双桥与石板水巷\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">逢源双桥与石板水巷</p>\n<p style=\"color:var(--text-muted); font-size:0.95rem; line-height:1.7;\">横跨市河的单孔石拱桥，桥下摇橹船穿行，两岸水乡生活图景徐徐展开。</p>"
+    }
+  ]
+}

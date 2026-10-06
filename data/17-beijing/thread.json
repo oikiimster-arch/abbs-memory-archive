@@ -1,0 +1,152 @@
+{
+  "expedition_id": "17-beijing",
+  "title": "70年代北京空间纪实 ―― 城市演化切片",
+  "op_author": "见素历史文献组",
+  "total_floors": 13,
+  "op_floors": 13,
+  "reply_floors": 0,
+  "total_images": 12,
+  "floors": [
+    {
+      "floor": 1,
+      "author": "见素历史文献组",
+      "role": "文献整理",
+      "time": "1970s / 2026",
+      "is_op": true,
+      "images": [],
+      "content": "<p><strong>70年代北京空间纪实 ―― 城市演化与历史切片</strong></p>\n<p><em>珍稀文献视觉档案 · 见素数字化保护整理</em></p>\n<p>这份珍贵的历史影像档案记录了 1970 年代北京的城市肌理、街道空间与建筑风貌。在改革开放与大规模城市更新前夕，北京古城街道保持着沉静庄重的空间尺度，平房四合院院落与宽阔的林荫大道交相辉映，行人骑着自行车穿越天安门广场与前门大街，定格了一个特殊历史时期的空间记忆与社会生活风貌。</p>"
+    },
+    {
+      "floor": 2,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p01.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p01.png\" class=\"abbs-post-photo\" alt=\"封面及扉页：1970年代北京城市总览与中轴线历史俯瞰\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">封面及扉页：1970年代北京城市总览与中轴线历史俯瞰</p>"
+    },
+    {
+      "floor": 3,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p02.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p02.png\" class=\"abbs-post-photo\" alt=\"天安门广场与长安街：宽阔的林荫道与无机动车拥堵的清爽天际线\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">天安门广场与长安街：宽阔的林荫道与无机动车拥堵的清爽天际线</p>"
+    },
+    {
+      "floor": 4,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p03.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p03.png\" class=\"abbs-post-photo\" alt=\"前门外大街与正阳门城楼：保存完好的传统商铺肌理与石板街道\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">前门外大街与正阳门城楼：保存完好的传统商铺肌理与石板街道</p>"
+    },
+    {
+      "floor": 5,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p04.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p04.png\" class=\"abbs-post-photo\" alt=\"故宫红墙与护城河：角楼倒影与平静的筒子河水系\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">故宫红墙与护城河：角楼倒影与平静的筒子河水系</p>"
+    },
+    {
+      "floor": 6,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p05.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p05.png\" class=\"abbs-post-photo\" alt=\"景山俯瞰紫禁城全景：琉璃瓦殿顶在晨光中延展，古城中轴线秩序井然\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">景山俯瞰紫禁城全景：琉璃瓦殿顶在晨光中延展，古城中轴线秩序井然</p>"
+    },
+    {
+      "floor": 7,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p06.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p06.png\" class=\"abbs-post-photo\" alt=\"北海公园白塔与琼华岛：波光粼粼中的藏传佛教塔刹与古典园林叠石\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">北海公园白塔与琼华岛：波光粼粼中的藏传佛教塔刹与古典园林叠石</p>"
+    },
+    {
+      "floor": 8,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p07.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p07.png\" class=\"abbs-post-photo\" alt=\"颐和园万寿山佛香阁：昆明湖畔的皇家园林石舫与长廊空间\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">颐和园万寿山佛香阁：昆明湖畔的皇家园林石舫与长廊空间</p>"
+    },
+    {
+      "floor": 9,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p08.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p08.png\" class=\"abbs-post-photo\" alt=\"天坛祈年殿与回音壁：圜丘坛前静穆的苍松古柏与汉白玉栏板\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">天坛祈年殿与回音壁：圜丘坛前静穆的苍松古柏与汉白玉栏板</p>"
+    },
+    {
+      "floor": 10,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p09.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p09.png\" class=\"abbs-post-photo\" alt=\"西四胡同与四合院深处：灰瓦屋脊下的槐树阴凉与老北京市民市井生活\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">西四胡同与四合院深处：灰瓦屋脊下的槐树阴凉与老北京市民市井生活</p>"
+    },
+    {
+      "floor": 11,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p10.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p10.png\" class=\"abbs-post-photo\" alt=\"北京火车站与建国门街景：建国初期十大建筑的独特苏式结合民族风\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">北京火车站与建国门街景：建国初期十大建筑的独特苏式结合民族风</p>"
+    },
+    {
+      "floor": 12,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p11.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p11.png\" class=\"abbs-post-photo\" alt=\"复兴门与二环路早期建设：护城河两岸的新旧建筑交织界面\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">复兴门与二环路早期建设：护城河两岸的新旧建筑交织界面</p>"
+    },
+    {
+      "floor": 13,
+      "author": "历史原档扫描",
+      "role": "文献影印",
+      "time": "1970s",
+      "is_op": true,
+      "images": [
+        "images/beijing_1970s_p12.png"
+      ],
+      "content": "<div class=\"abbs-post-photo-wrap\">\n  <img src=\"images/beijing_1970s_p12.png\" class=\"abbs-post-photo\" alt=\"底页文献归档说明：见素工作室文献数字化工程存档\" loading=\"lazy\" />\n</div>\n<p style=\"font-weight:600; margin-top:12px; color:var(--text-primary);\">底页文献归档说明：见素工作室文献数字化工程存档</p>"
+    }
+  ]
+}
