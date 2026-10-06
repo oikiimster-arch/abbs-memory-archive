@@ -16,19 +16,21 @@
 </head>
 <body>
 
-  <!-- Site Navigation -->
+    <!-- Site Navigation (Public Academic Archive) -->
   <header class="site-header" id="navbar">
     <div class="header-inner container">
       <div class="nav-brand">
-        <a href="index.html" class="nav-logo">
-          <span class="logo-cn">見素</span> <span class="logo-en">KENSU</span>
+        <a href="index.html" class="nav-logo" style="text-decoration: none; display: flex; align-items: baseline; gap: 8px;">
+          <span style="font-family: var(--font-serif-cn); font-weight: 600; font-size: 1.15rem; color: var(--text-primary); letter-spacing: 0.04em;">ABBS 记忆</span>
+          <span style="font-family: var(--font-mono); font-size: 0.72rem; color: #8C7355; letter-spacing: 0.1em; text-transform: uppercase;">ARCHIVE 2000–2010</span>
         </a>
       </div>
 
-      <nav class="nav-menu">
-        <a href="work.html" class="nav-link">Work</a>
-        <a href="about.html" class="nav-link">About</a>
-        <a href="contact.html" class="nav-link">Contact</a>
+      <nav class="nav-menu" aria-label="Archive Navigation">
+        <a href="index.html#catalog" class="nav-link">文献目录 (Catalog)</a>
+        <a href="index.html#manifesto" class="nav-link">抢救缘起 (About)</a>
+        <a href="https://github.com/oikiimster-arch/abbs-memory-archive" target="_blank" rel="noopener noreferrer" class="nav-link">GitHub 源码 ↗</a>
+        <a href="https://kensustudio.com" target="_blank" rel="noopener noreferrer" class="nav-link" style="color: #8C7355; font-weight: 500;">见素工作室 ↗</a>
       </nav>
 
       <button class="burger-btn" id="burger-btn" aria-label="Toggle Navigation Menu">
@@ -42,12 +44,13 @@
   <!-- Mobile Menu Overlay -->
   <div class="mobile-nav-overlay" id="mobile-nav">
     <nav class="mobile-menu-list">
-      <a href="work.html" class="mobile-nav-link">Work</a>
-      <a href="about.html" class="mobile-nav-link">About</a>
-      <a href="contact.html" class="mobile-nav-link">Contact</a>
+      <a href="index.html#catalog" class="mobile-nav-link">文献目录 (Catalog)</a>
+      <a href="index.html#manifesto" class="mobile-nav-link">抢救缘起 (About)</a>
+      <a href="https://github.com/oikiimster-arch/abbs-memory-archive" target="_blank" rel="noopener noreferrer" class="mobile-nav-link">GitHub 源码 ↗</a>
+      <a href="https://kensustudio.com" target="_blank" rel="noopener noreferrer" class="mobile-nav-link" style="color: #8C7355;">发起机构 · 见素工作室 ↗</a>
     </nav>
     <div class="mobile-nav-meta">
-      <p>KENSU STUDIO · 空间为素 设计为见</p>
+      <p>ABBS MEMORY ARCHIVE · 中国早期建筑网志文献抢救计划</p>
     </div>
   </div>
 
@@ -55,7 +58,7 @@
     <div class="container">
       
       <!-- Curatorial Header -->
-      <div class="archive-manifesto">
+      <div class="archive-manifesto" id="manifesto">
         <span class="specht-eyebrow" style="color: #8C7355;">Public Interest Cultural Initiative · 非商业公益文献计划</span>
         <h1 style="font-family: var(--font-serif-cn); font-size: clamp(2.2rem, 3.8vw, 3.2rem); line-height: 1.25; margin-bottom: 24px; color: var(--text-primary);">
           ABBS 记忆：中国早期建筑网志文献归档
@@ -78,7 +81,7 @@
       </div>
 
       <!-- Preserved Expeditions Catalog -->
-      <div style="border-top: 1px solid var(--border-medium); padding-top: 48px;">
+      <div id="catalog" style="border-top: 1px solid var(--border-medium); padding-top: 48px;">
         <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 12px;">
           <div>
             <span class="specht-eyebrow">Archival Index · 文献修复目录</span>
@@ -432,22 +435,40 @@
     </div>
   </main>
 
-  <!-- Global Footer -->
-  <!-- Global Minimalist Footer (Scheme 1) -->
+    <!-- Global Minimalist Footer (Academic Archive) -->
   <footer class="site-footer">
     <div class="container">
       <div class="footer-bottom-bar">
-        <span>© 2026 KENSU STUDIO. ALL RIGHTS RESERVED. · 昆明</span>
+        <span>ABBS MEMORY ARCHIVE (2000–2010) · 非商业公益数字抢救计划</span>
         <div class="footer-bottom-links">
-          <span><a href="https://visionflow.kensustudio.com" target="_blank" rel="noopener" style="color: var(--text-muted);">Our Tool: VisionFlow →</a></span>
+          <span><a href="https://github.com/oikiimster-arch/abbs-memory-archive" target="_blank" rel="noopener" style="color: var(--text-muted);">Open Source on GitHub ↗</a></span>
           <span style="margin: 0 8px; color: var(--border-medium);">·</span>
-          <span><a href="archive.html" style="color: var(--text-muted);">Cultural Archive: ABBS Memory (2000–2010) →</a></span>
+          <span><a href="https://kensustudio.com" target="_blank" rel="noopener" style="color: #8C7355;">发起机构：见素工作室 (KENSU STUDIO) ↗</a></span>
         </div>
       </div>
     </div>
   </footer>
 
   <!-- Shared Script -->
-  <script src="script.js?v=2.2"></script>
+    <script>
+    // Universal Mobile Menu Toggle
+    const burgerBtn = document.getElementById('burger-btn');
+    const mobileNav = document.getElementById('mobile-nav');
+    if (burgerBtn && mobileNav) {
+      burgerBtn.addEventListener('click', () => {
+        burgerBtn.classList.toggle('active');
+        mobileNav.classList.toggle('active');
+        document.body.classList.toggle('nav-open');
+      });
+      // Close mobile menu on clicking a link
+      mobileNav.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          burgerBtn.classList.remove('active');
+          mobileNav.classList.remove('active');
+          document.body.classList.remove('nav-open');
+        });
+      });
+    }
+  </script>
 </body>
 </html>

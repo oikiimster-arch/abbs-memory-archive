@@ -244,18 +244,23 @@
 </head>
 <body>
 
-  <!-- Site Navigation -->
-  <header class="site-header" id="site-header">
-    <div class="container header-inner">
-      <a href="index.html" class="nav-logo" aria-label="KENSU STUDIO Homepage">
-        <span class="logo-cn">見素</span>
-        <span class="logo-en">KENSU</span>
-      </a>
-      <nav class="nav-menu" aria-label="Primary Navigation">
-        <a href="work.html" class="nav-link">Work</a>
-        <a href="about.html" class="nav-link">About</a>
-        <a href="contact.html" class="nav-link">Contact</a>
+    <!-- Site Navigation (Public Academic Archive) -->
+  <header class="site-header" id="navbar">
+    <div class="header-inner container">
+      <div class="nav-brand">
+        <a href="index.html" class="nav-logo" style="text-decoration: none; display: flex; align-items: baseline; gap: 8px;">
+          <span style="font-family: var(--font-serif-cn); font-weight: 600; font-size: 1.15rem; color: var(--text-primary); letter-spacing: 0.04em;">ABBS 记忆</span>
+          <span style="font-family: var(--font-mono); font-size: 0.72rem; color: #8C7355; letter-spacing: 0.1em; text-transform: uppercase;">ARCHIVE 2000–2010</span>
+        </a>
+      </div>
+
+      <nav class="nav-menu" aria-label="Archive Navigation">
+        <a href="index.html#catalog" class="nav-link">文献目录 (Catalog)</a>
+        <a href="index.html#manifesto" class="nav-link">抢救缘起 (About)</a>
+        <a href="https://github.com/oikiimster-arch/abbs-memory-archive" target="_blank" rel="noopener noreferrer" class="nav-link">GitHub 源码 ↗</a>
+        <a href="https://kensustudio.com" target="_blank" rel="noopener noreferrer" class="nav-link" style="color: #8C7355; font-weight: 500;">见素工作室 ↗</a>
       </nav>
+
       <button class="burger-btn" id="burger-btn" aria-label="Toggle Navigation Menu">
         <span class="burger-line"></span>
         <span class="burger-line"></span>
@@ -264,11 +269,24 @@
     </div>
   </header>
 
+  <!-- Mobile Menu Overlay -->
+  <div class="mobile-nav-overlay" id="mobile-nav">
+    <nav class="mobile-menu-list">
+      <a href="index.html#catalog" class="mobile-nav-link">文献目录 (Catalog)</a>
+      <a href="index.html#manifesto" class="mobile-nav-link">抢救缘起 (About)</a>
+      <a href="https://github.com/oikiimster-arch/abbs-memory-archive" target="_blank" rel="noopener noreferrer" class="mobile-nav-link">GitHub 源码 ↗</a>
+      <a href="https://kensustudio.com" target="_blank" rel="noopener noreferrer" class="mobile-nav-link" style="color: #8C7355;">发起机构 · 见素工作室 ↗</a>
+    </nav>
+    <div class="mobile-nav-meta">
+      <p>ABBS MEMORY ARCHIVE · 中国早期建筑网志文献抢救计划</p>
+    </div>
+  </div>
+
   <main>
     <!-- Document Header & Metadata -->
     <section class="abbs-reader-hero">
       <div class="container">
-        <a href="archive.html" class="abbs-back-link">
+        <a href="index.html" class="abbs-back-link">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
           返回文献归档总目录 (Archival Catalog)
         </a>
@@ -337,7 +355,7 @@
       <div class="footer-bottom-bar">
         <span>© 2026 KENSU STUDIO · ABBS 记忆非商业公益文献保护计划</span>
         <div class="footer-bottom-links">
-          <span><a href="archive.html" style="color: var(--text-muted);">返回文献总览 →</a></span>
+          <span><a href="index.html" style="color: var(--text-muted);">返回文献总览 →</a></span>
         </div>
       </div>
     </div>
@@ -481,6 +499,26 @@
 
     // Initialize
     loadThread();
+  </script>
+  <script>
+    // Universal Mobile Menu Toggle
+    const burgerBtn = document.getElementById('burger-btn');
+    const mobileNav = document.getElementById('mobile-nav');
+    if (burgerBtn && mobileNav) {
+      burgerBtn.addEventListener('click', () => {
+        burgerBtn.classList.toggle('active');
+        mobileNav.classList.toggle('active');
+        document.body.classList.toggle('nav-open');
+      });
+      // Close mobile menu on clicking a link
+      mobileNav.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          burgerBtn.classList.remove('active');
+          mobileNav.classList.remove('active');
+          document.body.classList.remove('nav-open');
+        });
+      });
+    }
   </script>
 </body>
 </html>
