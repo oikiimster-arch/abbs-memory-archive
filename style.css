@@ -938,7 +938,7 @@ button {
 
 .contact-email-large {
   font-family: var(--font-sans);
-  font-size: clamp(1.8rem, 3.6vw, 3.4rem);
+  font-size: clamp(1.4rem, 2.5vw, 2.2rem);
   font-weight: 400;
   color: var(--text-primary);
   display: inline-block;
@@ -1452,11 +1452,11 @@ button {
 
 .project-page-title {
   font-family: var(--font-sans);
-  font-size: clamp(1.8rem, 3.2vw, 2.85rem);
+  font-size: clamp(1.35rem, 2.0vw, 1.85rem);
   font-weight: 500;
   color: var(--text-primary);
-  letter-spacing: -0.02em;
-  line-height: 1.25;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
 }
 
 .project-page-title span.cn {
@@ -1929,7 +1929,7 @@ button {
 
 .team-principal-name {
   font-family: var(--font-serif-cn);
-  font-size: clamp(1.5rem, 2.2vw, 2rem);
+  font-size: clamp(1.2rem, 1.6vw, 1.5rem);
   color: var(--text-primary);
   font-weight: 500;
 }
