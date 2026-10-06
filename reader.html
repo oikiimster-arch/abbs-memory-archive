@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>人说山西好风光（卷一） — ABBS 记忆文献归档 · 见素工作室</title>
+  <meta name="description" content="见素文献保护计划：原汁原味重现 2005 年 ABBS 建筑论坛经典学术行记《人说山西好风光》，保留楼主完整长文连载、实地测绘摄影与全量学人讨论思辨。" />
+  <link rel="stylesheet" href="style.css?v=2.4" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    /* ABBS Dedicated Reader Styles */
+    .abbs-reader-hero {
+      padding-top: calc(var(--nav-height) + clamp(32px, 5vh, 60px));
+      padding-bottom: clamp(32px, 4vh, 48px);
+      border-bottom: 1px solid var(--border-light);
+      background-color: var(--bg-primary);
+    }
+    .abbs-back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.82rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 24px;
+      transition: color var(--transition-fast);
+    }
+    .abbs-back-link:hover {
+      color: var(--text-primary);
+    }
+    .abbs-meta-badge-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 16px;
+      font-size: 0.75rem;
+      font-family: var(--font-mono);
+      letter-spacing: 0.08em;
+    }
+    .abbs-badge {
+      padding: 4px 10px;
+      background: rgba(0, 0, 0, 0.04);
+      border: 1px solid var(--border-light);
+      color: var(--text-muted);
+    }
+    .abbs-badge-gold {
+      background: rgba(140, 115, 85, 0.08);
+      border-color: rgba(140, 115, 85, 0.25);
+      color: #8C7355;
+      font-weight: 500;
+    }
+    .abbs-title {
+      font-family: var(--font-serif-cn);
+      font-size: clamp(2rem, 3.6vw, 3rem);
+      font-weight: 500;
+      color: var(--text-primary);
+      line-height: 1.3;
+      margin-bottom: 16px;
+      letter-spacing: 0.02em;
+    }
+    .abbs-author-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 16px;
+      padding-top: 16px;
+      border-top: 1px dashed var(--border-light);
+      font-size: 0.88rem;
+      color: var(--text-muted);
+    }
+    .abbs-author-name {
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+
+    /* Mode Switcher Capsule */
+    .abbs-mode-bar {
+      position: sticky;
+      top: var(--nav-height);
+      z-index: 100;
+      background: var(--bg-glass-light);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border-light);
+      padding: 14px 0;
+    }
+    .abbs-mode-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .abbs-toggle-group {
+      display: inline-flex;
+      background: rgba(0, 0, 0, 0.04);
+      padding: 3px;
+      border: 1px solid var(--border-light);
+    }
+    .abbs-toggle-btn {
+      padding: 8px 18px;
+      font-size: 0.82rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }
+    .abbs-toggle-btn.active {
+      background: #FFFFFF;
+      color: var(--text-primary);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+
+    /* Chronicle Article Presentation */
+    .abbs-content-wrap {
+      padding: clamp(48px, 7vh, 80px) 0 clamp(80px, 10vh, 120px);
+      max-width: 920px;
+      margin: 0 auto;
+    }
+    .abbs-post-card {
+      margin-bottom: clamp(48px, 6vh, 72px);
+      padding-bottom: clamp(36px, 5vh, 56px);
+      border-bottom: 1px solid var(--border-light);
+    }
+    .abbs-post-card:last-child {
+      border-bottom: none;
+    }
+    .abbs-post-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 24px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(0,0,0,0.04);
+    }
+    .abbs-post-meta {
+      font-size: 0.8rem;
+      font-family: var(--font-mono);
+      color: var(--text-muted);
+    }
+    .abbs-post-floor {
+      font-weight: 600;
+      color: #8C7355;
+      margin-right: 8px;
+    }
+    .abbs-post-body {
+      font-size: 1.02rem;
+      line-height: 2;
+      color: var(--text-body);
+      font-family: var(--font-sans);
+    }
+    .abbs-post-body p {
+      margin-bottom: 24px;
+    }
+    .abbs-post-photo-wrap {
+      margin: 36px 0;
+      text-align: center;
+      background: #F7F7F7;
+      border: 1px solid var(--border-light);
+      padding: 12px;
+    }
+    .abbs-post-photo {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    /* Dialogue Reply Stream */
+    .abbs-reply-card {
+      background: #FAFAFA;
+      border: 1px solid var(--border-light);
+      border-left: 3px solid var(--border-medium);
+      padding: 24px 28px;
+      margin-bottom: 24px;
+      transition: border-color var(--transition-fast);
+    }
+    .abbs-reply-card.is-op {
+      border-left-color: #8C7355;
+      background: #FAF8F5;
+    }
+    .abbs-reply-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 14px;
+      font-size: 0.82rem;
+    }
+    .abbs-reply-user {
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+    .abbs-reply-role {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      margin-left: 8px;
+      padding: 1px 6px;
+      background: rgba(0,0,0,0.05);
+    }
+    .abbs-reply-time {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    .abbs-reply-body {
+      font-size: 0.94rem;
+      line-height: 1.85;
+      color: var(--text-body);
+    }
+
+    /* Embedded discussion toggle below each OP chapter */
+    .abbs-chapter-dialogue-box {
+      margin-top: 28px;
+      padding: 16px 20px;
+      background: #F8F9FA;
+      border: 1px solid var(--border-light);
+    }
+    .abbs-dialogue-toggle {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+      font-size: 0.84rem;
+      font-weight: 500;
+      color: var(--text-primary);
+      user-select: none;
+    }
+    .abbs-dialogue-content {
+      margin-top: 16px;
+      display: none;
+    }
+    .abbs-dialogue-content.open {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Site Navigation -->
+  <header class="site-header" id="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="nav-logo" aria-label="KENSU STUDIO Homepage">
+        <span class="logo-cn">見素</span>
+        <span class="logo-en">KENSU</span>
+      </a>
+      <nav class="nav-menu" aria-label="Primary Navigation">
+        <a href="work.html" class="nav-link">Work</a>
+        <a href="about.html" class="nav-link">About</a>
+        <a href="contact.html" class="nav-link">Contact</a>
+      </nav>
+      <button class="burger-btn" id="burger-btn" aria-label="Toggle Navigation Menu">
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- Document Header & Metadata -->
+    <section class="abbs-reader-hero">
+      <div class="container">
+        <a href="archive.html" class="abbs-back-link">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+          返回文献归档总目录 (Archival Catalog)
+        </a>
+
+        <div class="abbs-meta-badge-bar">
+          <span class="abbs-badge abbs-badge-gold">EXPEDITION 19 · 卷一</span>
+          <span class="abbs-badge">ABBS 建筑论坛 (2000–2010)</span>
+          <span class="abbs-badge">非商业公益数字抢救文献</span>
+          <span class="abbs-badge">已完成离线清洗与图文重构</span>
+        </div>
+
+        <h1 class="abbs-title" id="thread-title">人说山西好风光（卷一）</h1>
+
+        <div class="abbs-author-bar">
+          <div>
+            <span>原帖楼主：</span>
+            <span class="abbs-author-name" id="thread-op">心在门外</span>
+            <span style="margin: 0 8px;">·</span>
+            <span>原始首发：2005-03-10</span>
+            <span style="margin: 0 8px;">·</span>
+            <span>考察地点：山西 (大同·浑源·悬空寺·云冈石窟)</span>
+          </div>
+          <div style="font-family: var(--font-mono); font-size: 0.82rem;">
+            <span>全文 25 楼</span>
+            <span style="margin: 0 6px;">(正文 10 楼 / 学人回帖 15 楼)</span>
+            <span style="margin: 0 6px;">·</span>
+            <span>24 幅历史照片</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Reading Mode Sticky Bar -->
+    <div class="abbs-mode-bar">
+      <div class="container abbs-mode-inner">
+        <div style="font-size: 0.85rem; color: var(--text-muted);">
+          <span>当前浏览视角：</span>
+          <strong style="color: var(--text-primary);" id="mode-label">📖 楼主专著连载模式</strong>
+        </div>
+
+        <div class="abbs-toggle-group">
+          <button type="button" class="abbs-toggle-btn active" id="btn-mode-chronicle" onclick="switchMode('chronicle')">
+            📖 楼主专著模式 (Author Only)
+          </button>
+          <button type="button" class="abbs-toggle-btn" id="btn-mode-dialogue" onclick="switchMode('dialogue')">
+            💬 历史全景思辨流 (Full BBS Dialogue)
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Content Stream -->
+    <section class="container">
+      <div class="abbs-content-wrap" id="content-container">
+        <!-- Rendered by JavaScript dynamically from thread.json -->
+        <div style="text-align: center; padding: 60px 0; color: var(--text-muted);">
+          正在加载历史图文档案与学人讨论……
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Global Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom-bar">
+        <span>© 2026 KENSU STUDIO · ABBS 记忆非商业公益文献保护计划</span>
+        <div class="footer-bottom-links">
+          <span><a href="archive.html" style="color: var(--text-muted);">返回文献总览 →</a></span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    let threadData = null;
+    let currentMode = 'chronicle'; // 'chronicle' or 'dialogue'
+
+    async function loadThread() {
+      try {
+        const res = await fetch('archive_poc/shanxi_1/thread.json');
+        threadData = await res.json();
+        render();
+      } catch (e) {
+        console.error('Error loading thread.json', e);
+        document.getElementById('content-container').innerHTML = `
+          <div style="text-align: center; padding: 60px 0; color: #cc0000;">
+            加载文献数据失败，请确认本地 HTTP 服务已启动。
+          </div>
+        `;
+      }
+    }
+
+    function switchMode(mode) {
+      currentMode = mode;
+      document.getElementById('btn-mode-chronicle').classList.toggle('active', mode === 'chronicle');
+      document.getElementById('btn-mode-dialogue').classList.toggle('active', mode === 'dialogue');
+      document.getElementById('mode-label').textContent = mode === 'chronicle' ? '📖 楼主专著连载模式' : '💬 历史全景思辨流 (Full BBS Dialogue)';
+      render();
+    }
+
+    function render() {
+      if (!threadData) return;
+      const container = document.getElementById('content-container');
+      container.innerHTML = '';
+
+      if (currentMode === 'chronicle') {
+        // Render only OP floors, with embedded community dialogue expanders below
+        const opFloors = threadData.floors.filter(f => f.is_op);
+        
+        opFloors.forEach((floor, idx) => {
+          const card = document.createElement('article');
+          card.className = 'abbs-post-card';
+          
+          card.innerHTML = `
+            <div class="abbs-post-header">
+              <div class="abbs-post-meta">
+                <span class="abbs-post-floor">CHAPTER ${String(idx + 1).padStart(2, '0')}</span>
+                <span>连载原楼层 #${floor.floor}</span>
+                <span style="margin: 0 8px;">·</span>
+                <span>${floor.time}</span>
+              </div>
+            </div>
+            <div class="abbs-post-body">
+              ${floor.content.replace(/src="images\//g, 'src="archive_poc/shanxi_1/images/')}
+            </div>
+          `;
+          container.appendChild(card);
+        });
+
+        // Add bottom section showing full peer discussions
+        const replies = threadData.floors.filter(f => !f.is_op);
+        if (replies.length > 0) {
+          const dialogueBox = document.createElement('section');
+          dialogueBox.style.marginTop = '60px';
+          dialogueBox.style.borderTop = '2px solid var(--text-primary)';
+          dialogueBox.style.paddingTop = '40px';
+
+          dialogueBox.innerHTML = `
+            <div style="margin-bottom: 32px;">
+              <span class="specht-eyebrow" style="color: #8C7355;">COMMUNITY DISCOURSE · 当年同行讨论</span>
+              <h3 style="font-family: var(--font-serif-cn); font-size: 1.5rem; color: var(--text-primary); margin-top: 6px;">
+                当期学人思辨与回帖全记录（共 ${replies.length} 条发言）
+              </h3>
+              <p style="font-size: 0.88rem; color: var(--text-muted); margin-top: 8px;">
+                记录 2005 年 3 月 ABBS 论坛同侪学者、青年学子与楼主“心在门外”的即时讨论与空间探讨。
+              </p>
+            </div>
+          `;
+
+          replies.forEach(rep => {
+            const repCard = document.createElement('div');
+            repCard.className = 'abbs-reply-card';
+            repCard.innerHTML = `
+              <div class="abbs-reply-head">
+                <div>
+                  <span class="abbs-reply-user">${rep.author}</span>
+                  <span class="abbs-reply-role">${rep.role}</span>
+                  <span style="margin-left: 8px; color: var(--text-muted); font-size: 0.75rem;">楼层 #${rep.floor}</span>
+                </div>
+                <span class="abbs-reply-time">${rep.time}</span>
+              </div>
+              <div class="abbs-reply-body">
+                ${rep.content.replace(/src="images\//g, 'src="archive_poc/shanxi_1/images/')}
+              </div>
+            `;
+            dialogueBox.appendChild(repCard);
+          });
+
+          container.appendChild(dialogueBox);
+        }
+
+      } else {
+        // Full BBS timeline stream mode: render all 25 floors chronologically
+        const headerNote = document.createElement('div');
+        headerNote.style.marginBottom = '40px';
+        headerNote.style.padding = '18px 24px';
+        headerNote.style.background = '#F9F9F9';
+        headerNote.style.border = '1px solid var(--border-light)';
+        headerNote.innerHTML = `
+          <strong style="color: var(--text-primary);">论坛现场还原模式</strong>：按时间先后顺序呈现 2005-03-10 起 1 楼至 25 楼的全部原始回帖交流，包含建筑评价、路线指引与作者即时答辩。
+        `;
+        container.appendChild(headerNote);
+
+        threadData.floors.forEach(floor => {
+          const item = document.createElement('div');
+          item.className = `abbs-reply-card ${floor.is_op ? 'is-op' : ''}`;
+          item.innerHTML = `
+            <div class="abbs-reply-head">
+              <div>
+                <span class="abbs-reply-user">${floor.author}</span>
+                ${floor.is_op ? '<span class="abbs-reply-role" style="background: rgba(140,115,85,0.15); color: #8C7355; font-weight: 600;">楼主 (OP)</span>' : `<span class="abbs-reply-role">${floor.role}</span>`}
+                <span style="margin-left: 8px; color: var(--text-muted); font-size: 0.75rem;">第 #${floor.floor} 楼</span>
+              </div>
+              <span class="abbs-reply-time">${floor.time}</span>
+            </div>
+            <div class="abbs-reply-body">
+              ${floor.content.replace(/src="images\//g, 'src="archive_poc/shanxi_1/images/')}
+            </div>
+          `;
+          container.appendChild(item);
+        });
+      }
+    }
+
+    // Initialize
+    loadThread();
+  </script>
+</body>
+</html>

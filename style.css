@@ -1,0 +1,2119 @@
+/* ==========================================================================
+   見素 Kensu Studio — Core Design System & Global Stylesheet
+   Specht Novak Architectural Aesthetics: Full-Width, Quiet Luxury, Restrained
+   ========================================================================== */
+
+:root {
+  /* Specht Novak Architectural Palette: Pure Gallery White, Restrained Obsidian, Hairline Precision */
+  --bg-primary: #FFFFFF;       /* 纯粹画廊白 (Gallery Pure White) */
+  --bg-card: #FFFFFF;          /* 去灰底，与主画布融为一体 (Pure White Unboxed) */
+  --bg-card-hover: #F8F8F8;    /* 卡片悬停微灰 */
+  --bg-dark: #FFFFFF;          /* 全站底色统一为画廊白 (Unified Gallery Canvas) */
+  --bg-dark-surface: #F9F9F9;  /* 浅色次级表面 */
+  --bg-glass-light: rgba(255, 255, 255, 0.96);
+  --bg-glass-dark: rgba(255, 255, 255, 0.96);
+
+  --text-primary: #1A1919;     /* 炭墨黑标题 (Specht Novak Charcoal Black) */
+  --text-body: #333333;        /* 现代主义深灰正文 (Modernist Body Readability) */
+  --text-secondary: #4A4642;   /* 次级正文与叙事 (Tectonic Narrative Secondary) */
+  --text-muted: #828282;       /* 辅助中性冷灰 (Neutral Architectural Metadata) */
+  --text-inverse: #1A1919;     /* 统一深色文字 */
+  --text-inverse-muted: #828282;
+
+  --border-light: rgba(0, 0, 0, 0.08);
+  --border-medium: rgba(0, 0, 0, 0.16);
+  --border-dark: rgba(0, 0, 0, 0.08);
+
+  /* Typography: Modern Architectural Sans-serif + Refined Chinese Typography */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-serif-cn: 'Noto Serif SC', 'Songti SC', 'Source Han Serif SC', serif;
+  --font-serif-en: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
+
+  /* Transitions */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-fast: 0.25s ease;
+  --transition-smooth: 0.45s var(--ease-out-expo);
+  --transition-slow: 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Full-Width Fluid Layout Spacing (Specht Novak Benchmark) */
+  --container-max: 100%;
+  --gutter: clamp(24px, 4.2vw, 64px);
+  --nav-height: clamp(54px, 6.5vh, 66px);
+  --nav-scrolled-height: 56px;
+}
+
+/* Base Reset & Smooth Scroll */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--nav-height) + 24px);
+  font-size: 16px;
+  background-color: var(--bg-primary);
+  color: var(--text-body);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  line-height: 1.7;
+  overflow-x: hidden;
+  background-color: var(--bg-primary);
+  color: var(--text-body);
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+/* Global Fluid Container */
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* Typography Presets */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-primary);
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: opacity var(--transition-fast), color var(--transition-fast);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* ==========================================================================
+   Header & Navigation
+   ========================================================================== */
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--nav-height);
+  z-index: 500;
+  background-color: var(--bg-glass-light);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border-light);
+  color: var(--text-primary);
+  transition: height var(--transition-smooth), 
+              box-shadow var(--transition-smooth),
+              background-color var(--transition-smooth);
+}
+
+.header-inner {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-header .nav-logo {
+  color: var(--text-primary);
+}
+
+.site-header .nav-link {
+  color: var(--text-body);
+}
+
+.site-header .nav-link:hover,
+.site-header .nav-link.active {
+  color: var(--text-primary);
+}
+
+.site-header .burger-line {
+  background-color: var(--text-primary);
+}
+
+.site-header.scrolled {
+  height: var(--nav-scrolled-height);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid var(--border-light);
+}
+
+.nav-brand {
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo {
+  font-family: var(--font-serif-cn);
+  font-size: clamp(1.35rem, 1.8vw, 1.75rem);
+  letter-spacing: 0.12em;
+  font-weight: 600;
+  color: var(--text-primary);
+  display: inline-flex;
+  align-items: baseline;
+  gap: 12px;
+  line-height: 1;
+}
+
+.nav-logo span.logo-cn {
+  font-family: var(--font-serif-cn);
+  font-weight: 600;
+  letter-spacing: 0.14em;
+}
+
+.nav-logo span.logo-en {
+  font-family: var(--font-sans);
+  font-size: 0.85em;
+  letter-spacing: 0.14em;
+  font-weight: 500;
+  color: var(--text-primary);
+  opacity: 0.95;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  gap: clamp(28px, 4vw, 54px);
+}
+
+.nav-link {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-weight: 500;
+  position: relative;
+  padding: 6px 0;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1.5px;
+  background-color: currentColor;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  width: 100%;
+}
+
+/* Mobile Hamburger Button */
+.burger-btn {
+  display: none;
+  width: 32px;
+  height: 24px;
+  position: relative;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 600;
+}
+
+.burger-line {
+  width: 100%;
+  height: 1.5px;
+  transition: transform var(--transition-fast), opacity var(--transition-fast), background-color var(--transition-fast);
+}
+
+.burger-btn.active .burger-line:nth-child(1) {
+  transform: translateY(11px) rotate(45deg);
+  background-color: var(--text-inverse) !important;
+}
+
+.burger-btn.active .burger-line:nth-child(2) {
+  opacity: 0;
+}
+
+.burger-btn.active .burger-line:nth-child(3) {
+  transform: translateY(-11px) rotate(-45deg);
+  background-color: var(--text-inverse) !important;
+}
+
+/* Mobile Navigation Overlay */
+.mobile-nav-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: var(--bg-dark);
+  z-index: 550;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+
+.mobile-nav-overlay.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.mobile-menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  text-align: center;
+}
+
+.mobile-nav-link {
+  font-family: var(--font-sans);
+  font-size: 1.75rem;
+  font-weight: 300;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-inverse);
+}
+
+.mobile-nav-meta {
+  position: absolute;
+  bottom: 40px;
+  text-align: center;
+  color: var(--text-inverse-muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+}
+
+/* ==========================================================================
+   Screen 1: Hero Section (Specht Novak 100vh Full Viewport Frame)
+   ========================================================================== */
+#hero {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  min-height: 560px;
+  padding-top: var(--nav-height);
+  padding-bottom: clamp(14px, 2.2vh, 24px);
+  background-color: var(--bg-primary);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.hero-stage-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+}
+
+.hero-slider-frame {
+  position: relative;
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+  background-color: #F4F4F4;
+  border-radius: 0;
+  overflow: hidden;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Specht Novak Benchmark: Museum-Grade Additive Cross-Dissolve
+   The outgoing slide is retained underneath (.prev-slide) while the incoming slide (.active)
+   fades in smoothly over it, preventing grey background flicker. */
+.hero-slide {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: 1;
+  will-change: opacity;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  transition: opacity 650ms cubic-bezier(0.25, 1, 0.5, 1), visibility 650ms;
+}
+
+/* Outgoing slide pinned at solid opacity underneath during transition */
+.hero-slide.prev-slide {
+  opacity: 1;
+  visibility: visible;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 650ms cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+/* Incoming active slide dissolves in on top */
+.hero-slide.active {
+  opacity: 1;
+  visibility: visible;
+  z-index: 3;
+  pointer-events: auto;
+  transition: opacity 650ms cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+/* Cinematic Ken Burns slow scale animation (画面缓慢放大 / 呼吸变焦)
+   Subtly scales the architectural photo from 1.0 to 1.055 over the contemplation duration. */
+.hero-slide-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scale(1.0);
+  transform-origin: center center;
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* Active & transitioning slide smoothly expands without any sudden scale jump */
+.hero-slide.active .hero-slide-img,
+.hero-slide.prev-slide .hero-slide-img {
+  animation: heroKenBurns 6500ms cubic-bezier(0.25, 0.1, 0.25, 1) forwards;
+}
+
+@keyframes heroKenBurns {
+  0% {
+    transform: scale(1.0);
+  }
+  100% {
+    transform: scale(1.055);
+  }
+}
+
+/* Specht Novak Interactive Bottom Meta Bar */
+.hero-meta-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: clamp(12px, 1.8vh, 18px);
+  gap: 16px;
+  flex-shrink: 0;
+}
+
+/* Meta text container uses CSS Grid stack so all slides share the exact same bounds without layout shift */
+.hero-meta-project {
+  position: relative;
+  flex: 1;
+  min-height: 48px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  align-items: center;
+}
+
+/* Pure in-place typographic dissolve matching Specht Novak video benchmark (no awkward translateY jump) */
+.hero-meta-slide {
+  grid-area: 1 / 1 / 2 / 2;
+  width: 100%;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 450ms cubic-bezier(0.25, 1, 0.5, 1), visibility 450ms;
+  pointer-events: none;
+}
+
+.hero-meta-slide.active {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transition: opacity 450ms cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.hero-project-name {
+  font-family: var(--font-sans);
+  font-size: clamp(1.1rem, 1.4vw, 1.35rem);
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.hero-project-name span.cn {
+  font-family: var(--font-serif-cn);
+  font-size: 1.05em;
+  color: var(--text-primary);
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.hero-project-name span.en {
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-size: 0.9em;
+  color: var(--text-muted);
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+.hero-project-loc {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  letter-spacing: 0.03em;
+  margin-top: 3px;
+}
+
+.hero-controls {
+  display: flex;
+  align-items: center;
+}
+
+.hero-nav-arrows {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.hero-arrow-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 6px 6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-primary);
+  opacity: 0.75;
+  transition: opacity var(--transition-fast), transform var(--transition-fast);
+}
+
+.hero-arrow-btn:last-child {
+  padding-right: 0;
+}
+
+.hero-arrow-btn:hover {
+  background: transparent;
+  opacity: 1;
+  transform: scale(1.12);
+}
+
+/* Firm Intro Header (Below Hero) */
+.firm-intro-block {
+  margin-bottom: clamp(48px, 7vh, 80px);
+}
+
+.hero-studio-name {
+  font-family: var(--font-serif-cn);
+  font-size: 1.1rem;
+  letter-spacing: 0.22em;
+  color: var(--text-primary);
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.hero-studio-name span.en {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  letter-spacing: 0.16em;
+  color: var(--text-muted);
+}
+
+.hero-discipline-title {
+  font-family: var(--font-sans);
+  font-size: clamp(2rem, 3.8vw, 3.2rem);
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+}
+
+.hero-positioning-quote {
+  font-family: var(--font-sans);
+  font-size: clamp(1.05rem, 1.5vw, 1.35rem);
+  font-weight: 300;
+  color: var(--text-body);
+  line-height: 1.6;
+  max-width: 780px;
+}
+
+/* ==========================================================================
+   Homepage Architectural Sections (Specht Novak Style Sections)
+   ========================================================================== */
+.home-section {
+  padding: clamp(80px, 11vh, 140px) 0;
+  border-bottom: 1px solid var(--border-light);
+  background-color: var(--bg-primary);
+}
+
+.home-section.bg-light,
+.home-section.bg-alt,
+.home-section.bg-dim {
+  background-color: var(--bg-primary);
+}
+
+.section-label {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 600;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.section-title-large {
+  font-family: var(--font-serif-cn);
+  font-size: clamp(1.85rem, 3.2vw, 2.85rem);
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 1.3;
+  color: var(--text-primary);
+  margin-bottom: clamp(32px, 5vh, 48px);
+}
+
+.section-title-large span.en {
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-size: clamp(0.92rem, 1.3vw, 1.15rem);
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+  display: block;
+  margin-top: 8px;
+  font-weight: 400;
+}
+
+.specht-subheading-en {
+  display: block;
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-size: clamp(0.92rem, 1.3vw, 1.15rem);
+  color: var(--text-muted);
+  font-weight: 400;
+  margin-top: 8px;
+  letter-spacing: 0.02em;
+}
+
+/* Minimalist Architectural Underline Link (Specht Novak Style) */
+.section-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-sans);
+  font-size: 0.86rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--text-primary);
+  border-bottom: 1px solid var(--text-primary);
+  padding-bottom: 2px;
+  transition: opacity var(--transition-fast);
+}
+
+.section-link:hover {
+  opacity: 0.5;
+}
+
+.section-link span {
+  font-size: 1.05em;
+  transition: transform var(--transition-fast);
+}
+
+.section-link:hover span {
+  transform: translateX(3px);
+}
+
+/* Architectural Quote Block (Balanced Studio Statement) */
+.architectural-quote-block {
+  padding: clamp(28px, 4vw, 44px) clamp(24px, 3.5vw, 48px);
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-left: 3px solid var(--text-primary);
+  border-radius: 0;
+  margin-top: 36px;
+  width: 100%;
+}
+
+/* Unboxed Architectural Initiative Card */
+.initiative-card {
+  background: var(--bg-primary);
+  border-top: 1px solid var(--text-primary);
+  padding: clamp(28px, 4vw, 36px) 0 clamp(20px, 2.5vw, 28px);
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* 2-Column Editorial Grid (Specht Novak Architectural Hierarchy) */
+.editorial-grid {
+  display: grid;
+  grid-template-columns: 1.08fr 0.92fr;
+  gap: clamp(40px, 5.5vw, 92px);
+  align-items: start;
+  width: 100%;
+}
+
+.editorial-lead {
+  font-size: clamp(1.05rem, 1.35vw, 1.25rem);
+  font-weight: 400;
+  line-height: 1.85;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.editorial-lead strong {
+  font-weight: 500;
+}
+
+.editorial-body {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--text-body);
+}
+
+.editorial-body p {
+  margin-bottom: 20px;
+}
+
+/* High-Impact Architectural Feature Image */
+.feature-image-frame {
+  width: 100%;
+  aspect-ratio: 21 / 9;
+  min-height: 380px;
+  max-height: 600px;
+  overflow: hidden;
+  margin: clamp(40px, 6vh, 70px) 0;
+  border-radius: 0;
+  background-color: #F4F4F4;
+}
+
+.feature-image-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.btn-form-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 28px;
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--text-inverse);
+  background-color: var(--text-primary);
+  border-radius: 0;
+  border: 1px solid var(--text-primary);
+  transition: all var(--transition-fast);
+}
+
+.btn-form-cta:hover {
+  background-color: #333333;
+  border-color: #333333;
+}
+
+/* ==========================================================================
+   Work Page (`work.html`)
+   ========================================================================== */
+.page-work-header {
+  padding: calc(var(--nav-height) + 60px) 0 clamp(80px, 12vh, 140px);
+}
+
+.work-filter-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border-light);
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.filter-group {
+  display: flex;
+  gap: 32px;
+}
+
+.filter-btn {
+  font-size: 0.8rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  position: relative;
+  padding-bottom: 6px;
+  transition: color var(--transition-fast);
+}
+
+.filter-btn::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1.5px;
+  background-color: var(--text-primary);
+  transition: width var(--transition-fast);
+}
+
+.filter-btn:hover {
+  color: var(--text-primary);
+}
+
+.filter-btn.active {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.filter-btn.active::after {
+  width: 100%;
+}
+
+.filter-counter {
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+/* 2-Column Works Grid (Specht Novak Full-Width) */
+.works-grid-2col {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: clamp(24px, 4vw, 60px);
+  row-gap: clamp(48px, 8vh, 80px);
+}
+
+.project-card-item {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: opacity 0.4s var(--ease-out-expo);
+}
+
+.project-card-item:hover {
+  opacity: 0.82;
+}
+
+.project-thumb-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  background-color: #F4F4F4;
+  margin-bottom: 16px;
+  border-radius: 0;
+}
+
+.project-thumb-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.8s var(--ease-out-expo);
+}
+
+.project-card-item:hover .project-thumb-img {
+  transform: scale(1.025);
+}
+
+.project-card-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.project-meta-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+}
+
+.project-card-title {
+  font-family: var(--font-sans);
+  font-size: clamp(1.15rem, 1.45vw, 1.35rem);
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.project-card-title span.cn {
+  font-family: var(--font-serif-cn);
+  font-size: 0.95rem;
+  color: var(--text-body);
+  font-weight: 400;
+  margin-left: 8px;
+  opacity: 0.85;
+}
+
+.project-card-loc {
+  font-size: 0.74rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.project-card-type-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 0.82rem;
+  color: var(--text-body);
+}
+
+.project-scope-tag {
+  font-size: 0.76rem;
+  letter-spacing: 0.06em;
+  color: #78716C;
+}
+
+/* ==========================================================================
+   About Page (`about.html`)
+   ========================================================================== */
+.page-about-hero {
+  padding: calc(var(--nav-height) + 60px) 0 60px;
+}
+
+.about-intro-grid {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: clamp(40px, 6vw, 100px);
+  margin-bottom: clamp(60px, 10vh, 110px);
+}
+
+.about-lead-text {
+  font-family: var(--font-sans);
+  font-size: clamp(1.4rem, 2.4vw, 2rem);
+  font-weight: 300;
+  line-height: 1.45;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.about-lead-text strong {
+  font-weight: 500;
+}
+
+.about-body-text {
+  font-size: 1.02rem;
+  line-height: 1.85;
+  color: var(--text-body);
+}
+
+.about-body-text p {
+  margin-bottom: 20px;
+}
+
+/* ==========================================================================
+   Contact Page (`contact.html`) — Architectural Directory Layout
+   ========================================================================== */
+.page-contact {
+  padding: calc(var(--nav-height) + 60px) 0 clamp(90px, 14vh, 160px);
+}
+
+.contact-email-large {
+  font-family: var(--font-sans);
+  font-size: clamp(1.8rem, 3.6vw, 3.4rem);
+  font-weight: 400;
+  color: var(--text-primary);
+  display: inline-block;
+  letter-spacing: -0.02em;
+  border-bottom: 1.5px solid var(--text-primary);
+  padding-bottom: 6px;
+  line-height: 1.15;
+  transition: opacity var(--transition-fast), border-color var(--transition-fast);
+}
+
+.contact-email-large:hover {
+  opacity: 0.55;
+}
+
+/* 4-Column Architectural Practice Directory */
+.contact-directory-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: clamp(28px, 3.5vw, 56px);
+  margin-top: clamp(48px, 6vh, 72px);
+  padding-top: clamp(36px, 5vh, 52px);
+  border-top: 1px solid var(--border-light);
+}
+
+.contact-directory-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-dir-label {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 600;
+  margin-bottom: 16px;
+  display: block;
+}
+
+.contact-dir-title {
+  font-family: var(--font-serif-cn);
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+
+.contact-dir-desc {
+  font-size: 0.92rem;
+  color: var(--text-body);
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+
+.contact-action-link {
+  font-size: 0.92rem;
+  color: var(--text-primary);
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-medium);
+  padding-bottom: 3px;
+  margin-top: 6px;
+  width: fit-content;
+  transition: border-color var(--transition-fast), color var(--transition-fast);
+}
+
+.contact-action-link:hover {
+  border-color: var(--text-primary);
+}
+
+@media (max-width: 1080px) {
+  .contact-directory-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
+}
+
+@media (max-width: 640px) {
+  .contact-directory-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+}
+
+.contact-social-row {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.social-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  border: 1px solid var(--border-medium);
+  border-radius: 0;
+  color: var(--text-primary);
+  transition: all var(--transition-fast);
+}
+
+.social-action-btn:hover {
+  border-color: var(--text-primary);
+  background-color: var(--text-primary);
+  color: #FFFFFF;
+}
+
+.social-icon-svg {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  fill: none;
+}
+
+/* ==========================================================================
+   Footer (Specht Novak Minimalist Architectural Footer)
+   ========================================================================== */
+.site-footer {
+  background-color: var(--bg-primary);
+  color: var(--text-body);
+  padding: 32px 0;
+  border-top: 1px solid var(--border-light);
+}
+
+.footer-bottom-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.74rem;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.footer-bottom-links {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-bottom-links a {
+  color: var(--text-muted);
+  transition: opacity var(--transition-fast), color var(--transition-fast);
+}
+
+.footer-bottom-links a:hover {
+  color: var(--text-primary) !important;
+  opacity: 0.6;
+}
+
+/* ==========================================================================
+   Modals: Lightbox & WeChat QR
+   ========================================================================== */
+#lightbox {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(245, 245, 240, 0.98);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s var(--ease-out-expo);
+  padding: clamp(20px, 3vw, 40px);
+  color: var(--text-primary);
+}
+
+#lightbox.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.lb-top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--text-primary);
+  z-index: 2010;
+  border-bottom: 1px solid var(--border-light);
+  padding-bottom: 16px;
+}
+
+.lb-title-group h3 {
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  color: var(--text-primary);
+}
+
+.lb-title-group p {
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.lb-close-btn {
+  font-size: 0.8rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-primary);
+  padding: 8px 18px;
+  border: 1px solid var(--border-medium);
+  border-radius: 0;
+  transition: all var(--transition-fast);
+}
+
+.lb-close-btn:hover {
+  background-color: var(--text-primary);
+  color: var(--text-inverse);
+  border-color: var(--text-primary);
+}
+
+.lb-stage {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 180px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.lb-slide-track {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s var(--ease-out-expo);
+  align-items: center;
+}
+
+.lb-slide-item {
+  flex: 0 0 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 clamp(10px, 4vw, 40px);
+}
+
+.lb-slide-item img {
+  max-width: 90vw;
+  max-height: calc(100vh - 200px);
+  object-fit: contain;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.12);
+  border-radius: 0;
+}
+
+.lb-nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid var(--border-medium);
+  border-radius: 50%;
+  color: var(--text-primary);
+  z-index: 2010;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  transition: all var(--transition-fast);
+}
+
+.lb-nav-btn:hover {
+  background-color: var(--text-primary);
+  color: var(--text-inverse);
+  border-color: var(--text-primary);
+}
+
+.lb-nav-prev { left: 20px; }
+.lb-nav-next { right: 20px; }
+
+.lb-bottom-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  z-index: 2010;
+  overflow-x: auto;
+  max-width: 100%;
+  padding: 10px 0;
+}
+
+.lb-indicator-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: rgba(28, 25, 23, 0.2);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.lb-indicator-dot.active {
+  background-color: var(--text-primary);
+  transform: scale(1.4);
+}
+
+/* WeChat QR Modal */
+#wechat-modal {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(10, 10, 9, 0.88);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  z-index: 3000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.35s ease;
+}
+
+#wechat-modal.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.wechat-dialog-box {
+  background-color: #FFFFFF;
+  padding: 40px;
+  border-radius: 0;
+  text-align: center;
+  transform: translateY(20px);
+  transition: transform 0.4s var(--ease-out-expo);
+  max-width: 320px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+#wechat-modal.active .wechat-dialog-box {
+  transform: translateY(0);
+}
+
+.wechat-dialog-box img {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 20px;
+  border: 1px solid var(--border-light);
+}
+
+.wechat-dialog-box h4 {
+  font-family: var(--font-serif-cn);
+  font-size: 1.05rem;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+}
+
+.wechat-dialog-box p {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+/* Sticky Subnav for Methodology */
+.methodology-subnav {
+  position: sticky;
+  top: var(--nav-height);
+  z-index: 100;
+  background-color: var(--bg-glass-light);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-light);
+  padding: 14px 0;
+  margin-bottom: 40px;
+}
+
+.methodology-subnav-list {
+  display: flex;
+  gap: clamp(16px, 2.5vw, 36px);
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none;
+}
+
+.methodology-subnav-list::-webkit-scrollbar {
+  display: none;
+}
+
+.methodology-subnav-item {
+  font-size: 0.84rem;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+  transition: color var(--transition-fast);
+}
+
+.methodology-subnav-item:hover {
+  color: var(--text-primary);
+}
+
+/* ==========================================================================
+   Responsive Breakpoints
+   ========================================================================== */
+
+@media (max-width: 1024px) {
+  .editorial-grid,
+  .contact-layout-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .site-header {
+    height: 70px;
+  }
+  .nav-menu {
+    display: none;
+  }
+  .burger-btn {
+    display: flex;
+  }
+  .works-grid-2col {
+    grid-template-columns: 1fr;
+    row-gap: 24px;
+  }
+  .hero-discipline-title {
+    font-size: 2.1rem;
+  }
+  .hero-positioning-quote {
+    font-size: 0.95rem;
+  }
+  #hero {
+    height: auto;
+    min-height: calc(100vh - 20px);
+    padding-bottom: 24px;
+  }
+  .hero-slider-frame {
+    height: clamp(300px, 54vh, 480px);
+    flex: none;
+  }
+  .hero-meta-bar {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+  }
+  .hero-project-name {
+    font-size: 0.98rem;
+  }
+  .feature-image-frame {
+    aspect-ratio: 16 / 9;
+    min-height: 240px;
+  }
+  .footer-links-group {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .footer-bottom-bar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+/* ==========================================================================
+   Project Detail Page Architecture (Specht Novak Benchmark)
+   ========================================================================== */
+.page-project-detail {
+  background-color: var(--bg-primary);
+}
+
+.project-page-main {
+  padding-top: calc(var(--nav-height) + clamp(16px, 2.5vh, 28px));
+  padding-bottom: clamp(60px, 8vh, 100px);
+}
+
+/* 1. Hero Framed Image */
+.project-hero-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  max-height: 820px;
+  overflow: hidden;
+  border-radius: 0;
+  background-color: #F4F4F4;
+}
+
+.project-hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* 2. Project Title and 3-Column Architectural Meta Grid */
+.project-meta-section {
+  margin-top: clamp(32px, 5vh, 48px);
+  margin-bottom: clamp(48px, 7vh, 80px);
+}
+
+.project-title-header {
+  margin-bottom: clamp(28px, 4vh, 42px);
+  border-bottom: 1px solid var(--border-light);
+  padding-bottom: clamp(20px, 3vh, 32px);
+}
+
+.project-page-title {
+  font-family: var(--font-sans);
+  font-size: clamp(1.8rem, 3.2vw, 2.85rem);
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
+.project-page-title span.cn {
+  font-family: var(--font-serif-cn);
+  font-weight: 400;
+  font-size: 0.9em;
+  color: var(--text-secondary);
+  margin-left: 12px;
+}
+
+.project-page-loc {
+  font-size: 0.96rem;
+  color: var(--text-muted);
+  margin-top: 8px;
+  letter-spacing: 0.02em;
+}
+
+/* 3-Column Architecture Meta Grid */
+.project-detail-3col {
+  display: grid;
+  grid-template-columns: 240px 1.55fr 240px;
+  gap: clamp(28px, 4.5vw, 64px);
+  align-items: start;
+}
+
+.pd-meta-label {
+  display: block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.pd-meta-val {
+  display: block;
+  font-size: 0.92rem;
+  color: var(--text-primary);
+  line-height: 1.55;
+}
+
+.pd-meta-item {
+  margin-bottom: 20px;
+}
+
+.pd-narrative-col .pd-narrative-p {
+  font-size: clamp(0.96rem, 1.08vw, 1.08rem);
+  line-height: 1.85;
+  color: var(--text-secondary);
+  margin-bottom: 22px;
+}
+
+.pd-highlights-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pd-highlights-list li {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+  position: relative;
+  padding-left: 14px;
+}
+
+.pd-highlights-list li::before {
+  content: '—';
+  position: absolute;
+  left: 0;
+  color: var(--text-muted);
+}
+
+.pd-standard-desc {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--text-muted);
+  margin-top: 6px;
+}
+
+/* 3. Vertical Gallery Photo Stream (上下滚动查看项目其他图片) */
+.project-gallery-stream {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(24px, 4vh, 48px);
+  margin-bottom: clamp(64px, 10vh, 110px);
+}
+
+.project-gallery-row {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 0;
+  background-color: #F4F4F4;
+}
+
+.project-gallery-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+/* 4. Related Projects Section */
+.related-projects-section {
+  border-top: 1px solid var(--border-light);
+  padding-top: clamp(48px, 7vh, 80px);
+  margin-bottom: clamp(48px, 7vh, 80px);
+}
+
+.related-header {
+  margin-bottom: 28px;
+}
+
+.section-kicker {
+  font-family: var(--font-sans);
+  font-size: 0.74rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--text-muted);
+  display: block;
+  margin-bottom: 6px;
+}
+
+.related-card-meta {
+  padding-top: 2px;
+}
+
+.pd-credits-col,
+.pd-highlights-col {
+  min-width: 0;
+}
+
+.related-title {
+  font-family: var(--font-sans);
+  font-size: clamp(1.4rem, 2vw, 1.85rem);
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+  margin-top: 4px;
+}
+
+.related-projects-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: clamp(16px, 2.5vw, 32px);
+}
+
+.related-project-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: opacity 0.4s var(--ease-out-expo);
+}
+
+.related-project-card:hover {
+  opacity: 0.82;
+}
+
+.related-thumb-wrap {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: 0;
+  background-color: #F4F4F4;
+  margin-bottom: 14px;
+}
+
+.related-thumb-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.8s var(--ease-out-expo);
+}
+
+.related-project-card:hover .related-thumb-img {
+  transform: scale(1.035);
+}
+
+.related-card-title {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+  letter-spacing: -0.01em;
+}
+
+.related-card-title span.cn {
+  font-family: var(--font-serif-cn);
+  font-weight: 400;
+  color: var(--text-muted);
+  font-size: 0.9em;
+  margin-left: 6px;
+}
+
+.related-card-loc {
+  font-size: 0.86rem;
+  color: var(--text-muted);
+}
+
+@media (max-width: 960px) {
+  .project-detail-3col {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+  .related-projects-grid {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+}
+
+/* ==========================================================================
+   Home Section: Selected Works Archive (Specht Novak Register Style)
+   ========================================================================== */
+.specht-section {
+  padding: clamp(60px, 8vh, 110px) 0;
+  border-top: 1px solid var(--border-light);
+  background-color: var(--bg-primary);
+}
+
+.specht-header-wrap {
+  margin-bottom: clamp(32px, 4vh, 48px);
+}
+
+.specht-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 500;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.specht-heading {
+  font-family: var(--font-serif-cn);
+  font-size: clamp(1.85rem, 3vw, 2.75rem);
+  font-weight: 400;
+  line-height: 1.35;
+  color: var(--text-primary);
+  letter-spacing: 0.02em;
+}
+
+/* Specht Novak 3-Column Register List */
+.specht-archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.specht-archive-item {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr auto;
+  gap: 1.5rem;
+  padding: 16px 0;
+  border-top: 1px solid var(--border-light);
+  align-items: baseline;
+  transition: background-color var(--transition-fast);
+}
+
+.specht-archive-item:last-child {
+  border-bottom: 1px solid var(--border-light);
+}
+
+.specht-archive-year {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: 0.04em;
+}
+
+.specht-archive-title-wrap {
+  margin: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.specht-archive-link {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--text-primary);
+  transition: color var(--transition-fast);
+}
+
+.specht-archive-link:hover .specht-title-main {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.specht-title-main {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.specht-title-sub {
+  font-size: 0.88rem;
+  font-family: var(--font-serif-cn);
+  color: var(--text-muted);
+}
+
+.specht-archive-meta {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .specht-archive-item {
+    grid-template-columns: 4rem 1fr;
+    gap: 0.75rem;
+    padding: 14px 0;
+  }
+
+  .specht-archive-meta {
+    grid-column: 2 / -1;
+    text-align: left;
+    font-size: 0.82rem;
+    margin-top: 2px;
+  }
+}
+.specht-archive-cta {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: clamp(28px, 4vh, 40px);
+}
+
+/* ==========================================================================
+   v2.3 Content Components (Services / About / Contact / Home)
+   ========================================================================== */
+
+/* Page lead paragraph under H1 */
+.page-lead {
+  margin-top: 16px;
+  font-size: clamp(1rem, 1.3vw, 1.1rem);
+  color: var(--text-body);
+  max-width: 780px;
+  line-height: 1.85;
+}
+
+.section-intro {
+  font-size: 0.96rem;
+  color: var(--text-body);
+  line-height: 1.85;
+  max-width: 780px;
+  margin: -20px 0 36px;
+}
+
+/* Phase list: professional delivery stages */
+.phase-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid var(--border-medium);
+}
+
+.phase-row {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) 1.3fr 1fr;
+  gap: clamp(24px, 3vw, 56px);
+  padding: clamp(28px, 3.5vh, 40px) 0;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.phase-head .phase-num {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  color: var(--text-muted);
+  display: block;
+  margin-bottom: 8px;
+}
+
+.phase-head h3 {
+  font-family: var(--font-serif-cn);
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.phase-head .phase-en {
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-size: 0.86rem;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  display: block;
+}
+
+.phase-head .phase-duration {
+  display: inline-block;
+  margin-top: 14px;
+  font-size: 0.76rem;
+  letter-spacing: 0.08em;
+  color: var(--text-primary);
+  border: 1px solid var(--border-medium);
+  padding: 3px 10px;
+  border-radius: 0;
+}
+
+.phase-col-label {
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 600;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.phase-work p {
+  font-size: 0.92rem;
+  line-height: 1.8;
+  color: var(--text-body);
+}
+
+.phase-output ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.86rem;
+  line-height: 1.6;
+  color: var(--text-body);
+}
+
+.phase-output ul li::before {
+  content: '□ ';
+  color: var(--text-muted);
+}
+
+.phase-signoff {
+  margin-top: 14px;
+  font-size: 0.82rem;
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.phase-signoff::before {
+  content: '◆ ';
+  font-size: 0.7rem;
+  color: var(--text-muted);
+}
+
+/* Team list (Specht Novak people register) */
+.team-principal {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: clamp(32px, 5vw, 80px);
+  align-items: start;
+  margin-bottom: clamp(48px, 6vh, 72px);
+}
+
+.team-principal-name {
+  font-family: var(--font-serif-cn);
+  font-size: clamp(1.5rem, 2.2vw, 2rem);
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.team-principal-role {
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-top: 6px;
+  display: block;
+}
+
+.team-principal-bio p {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--text-body);
+  margin-bottom: 16px;
+}
+
+.team-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid var(--border-medium);
+}
+
+.team-list li {
+  display: grid;
+  grid-template-columns: 4rem minmax(200px, 0.8fr) 1.6fr;
+  gap: 1.5rem;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--border-light);
+  align-items: baseline;
+}
+
+.team-list .team-count {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.team-list .team-role {
+  font-family: var(--font-serif-cn);
+  font-size: 1.02rem;
+  color: var(--text-primary);
+}
+
+.team-list .team-role span {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+  margin-top: 2px;
+}
+
+.team-list .team-desc {
+  font-size: 0.88rem;
+  line-height: 1.7;
+  color: var(--text-body);
+}
+
+/* Contact next-steps list */
+.next-steps-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  counter-reset: step;
+}
+
+.next-steps-list li {
+  counter-increment: step;
+  display: grid;
+  grid-template-columns: 2.4rem 1fr;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-light);
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--text-body);
+}
+
+.next-steps-list li::before {
+  content: counter(step, decimal-leading-zero);
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  padding-top: 2px;
+}
+
+.next-steps-list li strong {
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+@media (max-width: 1024px) {
+  .phase-row {
+    grid-template-columns: 1fr 1fr;
+  }
+  .phase-head {
+    grid-column: 1 / -1;
+  }
+  .team-principal {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .phase-row {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+  .team-list li {
+    grid-template-columns: 3rem 1fr;
+  }
+  .team-list .team-desc {
+    grid-column: 2 / -1;
+  }
+}
+
+/* ==========================================================================
+   Cultural Archive Styles (ABBS Memory)
+   ========================================================================== */
+.archive-manifesto {
+  max-width: 780px;
+  margin: 0 auto clamp(60px, 8vh, 100px);
+}
+
+.archive-catalog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.archive-catalog-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  padding: 24px;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.archive-catalog-card:hover {
+  border-color: var(--border-medium);
+  transform: translateY(-2px);
+}
+
+.archive-item-num {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  letter-spacing: 0.1em;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.archive-item-title {
+  font-size: 1.05rem;
+  font-family: var(--font-serif-cn);
+  color: var(--text-primary);
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.archive-item-meta {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid var(--border-light);
+  padding-top: 12px;
+  margin-top: 16px;
+}
+
+.archive-disclaimer-box {
+  margin-top: clamp(60px, 8vh, 90px);
+  padding: clamp(28px, 3.5vw, 40px) 0;
+  background: var(--bg-primary);
+  border-top: 1px solid var(--border-medium);
+  font-size: 0.88rem;
+  color: var(--text-body);
+  line-height: 1.8;
+}
+
