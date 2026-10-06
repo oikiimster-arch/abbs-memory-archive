@@ -347,16 +347,22 @@
     let threadData = null;
     let currentMode = 'chronicle'; // 'chronicle' or 'dialogue'
 
+    const urlParams = new URLSearchParams(window.location.search);
+    const expId = urlParams.get('expedition') || '19-shanxi';
+
     async function loadThread() {
       try {
-        const res = await fetch('archive_poc/shanxi_1/thread.json');
+        const res = await fetch('data/' + expId + '/thread.json');
         threadData = await res.json();
+        document.getElementById('thread-title').textContent = threadData.title || 'ABBS 历史图记';
+        document.getElementById('thread-op').textContent = threadData.op_author || '原帖楼主';
+        document.title = (threadData.title || 'ABBS 文献') + ' — ABBS 记忆文献归档 · 见素工作室';
         render();
       } catch (e) {
         console.error('Error loading thread.json', e);
         document.getElementById('content-container').innerHTML = `
           <div style="text-align: center; padding: 60px 0; color: #cc0000;">
-            加载文献数据失败，请确认本地 HTTP 服务已启动。
+            加载文献数据失败，请确认 data/` + expId + `/thread.json 是否存在。
           </div>
         `;
       }
@@ -374,9 +380,9 @@
       if (!threadData) return;
       const container = document.getElementById('content-container');
       container.innerHTML = '';
+      const imgPrefix = 'data/' + expId + '/images/';
 
       if (currentMode === 'chronicle') {
-        // Render only OP floors, with embedded community dialogue expanders below
         const opFloors = threadData.floors.filter(f => f.is_op);
         
         opFloors.forEach((floor, idx) => {
@@ -393,7 +399,7 @@
               </div>
             </div>
             <div class="abbs-post-body">
-              ${floor.content.replace(/src="images\//g, 'src="archive_poc/shanxi_1/images/')}
+              ${floor.content.replace(/src="images\//g, 'src="' + imgPrefix)}
             </div>
           `;
           container.appendChild(card);
@@ -414,7 +420,7 @@
                 当期学人思辨与回帖全记录（共 ${replies.length} 条发言）
               </h3>
               <p style="font-size: 0.88rem; color: var(--text-muted); margin-top: 8px;">
-                记录 2005 年 3 月 ABBS 论坛同侪学者、青年学子与楼主“心在门外”的即时讨论与空间探讨。
+                记录当年 ABBS 论坛同侪学者、青年学子与楼主的即时讨论与空间探讨。
               </p>
             </div>
           `;
@@ -432,7 +438,7 @@
                 <span class="abbs-reply-time">${rep.time}</span>
               </div>
               <div class="abbs-reply-body">
-                ${rep.content.replace(/src="images\//g, 'src="archive_poc/shanxi_1/images/')}
+                ${rep.content.replace(/src="images\//g, 'src="' + imgPrefix)}
               </div>
             `;
             dialogueBox.appendChild(repCard);
@@ -442,14 +448,13 @@
         }
 
       } else {
-        // Full BBS timeline stream mode: render all 25 floors chronologically
         const headerNote = document.createElement('div');
         headerNote.style.marginBottom = '40px';
         headerNote.style.padding = '18px 24px';
         headerNote.style.background = '#F9F9F9';
         headerNote.style.border = '1px solid var(--border-light)';
         headerNote.innerHTML = `
-          <strong style="color: var(--text-primary);">论坛现场还原模式</strong>：按时间先后顺序呈现 2005-03-10 起 1 楼至 25 楼的全部原始回帖交流，包含建筑评价、路线指引与作者即时答辩。
+          <strong style="color: var(--text-primary);">论坛现场还原模式</strong>：按时间先后顺序呈现全部原始回帖交流（共 ${threadData.floors.length} 楼），包含建筑评价、路线指引与作者即时答辩。
         `;
         container.appendChild(headerNote);
 
@@ -466,7 +471,7 @@
               <span class="abbs-reply-time">${floor.time}</span>
             </div>
             <div class="abbs-reply-body">
-              ${floor.content.replace(/src="images\//g, 'src="archive_poc/shanxi_1/images/')}
+              ${floor.content.replace(/src="images\//g, 'src="' + imgPrefix)}
             </div>
           `;
           container.appendChild(item);
