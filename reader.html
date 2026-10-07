@@ -290,28 +290,23 @@
         </a>
 
         <div class="abbs-meta-badge-bar">
-          <span class="abbs-badge abbs-badge-gold">EXPEDITION 19 · 卷一</span>
+          <span class="abbs-badge abbs-badge-gold" id="thread-badge-exp">EXPEDITION</span>
           <span class="abbs-badge">ABBS 建筑论坛 (2000–2010)</span>
           <span class="abbs-badge">非商业公益数字抢救文献</span>
           <span class="abbs-badge">已完成离线清洗与图文重构</span>
         </div>
 
-        <h1 class="abbs-title" id="thread-title">人说山西好风光（卷一）</h1>
+        <h1 class="abbs-title" id="thread-title">ABBS 历史图记</h1>
 
         <div class="abbs-author-bar">
           <div>
-            <span>原帖楼主：</span>
-            <span class="abbs-author-name" id="thread-op">心在门外</span>
+            <span>原帖著者：</span>
+            <span class="abbs-author-name" id="thread-op">著者</span>
             <span style="margin: 0 8px;">·</span>
-            <span>原始首发：2005-03-10</span>
-            <span style="margin: 0 8px;">·</span>
-            <span>考察地点：山西 (大同·浑源·悬空寺·云冈石窟)</span>
+            <span id="thread-date">首发记录</span>
           </div>
-          <div style="font-family: var(--font-mono); font-size: 0.82rem;">
-            <span>全文 25 楼</span>
-            <span style="margin: 0 6px;">(正文 10 楼 / 学人回帖 15 楼)</span>
-            <span style="margin: 0 6px;">·</span>
-            <span>24 幅历史照片</span>
+          <div style="font-family: var(--font-mono); font-size: 0.82rem;" id="thread-stats">
+            <span>正在加载文献统计...</span>
           </div>
         </div>
       </div>
@@ -373,6 +368,26 @@
         document.getElementById('thread-title').textContent = threadData.title || 'ABBS 历史图记';
         document.getElementById('thread-op').textContent = threadData.op_author || '原帖楼主';
         document.title = (threadData.title || 'ABBS 文献') + ' — ABBS 记忆文献归档 · 见素工作室';
+
+        const expNum = expId.split('-')[0];
+        const badgeEl = document.getElementById('thread-badge-exp');
+        if (badgeEl) {
+          badgeEl.textContent = `EXPEDITION ${expNum}`;
+        }
+        const firstFloor = threadData.floors && threadData.floors[0];
+        const timeEl = document.getElementById('thread-date');
+        if (timeEl && firstFloor && firstFloor.time) {
+          timeEl.textContent = `首发记录：${firstFloor.time}`;
+        }
+        const statsEl = document.getElementById('thread-stats');
+        if (statsEl) {
+          statsEl.innerHTML = `
+            <span>全文 ${threadData.total_floors || 0} 楼</span>
+            <span style="margin: 0 6px;">(著述 ${threadData.op_floors || 0} 楼 / 学人回帖 ${threadData.reply_floors || 0} 楼)</span>
+            <span style="margin: 0 6px;">·</span>
+            <span>${threadData.total_images || 0} 幅历史照片</span>
+          `;
+        }
         render();
       } catch (e) {
         console.error('Error loading thread.json', e);

@@ -31,7 +31,7 @@
 
 ## 📚 首期文献修复目录清单 (Archival Index · 24 Expeditions)
 
-> **全辑 24 卷已全部抢救修复并全量上线**：共计归档 **3,433 楼** 学人深度讨论与互动、**4,621 张** 珍贵历史建筑摄影与实测影像。点击文献题名即可直接进入双态阅读器查阅。
+> **全辑 24 卷已全部抢救修复并全量上线**：共计归档 **3,433 楼** 学人深度讨论与互动、**4,889 张** 珍贵历史建筑摄影与实测影像。点击文献题名即可直接进入双态阅读器查阅。
 
 | 编号 | 文献题名 | 考察区域 / 主题 | 原始楼主 | 归档上线状态 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -56,7 +56,7 @@
 | **19** | [**人说山西好风光 ―― 晋中晋北古建全辑**](https://oikiimster-arch.github.io/abbs-memory-archive/reader.html?expedition=19-shanxi) | 中国山西 (Shanxi) · 木构大木作与晋商民居 | 心在门外 | 🟢 **已全量上线 (225 楼 · 103 图)** |
 | **20** | [**恋恋巴厘 · 东南亚热带风土与海岛栖居**](https://oikiimster-arch.github.io/abbs-memory-archive/reader.html?expedition=20-bali) | 印度尼西亚 (Bali) · 东南亚热带风土与海岛栖居 | 在路上 | 🟢 **已全量上线 (2 楼 · 103 图)** |
 | **21** | [**Incredible India · 印度建筑与城市**](https://oikiimster-arch.github.io/abbs-memory-archive/reader.html?expedition=21-incredible-india) | 印度 (Incredible India) · 次大陆现代与传统交融 | 好风好水 | 🟢 **已全量上线 (100 楼 · 203 图)** |
-| **22** | [**大勇和小花的欧洲日记 ―― 深度欧陆行行纪**](https://oikiimster-arch.github.io/abbs-memory-archive/reader.html?expedition=22-europe-diary) | 欧洲多国 (Europe) · 青年建筑师背包漫游行纪 | 大勇和小花 (被遗忘的时光) | 🟢 **已全量上线 (24 楼 · 28 图)** |
+| **22** | [**大勇和小花的欧洲日记 ―― 深度欧陆行行纪**](https://oikiimster-arch.github.io/abbs-memory-archive/reader.html?expedition=22-europe-diary) | 欧洲多国 (Europe) · 青年建筑师背包漫游行纪 | 大勇和小花 (被遗忘的时光) | 🟢 **已全量上线 (24 楼 · 296 图)** |
 | **23** | [**京都古刹巡礼 ―― 枯山水庭园与禅宗空间**](https://oikiimster-arch.github.io/abbs-memory-archive/reader.html?expedition=23-kyoto) | 日本京都 (Kyoto) · 枯山水庭园与禅宗空间 | 见素建筑文献组 | 🟢 **已全量上线 (20 楼 · 19 图)** |
 | **24** | [**江南水乡空间记 ―― 乌镇埠头与河街肌理**](https://oikiimster-arch.github.io/abbs-memory-archive/reader.html?expedition=24-wuzhen) | 中国江南 (Wuzhen) · 传统水乡原生建筑肌理 | 水乡空间考察组 | 🟢 **已全量上线 (75 楼 · 74 图)** |
 
